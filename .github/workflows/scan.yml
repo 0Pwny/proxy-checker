@@ -1,0 +1,103 @@
+name: Proxy Scan
+
+on:
+  schedule:
+    - cron: '0 */8 * * *'  # every 8 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: proxy-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run proxy checker
+        env:
+          # Optionally set a webhook here if you want CI notifications
+          # DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          # If you have an ip-api.com Pro key, add it as a repo secret named IP_API_KEY and uncomment below
+          # IP_API_KEY: ${{ secrets.IP_API_KEY }}
+          # Keep Geo off for speed and API friendliness in CI
+          PYTHONUNBUFFERED: '1'
+        run: |
+          python app.py
+
+      - name: Prepare proxies folder
+        run: |
+          mkdir -p proxies
+          if [ -f alive_proxies.txt ]; then mv -f alive_proxies.txt proxies/alive_proxies.txt; else :; fi
+          if [ -f alive_proxies.jsonl ]; then mv -f alive_proxies.jsonl proxies/alive_proxies.jsonl; else :; fi
+
+      - name: Update README status block
+        run: |
+          python - << 'PY'
+          import re, os, time, io
+          p='README.md'
+          with io.open(p, 'r', encoding='utf-8') as f:
+            s = f.read()
+          def count_lines(fp):
+            try:
+              with io.open(fp,'r',encoding='utf-8') as f:
+                return sum(1 for _ in f)
+            except Exception:
+              return 0
+          def file_size(fp):
+            try:
+              return os.path.getsize(fp)
+            except Exception:
+              return 0
+          count = count_lines('proxies/alive_proxies.txt')
+          size_txt = file_size('proxies/alive_proxies.txt')
+          size_jsonl = file_size('proxies/alive_proxies.jsonl')
+          def fmt_size(n):
+            for unit in ['B','KB','MB','GB']:
+              if n < 1024.0:
+                return f"{n:.1f}{unit}"
+              n /= 1024.0
+            return f"{n:.1f}TB"
+          stamp = time.strftime('%Y-%m-%d %H:%M UTC', time.gmtime())
+          txt_link = '[proxies/alive_proxies.txt](proxies/alive_proxies.txt)' if size_txt else '—'
+          jsonl_link = '[proxies/alive_proxies.jsonl](proxies/alive_proxies.jsonl)' if size_jsonl else '—'
+          size_col = f"{fmt_size(size_txt) if size_txt else '—'} / {fmt_size(size_jsonl) if size_jsonl else '—'}"
+          table = (
+          "<!-- PROXY_STATUS:START -->\n"
+          "| 🌐 Updated (UTC) | ✅ Alive | 📄 TXT | 📜 JSONL | 📦 Size (TXT/JSONL) |\n"
+          "|---|---:|---|---|---|\n"
+          f"| {stamp} | {count} | {txt_link} | {jsonl_link} | {size_col} |\n"
+          "<!-- PROXY_STATUS:END -->"
+          )
+          s = re.sub(r'<!-- PROXY_STATUS:START -->.*?<!-- PROXY_STATUS:END -->', table, s, flags=re.S)
+          with io.open(p, 'w', encoding='utf-8') as f:
+            f.write(s)
+          PY
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A proxies README.md || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update proxies and README [skip ci]"
+            git push
+          fi

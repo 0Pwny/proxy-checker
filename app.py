@@ -12,10 +12,11 @@ from random import shuffle
 
 import requests
 import resource
+import queue
 
 # --------------------- Defaults ---------------------
 DEFAULT_TIMEOUT = 2.0      # hard per-proxy wall-clock budget (seconds)
-DEFAULT_WORKERS = 200
+DEFAULT_WORKERS = 1000
 FETCH_WORKERS = 32
 GEO_WORKERS = 16
 
@@ -113,6 +114,8 @@ geo_lock   = threading.Lock()
 good_proxies = {}   # proxy -> {"supports": set(["http","https"]), "country": str|None, "country_code": str|None, "isp": str|None, "is_mobile": bool|None, "is_proxy": bool|None, "is_hosting": bool|None}
 all_results  = []   # for final JSON array
 emitted_jsonl = set()
+discord_notifier = None  # set in main if webhook configured
+ip_api_key = None  # set in main if provided
 
 # Progress counters
 processed_count = 0
@@ -253,46 +256,36 @@ def geo_ip_via_proxy(proxy: str, timeout: float = 2.0) -> tuple[str | None, str 
         "https": f"http://{proxy}",
     }
     fields = "status,country,countryCode,isp,mobile,proxy,hosting,query"
-    # Try HTTP first
-    try:
-        r = requests.get(
-            f"http://ip-api.com/json/?fields={fields}",
-            proxies=proxies,
-            timeout=timeout,
-        )
-        if r.status_code == 200:
-            data = r.json()
-            if data.get("status") == "success":
-                return (
-                    data.get("country"),
-                    data.get("countryCode"),
-                    data.get("isp"),
-                    data.get("mobile"),
-                    data.get("proxy"),
-                    data.get("hosting"),
-                )
-    except Exception:
-        pass
-    # Fallback to HTTPS via CONNECT
-    try:
-        r = requests.get(
-            f"https://ip-api.com/json/?fields={fields}",
-            proxies=proxies,
-            timeout=timeout,
-        )
-        if r.status_code == 200:
-            data = r.json()
-            if data.get("status") == "success":
-                return (
-                    data.get("country"),
-                    data.get("countryCode"),
-                    data.get("isp"),
-                    data.get("mobile"),
-                    data.get("proxy"),
-                    data.get("hosting"),
-                )
-    except Exception:
-        pass
+    # Prefer Pro endpoint if API key available
+    key = ip_api_key
+    endpoints = []
+    if key:
+        endpoints.extend([
+            f"https://pro.ip-api.com/json/?fields={fields}&key={key}",
+            f"http://pro.ip-api.com/json/?fields={fields}&key={key}",
+        ])
+    # Fallback to free
+    endpoints.extend([
+        f"https://ip-api.com/json/?fields={fields}",
+        f"http://ip-api.com/json/?fields={fields}",
+    ])
+
+    for url in endpoints:
+        try:
+            r = requests.get(url, proxies=proxies, timeout=timeout)
+            if r.status_code == 200:
+                data = r.json()
+                if data.get("status") == "success":
+                    return (
+                        data.get("country"),
+                        data.get("countryCode"),
+                        data.get("isp"),
+                        data.get("mobile"),
+                        data.get("proxy"),
+                        data.get("hosting"),
+                    )
+        except Exception:
+            pass
     return None, None, None, None, None, None
 
 # --------------------- IO helpers --------------------
@@ -309,6 +302,143 @@ def append_jsonl_once(obj: dict):
         emitted_jsonl.add(key)
         with open(OUT_JSONL, "a", encoding="utf-8") as f:
             f.write(json.dumps(obj, ensure_ascii=False) + "\n")
+
+# --------------------- Discord Notifier --------------------
+class DiscordNotifier:
+    def __init__(self, webhook_url: str, username: str | None = None):
+        self.webhook_url = webhook_url.strip()
+        self.username = username or "Proxy Checker"
+        self.q: queue.Queue = queue.Queue(maxsize=2048)
+        self.alive = True
+        self.worker = threading.Thread(target=self._run, name="discord-notifier", daemon=True)
+        self.worker.start()
+
+    def _post(self, payload: dict):
+        try:
+            r = requests.post(self.webhook_url, json=payload, timeout=10)
+            if r.status_code == 429:
+                # respect rate limit
+                try:
+                    retry = float(r.json().get("retry_after", 1.5))
+                except Exception:
+                    retry = 1.5
+                time.sleep(min(10.0, max(0.5, retry)))
+            elif r.status_code >= 400:
+                # backoff a bit on errors to avoid hot loop
+                time.sleep(0.5)
+        except Exception:
+            # swallow and continue; best-effort notifier
+            time.sleep(0.5)
+
+    def _run(self):
+        while self.alive or not self.q.empty():
+            try:
+                item = self.q.get(timeout=0.25)
+            except Exception:
+                continue
+            if item is None:
+                break
+            self._post(item)
+            self.q.task_done()
+
+    @staticmethod
+    def _flag_emoji(country_code: str | None) -> str:
+        if not country_code or len(country_code) != 2:
+            return "🏳️"
+        cc = country_code.upper()
+        base = 127397
+        try:
+            return chr(ord(cc[0]) + base) + chr(ord(cc[1]) + base)
+        except Exception:
+            return "🏳️"
+
+    @staticmethod
+    def _yn_bool(v: bool | None) -> str:
+        if v is True:
+            return "Yes"
+        if v is False:
+            return "No"
+        return "Unknown"
+
+    def send_hit(self, obj: dict):
+        proxy = obj.get("proxy")
+        country = obj.get("country")
+        cc = obj.get("country_code")
+        isp = obj.get("isp")
+        mobile = obj.get("is_mobile")
+        proxy_flag = obj.get("is_proxy")
+        hosting = obj.get("is_hosting")
+        supports = obj.get("supports") or []
+
+        flag = self._flag_emoji(cc)
+        title = f"✅ Alive Proxy {flag}"
+        desc = f"`{proxy}`"
+        color = 0x57F287  # Discord green
+        fields = []
+        fields.append({"name": "Country", "value": f"{flag} {country or 'Unknown'} ({cc or '??'})", "inline": True})
+        fields.append({"name": "ISP", "value": isp or "Unknown", "inline": True})
+        fields.append({"name": "Supports", "value": ", ".join(supports) or "—", "inline": True})
+        fields.append({"name": "Mobile", "value": f"📱 {self._yn_bool(mobile)}", "inline": True})
+        fields.append({"name": "Proxy", "value": f"🛡️ {self._yn_bool(proxy_flag)}", "inline": True})
+        fields.append({"name": "Hosting", "value": f"🏢 {self._yn_bool(hosting)}", "inline": True})
+
+        embed = {
+            "title": title,
+            "description": desc,
+            "color": color,
+            "fields": fields,
+            "footer": {"text": time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())},
+        }
+        payload = {
+            "username": self.username,
+            "allowed_mentions": {"parse": []},
+            "embeds": [embed],
+        }
+        try:
+            self.q.put_nowait(payload)
+        except queue.Full:
+            # drop if overloaded
+            pass
+
+    def send_summary(self, total: int, good: int, duration_sec: float, top_countries: list[tuple[str, int]]):
+        color = 0x5865F2  # blurple
+        title = "🎉 Proxy Scan Completed"
+        fields = [
+            {"name": "Alive", "value": f"✅ {good}", "inline": True},
+            {"name": "Total Processed", "value": f"{total}", "inline": True},
+            {"name": "Duration", "value": f"{duration_sec:.1f}s", "inline": True},
+        ]
+        if top_countries:
+            lines = []
+            for cc, cnt in top_countries[:10]:
+                lines.append(f"{self._flag_emoji(cc)} {cc or '??'} — {cnt}")
+            fields.append({"name": "Top Countries", "value": "\n".join(lines), "inline": False})
+        embed = {
+            "title": title,
+            "color": color,
+            "fields": fields,
+            "timestamp": time.strftime("%Y-%m-%dT%H:%M:%S.000Z", time.gmtime()),
+        }
+        payload = {
+            "username": self.username,
+            "allowed_mentions": {"parse": []},
+            "embeds": [embed],
+        }
+        try:
+            self.q.put_nowait(payload)
+        except queue.Full:
+            pass
+
+    def close(self):
+        self.alive = False
+        try:
+            self.q.put_nowait(None)
+        except Exception:
+            pass
+        try:
+            self.worker.join(timeout=5)
+        except Exception:
+            pass
 
 # --------------------- Checker -----------------------
 def check_single(proxy: str, timeout: float, do_geo: bool, geo_pool: cf.ThreadPoolExecutor | None):
@@ -369,6 +499,12 @@ def check_single(proxy: str, timeout: float, do_geo: bool, geo_pool: cf.ThreadPo
             }
             all_results.append(obj)
         append_jsonl_once(obj)
+        # Send Discord notification for this hit
+        if discord_notifier:
+            try:
+                discord_notifier.send_hit(obj)
+            except Exception:
+                pass
         # No geo print
 
     if do_geo:
@@ -387,6 +523,11 @@ def check_single(proxy: str, timeout: float, do_geo: bool, geo_pool: cf.ThreadPo
             }
             all_results.append(obj)
         append_jsonl_once(obj)
+        if discord_notifier:
+            try:
+                discord_notifier.send_hit(obj)
+            except Exception:
+                pass
 
 # --------------------- Auto worker sizing ---------------------
 def _mem_available_bytes() -> int | None:
@@ -422,8 +563,8 @@ def _compute_auto_worker_cap(requested: int) -> tuple[int, dict]:
     else:
         allowed_by_nproc = max(16, int(nproc_soft - 50))  # leave headroom
 
-    cpu = os.cpu_count() or 1
-    allowed_by_cpu = max(64, cpu * 200)  # IO-bound, aggressive but bounded
+    # Don't limit by CPU for IO-bound proxy checks; set a high ceiling
+    allowed_by_cpu = 10000
 
     mem_avail = _mem_available_bytes()
     per_thread_stack = 512 * 1024  # 512 KiB (we set this below)
@@ -435,11 +576,8 @@ def _compute_auto_worker_cap(requested: int) -> tuple[int, dict]:
     hard_cap = 3000
     cap = int(max(16, min(allowed_by_fd, allowed_by_nproc, allowed_by_cpu, allowed_by_mem, hard_cap)))
 
-    # If user left default (200), treat as "auto": take cap; else clamp.
-    if requested == DEFAULT_WORKERS:
-        chosen = cap
-    else:
-        chosen = max(16, min(requested, cap))
+    # Always clamp to system-derived cap to avoid OS limits
+    chosen = max(16, min(requested, cap))
 
     caps = {
         "fd": int(allowed_by_fd),
@@ -459,6 +597,10 @@ def main():
     parser.add_argument("--no-geo", action="store_true", help="Disable GeoIP lookups (faster, avoids rate limits).")
     parser.add_argument("--only", choices=["http", "https"], help="Harvest only HTTP or only HTTPS lists.")
     parser.add_argument("--min-bytes", type=int, default=MIN_BYTES, help="Minimum bytes that must transfer (default: 204800).")
+    parser.add_argument("--ip-api-key", type=str, default=os.environ.get("IP_API_KEY"), help="ip-api.com Pro API key (uses pro.ip-api.com when provided). Or set env IP_API_KEY.")
+    parser.add_argument("--webhook-url", type=str, default=os.environ.get("DISCORD_WEBHOOK_URL"), help="Discord webhook URL to post hits. Can also be set via DISCORD_WEBHOOK_URL env var.")
+    parser.add_argument("--webhook-username", type=str, default=os.environ.get("DISCORD_WEBHOOK_USERNAME", "Proxy Checker"), help="Webhook username override (optional).")
+    parser.add_argument("--webhook-summary", action="store_true", help="Also send a final summary embed when done.")
     args = parser.parse_args()
 
     # Use smaller thread stacks so we can run more threads safely
@@ -499,6 +641,16 @@ def main():
     geo_pool = cf.ThreadPoolExecutor(max_workers=geo_workers) if not args.no_geo else None
 
     safe_print(f"🧪 Checking (≥{args.min_bytes//1024}KB within {args.timeout:.1f}s) using {workers} threads… (live results below)")
+
+    # Init Discord notifier if configured
+    global discord_notifier
+    global ip_api_key
+    ip_api_key = args.ip_api_key
+    if args.webhook_url:
+        discord_notifier = DiscordNotifier(args.webhook_url, username=args.webhook_username)
+        safe_print("🔔 Discord webhook configured: hits will be posted")
+
+    start_scan = time.time()
     with cf.ThreadPoolExecutor(max_workers=workers) as pool:
         futures = [pool.submit(check_single, proxy, args.timeout, not args.no_geo, geo_pool) for proxy in deduped]
         for _ in cf.as_completed(futures):
@@ -516,11 +668,31 @@ def main():
         json.dump(all_results, f, ensure_ascii=False, indent=2)
 
     ok_count = len({o["proxy"] for o in all_results})
+    duration = time.time() - start_scan
     safe_print("—" * 60)
     safe_print(f"🎉 Done. Alive proxies: {ok_count:,}")
     safe_print(f"📝 {OUT_TXT}  (ip:port)")
     safe_print(f"🧾 {OUT_JSONL} (streamed JSONL)")
     safe_print(f"📦 {OUT_JSON}  (consolidated JSON array)")
+
+    # Optional summary to Discord
+    if discord_notifier and args.webhook_summary:
+        try:
+            # Count total processed safely
+            with results_lock:
+                total = processed_count
+            # Top countries by count
+            counts = defaultdict(int)
+            for o in all_results:
+                cc = o.get("country_code") or "??"
+                counts[cc] += 1
+            top = sorted(counts.items(), key=lambda x: (-x[1], x[0]))
+            discord_notifier.send_summary(total=total, good=ok_count, duration_sec=duration, top_countries=top)
+        except Exception:
+            pass
+
+    if discord_notifier:
+        discord_notifier.close()
 
 if __name__ == "__main__":
     main()

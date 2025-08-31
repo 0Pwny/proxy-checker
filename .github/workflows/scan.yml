@@ -2,7 +2,7 @@ name: Proxy Scan
 
 on:
   schedule:
-    - cron: '0 */8 * * *'  # every 8 hours
+    - cron: '0 */8 * * *'
   workflow_dispatch:
 
 permissions:
@@ -32,11 +32,8 @@ jobs:
 
       - name: Run proxy checker
         env:
-          # Optionally set a webhook here if you want CI notifications
-          # DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          # If you have an ip-api.com Pro key, add it as a repo secret named IP_API_KEY and uncomment below
-          # IP_API_KEY: ${{ secrets.IP_API_KEY }}
-          # Keep Geo off for speed and API friendliness in CI
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          IP_API_KEY: ${{ secrets.IP_API_KEY }}
           PYTHONUNBUFFERED: '1'
         run: |
           python app.py

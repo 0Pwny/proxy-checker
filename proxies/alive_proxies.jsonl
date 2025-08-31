@@ -1,22 +1,16 @@
-{"proxy": "72.10.164.178:9741", "country": "Brazil", "country_code": "BR", "isp": "Fibernet Servicos De Comunicacao Ltda", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:41299", "country": "United Kingdom", "country_code": "GB", "isp": "BT Public Internet Service", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "67.43.228.254:8155", "country": "United States", "country_code": "US", "isp": "Charter Communications Inc", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "67.43.236.20:5467", "country": "Saudi Arabia", "country_code": "SA", "isp": "Saudi Telecom Company JSC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "152.26.229.52:9443", "country": "United States", "country_code": "US", "isp": "MCNC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "66.36.234.130:1339", "country": "United States", "country_code": "US", "isp": "DediOutlet, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "141.95.101.189:13128", "country": "Germany", "country_code": "DE", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "51.159.5.19:13128", "country": "France", "country_code": "FR", "isp": "SCALEWAY", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "38.54.25.61:8080", "country": "United States", "country_code": "US", "isp": "Kaopu Cloud HK Limited", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "41.33.252.209:80", "country": "Egypt", "country_code": "EG", "isp": "TE Data", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "217.160.162.25:8888", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
-{"proxy": "45.167.126.168:999", "country": "Colombia", "country_code": "CO", "isp": "Sepcom Comunicaciones SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "20.2.90.42:23128", "country": "Hong Kong", "country_code": "HK", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "67.43.228.250:20041", "country": "United States", "country_code": "US", "isp": "Nortex Communications Company", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "23.237.210.82:80", "country": "United States", "country_code": "US", "isp": "FDCservers.net", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "207.180.235.254:3128", "country": "France", "country_code": "FR", "isp": "Contabo GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "163.5.128.238:24171", "country": "United States", "country_code": "US", "isp": "AT&T Enterprises, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "163.5.128.219:24171", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "38.191.214.4:999", "country": "Colombia", "country_code": "CO", "isp": "TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "104.156.226.71:20023", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:32580", "country": "Germany", "country_code": "DE", "isp": "Telefonica O2 Germany", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:58577", "country": "France", "country_code": "FR", "isp": "Bouygues Telecom ISP Wireline", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "51.159.159.73:80", "country": "France", "country_code": "FR", "isp": "SCALEWAY", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:58691", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "5.252.74.5:30003", "country": "Poland", "country_code": "PL", "isp": "Ipxo LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "37.187.109.70:10111", "country": "France", "country_code": "FR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "207.180.235.254:3128", "country": "France", "country_code": "FR", "isp": "Contabo GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "164.163.42.15:10000", "country": "Argentina", "country_code": "AR", "isp": "Interret Villa Angela SRL", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "164.163.42.48:10000", "country": "Argentina", "country_code": "AR", "isp": "Interret Villa Angela SRL", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.122.140.56:3128", "country": "United States", "country_code": "US", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "164.163.42.12:10000", "country": "Argentina", "country_code": "AR", "isp": "Interret Villa Angela SRL", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "66.36.234.130:1339", "country": "United States", "country_code": "US", "isp": "DediOutlet, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "200.174.198.86:8888", "country": "Brazil", "country_code": "BR", "isp": "Claro S.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.186.6.104:3128", "country": "Ecuador", "country_code": "EC", "isp": "Perez Tito Julio Cesar", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "35.206.88.200:8888", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "23.237.210.82:80", "country": "United States", "country_code": "US", "isp": "FDCservers.net", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

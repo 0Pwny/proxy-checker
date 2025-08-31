@@ -55,3 +55,13 @@ Notes:
 - Discord posts are best-effort and rate-limit aware. If the queue backs up, some hit notifications may be dropped to keep scanning fast.
 - GeoIP lookups are subject to ip-api.com throttling; use `--no-geo` to skip or reduce `--workers`.
 
+## Configuration
+
+Proxy source links are defined in `config.json` at the repository root. Edit the `http` and `https` arrays to add or remove list endpoints. You can also point to a different file with:
+
+```bash
+python app.py --config /path/to/your/config.json
+```
+
+If the config file is missing or invalid, the app uses embedded defaults.
+

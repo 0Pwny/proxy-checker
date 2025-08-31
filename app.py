@@ -49,7 +49,8 @@ HEADERS = {
 }
 
 # --------------------- Sources ----------------------
-SOURCES = {
+# Default embedded sources (used if config.json missing or invalid)
+DEFAULT_SOURCES = {
     "http": [
         "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt",
         "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http",
@@ -104,6 +105,36 @@ SOURCES = {
         "https://raw.githubusercontent.com/opsxcq/proxy-list/master/list.txt"  # mixed
     ]
 }
+
+def _load_sources_from_config(config_path: str) -> dict:
+    """Load proxy source URLs from a JSON config file.
+
+    Expected format:
+    {
+      "http": ["url1", ...],
+      "https": ["url2", ...]
+    }
+    Returns DEFAULT_SOURCES on any validation error.
+    """
+    try:
+        with open(config_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        # basic validation
+        if not isinstance(data, dict):
+            raise ValueError("config root must be an object")
+        http_list = data.get("http")
+        https_list = data.get("https")
+        if not isinstance(http_list, list) or not isinstance(https_list, list):
+            raise ValueError("config must contain 'http' and 'https' arrays")
+        # ensure strings
+        http_list = [str(u).strip() for u in http_list if str(u).strip()]
+        https_list = [str(u).strip() for u in https_list if str(u).strip()]
+        if not http_list and not https_list:
+            raise ValueError("both http and https lists are empty")
+        return {"http": http_list, "https": https_list}
+    except Exception as e:
+        safe_print(f"⚠️  Failed to load config.json ({config_path}): {e}. Using embedded defaults.")
+        return DEFAULT_SOURCES
 
 # --------------------- Globals/Locks -----------------
 print_lock = threading.Lock()
@@ -597,6 +628,7 @@ def main():
     parser.add_argument("--no-geo", action="store_true", help="Disable GeoIP lookups (faster, avoids rate limits).")
     parser.add_argument("--only", choices=["http", "https"], help="Harvest only HTTP or only HTTPS lists.")
     parser.add_argument("--min-bytes", type=int, default=MIN_BYTES, help="Minimum bytes that must transfer (default: 204800).")
+    parser.add_argument("--config", type=str, default=os.environ.get("PROXY_SOURCES_CONFIG", "config.json"), help="Path to config JSON with 'http' and 'https' arrays. Defaults to ./config.json; falls back to embedded defaults if missing/invalid.")
     parser.add_argument("--ip-api-key", type=str, default=os.environ.get("IP_API_KEY"), help="ip-api.com Pro API key (uses pro.ip-api.com when provided). Or set env IP_API_KEY.")
     parser.add_argument("--webhook-url", type=str, default=os.environ.get("DISCORD_WEBHOOK_URL"), help="Discord webhook URL to post hits. Can also be set via DISCORD_WEBHOOK_URL env var.")
     parser.add_argument("--webhook-username", type=str, default=os.environ.get("DISCORD_WEBHOOK_USERNAME", "Proxy Checker"), help="Webhook username override (optional).")
@@ -616,8 +648,15 @@ def main():
         except Exception:
             pass
 
+    # Load sources from config (or use embedded defaults)
+    cfg_path = args.config or "config.json"
+    if cfg_path and os.path.exists(cfg_path):
+        sources = _load_sources_from_config(cfg_path)
+    else:
+        sources = DEFAULT_SOURCES
+
     # Select sources
-    selected_sources = SOURCES[args.only] if args.only else list(set(SOURCES["http"] + SOURCES["https"]))
+    selected_sources = sources[args.only] if args.only else sorted(set(sources["http"] + sources["https"]))
 
     safe_print(f"🌐 Harvesting proxy lists from {len(selected_sources)} sources…")
     t0 = time.time()

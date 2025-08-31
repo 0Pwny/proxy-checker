@@ -24,7 +24,39 @@
     "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
     "https://raw.githubusercontent.com/zevtyardt/proxy-list/main/http.txt",
     "https://raw.githubusercontent.com/HyperBeats/proxy-list/main/http.txt",
-    "https://raw.githubusercontent.com/opsxcq/proxy-list/master/list.txt"
+    "https://raw.githubusercontent.com/opsxcq/proxy-list/master/list.txt",
+
+    "https://www.proxyscan.io/download?type=http",
+    "https://api.openproxylist.xyz/http.txt",
+    "https://multiproxy.org/txt_all/proxy.txt",
+    "http://worm.rip/http.txt",
+    "https://sunny9577.github.io/proxy-scraper/generated/http_proxies.txt",
+    "https://raw.githubusercontent.com/MuRongPIG/Proxy-Master/main/http.txt",
+    "https://raw.githubusercontent.com/proxylist-to/proxy-list/main/http.txt",
+    "https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/http.txt",
+    "https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/HTTP.txt",
+    "https://raw.githubusercontent.com/RX4096/proxy-list/main/online/http.txt",
+    "https://raw.githubusercontent.com/UptimerBot/proxy-list/main/proxies/http.txt",
+    "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/gh-pages/http.txt",
+    "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/gh-pages/https.txt", 
+    "https://proxydb.net/?protocol=http",
+    "https://openproxylist.com/proxy/",
+
+    "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/http.txt",
+    "https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/proxies/http.txt",
+    "https://raw.githubusercontent.com/ObcbO/getproxy/master/all.txt",
+    "https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/http.txt",
+    "https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt",
+    "https://raw.githubusercontent.com/casals-ar/proxy-list/main/http/http.txt",
+    "https://raw.githubusercontent.com/zevtyardt/proxy-list/main/http_anonymous.txt",
+    "https://raw.githubusercontent.com/zevtyardt/proxy-list/main/http_anon.txt",
+
+    "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/gh-pages/http.txt?nocache=1",
+    "https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTP_RAW.txt",
+    "https://raw.githubusercontent.com/roosterkid/openproxylist/main/PROXY_LIST.txt",
+
+    "https://raw.githubusercontent.com/saschazesiger/Proxy-Grabber-and-Checker/main/Sources.txt", 
+    "https://raw.githubusercontent.com/WangYihang/Proxy-Verifier/main/sources.yaml" 
   ],
   "https": [
     "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt",
@@ -44,13 +76,32 @@
     "https://raw.githubusercontent.com/Anonym0usWork1221/Free-Proxies/main/proxy_files/https_proxies.txt",
     "https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt",
     "https://raw.githubusercontent.com/r00tee/Proxy-List/main/Https.txt",
-    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/https.txt",
+    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt", 
     "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/https.txt",
     "https://raw.githubusercontent.com/prxchk/proxy-list/main/https.txt",
     "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/https.txt",
     "https://raw.githubusercontent.com/zevtyardt/proxy-list/main/https.txt",
     "https://raw.githubusercontent.com/HyperBeats/proxy-list/main/https.txt",
     "https://raw.githubusercontent.com/opsxcq/proxy-list/master/list.txt",
-    "https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/HTTPS_RAW.txt"
+    "https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/HTTPS_RAW.txt",
+
+    "https://www.proxyscan.io/download?type=https",
+    "https://api.openproxylist.xyz/https.txt",
+    "https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS.txt",
+    "https://raw.githubusercontent.com/MuRongPIG/Proxy-Master/main/https.txt",
+    "https://raw.githubusercontent.com/proxylist-to/proxy-list/main/https.txt",
+    "https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/https.txt",
+    "https://raw.githubusercontent.com/officialputuid/KangProxy/KangProxy/https/https.txt",
+    "https://raw.githubusercontent.com/RX4096/proxy-list/main/online/https.txt",
+    "https://raw.githubusercontent.com/UptimerBot/proxy-list/main/proxies/https.txt",
+    "https://vakhov.github.io/fresh-proxy-list/https.txt",
+    "https://openproxylist.com/proxy/",
+
+    "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/https.txt",
+    "https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/proxies/https.txt",
+    "https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/https.txt",
+
+    "https://raw.githubusercontent.com/saschazesiger/Proxy-Grabber-and-Checker/main/Sources.txt",
+    "https://raw.githubusercontent.com/WangYihang/Proxy-Verifier/main/sources.yaml"
   ]
 }

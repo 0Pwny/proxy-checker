@@ -1,25 +1,23 @@
-{"proxy": "67.43.236.20:19739", "country": "Mexico", "country_code": "MX", "isp": "UNINET", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:25565", "country": "Germany", "country_code": "DE", "isp": "Telefonica Deutschland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:53919", "country": "Germany", "country_code": "DE", "isp": "Deutsche Telekom AG", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:57411", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "88.210.38.50:3128", "country": "The Netherlands", "country_code": "NL", "isp": "Melbikomas UAB", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "77.110.114.116:8081", "country": "United States", "country_code": "US", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:18081", "country": "Germany", "country_code": "DE", "isp": "16 originated by AS35244", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "51.159.159.73:80", "country": "France", "country_code": "FR", "isp": "SCALEWAY", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "187.172.10.104:8080", "country": "Mexico", "country_code": "MX", "isp": "Uninet S.A. de C.V.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "72.10.160.90:13333", "country": "Argentina", "country_code": "AR", "isp": "NSS S.A.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "172.234.213.194:3128", "country": "United States", "country_code": "US", "isp": "Akamai Technologies, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "91.238.105.43:2023", "country": "Ukraine", "country_code": "UA", "isp": "FOP \"Reznichenko Sergey Mykolayovich\"", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "38.188.178.1:999", "country": "Colombia", "country_code": "CO", "isp": "Columbus Networks USA, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "152.26.229.52:9443", "country": "United States", "country_code": "US", "isp": "MCNC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "178.128.241.224:8888", "country": "The Netherlands", "country_code": "NL", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "3.79.73.102:8080", "country": "Germany", "country_code": "DE", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "64.181.240.152:3128", "country": "United States", "country_code": "US", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:35519", "country": "United Kingdom", "country_code": "GB", "isp": "PlusNet plc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:11673", "country": "France", "country_code": "FR", "isp": "RTVC-Stiring", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:41299", "country": "Canada", "country_code": "CA", "isp": "Le Groupe Videotron Ltee", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "190.242.157.215:8080", "country": "Colombia", "country_code": "CO", "isp": "Sepcom Comunicaciones SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "104.156.226.71:20023", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "178.128.241.224:8888", "country": "The Netherlands", "country_code": "NL", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "157.180.121.252:21033", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "216.195.100.56:3129", "country": "United States", "country_code": "US", "isp": "Belwave Communications", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "12.131.14.114:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "23.237.210.82:80", "country": "United States", "country_code": "US", "isp": "FDCservers.net", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "217.64.149.146:8118", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "88.55.97.242:8080", "country": "Italy", "country_code": "IT", "isp": "Telecom Italia S.p.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "187.172.10.104:8080", "country": "Mexico", "country_code": "MX", "isp": "Uninet S.A. de C.V.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "66.36.234.130:1339", "country": "United States", "country_code": "US", "isp": "DediOutlet, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:12747", "country": "Spain", "country_code": "ES", "isp": "Adamo Telecom Iberia S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:12087", "country": "Germany", "country_code": "DE", "isp": "ARCOR-IP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:16621", "country": "France", "country_code": "FR", "isp": "ProXad network / Free SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "216.195.100.57:3129", "country": "United States", "country_code": "US", "isp": "Belwave Communications", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "51.159.5.19:13128", "country": "France", "country_code": "FR", "isp": "SCALEWAY", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "51.159.159.73:80", "country": "France", "country_code": "FR", "isp": "SCALEWAY", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "20.2.90.42:23128", "country": "Hong Kong", "country_code": "HK", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "91.238.105.43:2023", "country": "Ukraine", "country_code": "UA", "isp": "FOP \"Reznichenko Sergey Mykolayovich\"", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:35179", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "88.210.38.50:3128", "country": "The Netherlands", "country_code": "NL", "isp": "Melbikomas UAB", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "38.180.18.103:3128", "country": "Belgium", "country_code": "BE", "isp": "M247 Europe SRL", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "216.195.100.58:3129", "country": "United States", "country_code": "US", "isp": "Belwave Communications", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "190.242.157.215:8080", "country": "Colombia", "country_code": "CO", "isp": "Sepcom Comunicaciones SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:25565", "country": "Germany", "country_code": "DE", "isp": "Telefonica Deutschland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

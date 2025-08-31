@@ -15,6 +15,7 @@ Fast threaded proxy checker with real transfer tests, GeoIP lookup, multi-format
 - Discord webhook notifications:
 	- Per-hit embed for each alive proxy (flag, ISP, supports, mobile/proxy/hosting flags)
 	- Optional final summary (alive count, total processed, duration, top countries)
+ - Protocols: HTTP and HTTPS only for now. SOCKS4 and SOCKS5 planned for a future version.
 
 ## Usage
 

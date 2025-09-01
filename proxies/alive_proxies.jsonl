@@ -1,10 +1,18 @@
-{"proxy": "67.43.228.253:27993", "country": "United States", "country_code": "US", "isp": "AT&T Enterprises, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "171.244.5.173:3129", "country": "Vietnam", "country_code": "VN", "isp": "VIETEL", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "152.53.194.46:8065", "country": "United States", "country_code": "US", "isp": "Datacamp Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "66.36.234.130:1339", "country": "United States", "country_code": "US", "isp": "DediOutlet, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "64.69.43.232:1080", "country": "United States", "country_code": "US", "isp": "Multacom Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "94.156.112.198:3128", "country": "Germany", "country_code": "DE", "isp": "Play2go International Limited", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "97.79.251.186:80", "country": "United States", "country_code": "US", "isp": "Spectrum", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "72.10.164.178:14055", "country": "Colombia", "country_code": "CO", "isp": "Telmex Colombia S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:51247", "country": "United Kingdom", "country_code": "GB", "isp": "YouFibre Limited", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:23287", "country": "United Kingdom", "country_code": "GB", "isp": "TalkTalk", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.136.198.40:3128", "country": "Bulgaria", "country_code": "BG", "isp": "Managed by IROKO Networks", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.167.126.1:8080", "country": "Colombia", "country_code": "CO", "isp": "Sepcom Comunicaciones SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:15399", "country": "United States", "country_code": "US", "isp": "Verizon Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "23.237.210.82:80", "country": "United States", "country_code": "US", "isp": "FDCservers.net", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:16621", "country": "France", "country_code": "FR", "isp": "BOUYGUES Telecom", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "92.58.181.171:7575", "country": "Spain", "country_code": "ES", "isp": "UNI2", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:41299", "country": "United Kingdom", "country_code": "GB", "isp": "Virgin Media Limited", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.254:32961", "country": "United States", "country_code": "US", "isp": "Charter Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "190.242.157.215:8080", "country": "Colombia", "country_code": "CO", "isp": "Sepcom Comunicaciones SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "3.79.73.102:8080", "country": "Germany", "country_code": "DE", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:25565", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:25331", "country": "United Kingdom", "country_code": "GB", "isp": "Vodafone", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "52.184.80.192:23128", "country": "Hong Kong", "country_code": "HK", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:35993", "country": "France", "country_code": "FR", "isp": "ProXad network / Free SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:30225", "country": "Spain", "country_code": "ES", "isp": "Ono", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.186.6.104:3128", "country": "Ecuador", "country_code": "EC", "isp": "Perez Tito Julio Cesar", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

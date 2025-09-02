@@ -1,13 +1,9 @@
-{"proxy": "109.236.84.70:24766", "country": "Germany", "country_code": "DE", "isp": "3xK Tech GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "93.190.141.73:11001", "country": "Poland", "country_code": "PL", "isp": "Clouvider Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "34.70.101.238:3128", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "72.10.160.171:27885", "country": "Ecuador", "country_code": "EC", "isp": "Telconet S.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "67.43.228.254:7539", "country": "Colombia", "country_code": "CO", "isp": "Colombia Móvil", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "67.43.236.20:2551", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "72.10.160.91:23861", "country": "Ecuador", "country_code": "EC", "isp": "Ufinet Panama S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "66.36.234.130:1339", "country": "United States", "country_code": "US", "isp": "DediOutlet, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:54019", "country": "France", "country_code": "FR", "isp": "ProXad network / Free SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "92.58.181.171:7575", "country": "Spain", "country_code": "ES", "isp": "UNI2", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "23.237.210.82:80", "country": "United States", "country_code": "US", "isp": "FDCservers.net", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "143.110.239.81:30001", "country": "United States", "country_code": "US", "isp": "Cablevision Systems Corp.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "190.110.34.42:999", "country": "Dominican Republic", "country_code": "DO", "isp": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "216.195.100.61:3129", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "67.43.228.252:18647", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "52.184.80.192:23128", "country": "Hong Kong", "country_code": "HK", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:18211", "country": "United States", "country_code": "US", "isp": "Hotwire Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "147.135.222.208:3128", "country": "France", "country_code": "FR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "77.110.114.116:8081", "country": "United States", "country_code": "US", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:37525", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

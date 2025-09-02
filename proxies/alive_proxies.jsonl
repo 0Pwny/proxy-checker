@@ -1,14 +1,11 @@
-{"proxy": "3.79.73.102:8080", "country": "Germany", "country_code": "DE", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:35923", "country": "Germany", "country_code": "DE", "isp": "Vodafone", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:21873", "country": "Germany", "country_code": "DE", "isp": "Deutsche Telekom AG", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "164.163.42.9:10000", "country": "Argentina", "country_code": "AR", "isp": "Interret Villa Angela SRL", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:39829", "country": "France", "country_code": "FR", "isp": "Free SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:55503", "country": "France", "country_code": "FR", "isp": "Bouygues Telecom ISP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "92.58.181.171:7575", "country": "Spain", "country_code": "ES", "isp": "UNI2", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "157.180.121.252:54213", "country": "Germany", "country_code": "DE", "isp": "Vodafone", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "154.6.160.33:37198", "country": "Vietnam", "country_code": "VN", "isp": "Octopus Web Solution Inc", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "12.0.53.59:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
-{"proxy": "198.23.189.151:8118", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "147.135.222.208:3128", "country": "France", "country_code": "FR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "190.60.44.115:80", "country": "Colombia", "country_code": "CO", "isp": "IFX NETWORKS COLOMBIA", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "23.237.210.82:80", "country": "United States", "country_code": "US", "isp": "FDCservers.net", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.167.126.1:8080", "country": "Colombia", "country_code": "CO", "isp": "Sepcom Comunicaciones SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "66.36.234.130:1339", "country": "United States", "country_code": "US", "isp": "DediOutlet, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "195.90.211.14:3128", "country": "Germany", "country_code": "DE", "isp": "EVANZO e-commerce GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "45.167.126.1:8080", "country": "Colombia", "country_code": "CO", "isp": "Sepcom Comunicaciones SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "3.79.73.102:8080", "country": "Germany", "country_code": "DE", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "152.26.229.52:9443", "country": "United States", "country_code": "US", "isp": "MCNC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "92.58.181.171:7575", "country": "Spain", "country_code": "ES", "isp": "UNI2", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "195.25.20.155:3128", "country": "France", "country_code": "FR", "isp": "Orange Business Services", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.156.226.71:20023", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

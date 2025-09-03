@@ -1,6 +1,14 @@
-{"proxy": "72.10.160.92:32187", "country": "Brazil", "country_code": "BR", "isp": "Nova Rede Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "23.22.70.75:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
-{"proxy": "23.237.210.82:80", "country": "United States", "country_code": "US", "isp": "FDCservers.net", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "72.10.160.170:12177", "country": "Venezuela", "country_code": "VE", "isp": "SUMINISTROS PCWESTERN, CA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
-{"proxy": "51.84.204.156:3128", "country": "Israel", "country_code": "IL", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "164.163.42.34:10000", "country": "Argentina", "country_code": "AR", "isp": "Interret Villa Angela SRL", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:37525", "country": "United Kingdom", "country_code": "GB", "isp": "BT Public Internet Service", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "3.145.173.38:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "164.163.42.23:10000", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:54315", "country": "United Kingdom", "country_code": "GB", "isp": "TalkTalk", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:25849", "country": "Germany", "country_code": "DE", "isp": "Telefonica Germany GmbH & Co. OHG", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "65.38.213.154:8881", "country": "Puerto Rico", "country_code": "PR", "isp": "AT&T Mobility Puerto Rico", "is_mobile": true, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:12087", "country": "Germany", "country_code": "DE", "isp": "Telefonica Germany GmbH & Co. OHG", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:38027", "country": "Spain", "country_code": "ES", "isp": "Digi Spain Telecom S.L.U.", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "23.237.210.82:80", "country": "United States", "country_code": "US", "isp": "FDCservers.net", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "37.27.203.117:3128", "country": "Finland", "country_code": "FI", "isp": "Hetzner Online GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:54151", "country": "Germany", "country_code": "DE", "isp": "Deutsche Telekom AG", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "164.90.205.31:3128", "country": "The Netherlands", "country_code": "NL", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "38.180.18.103:3128", "country": "Belgium", "country_code": "BE", "isp": "M247 Europe SRL", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

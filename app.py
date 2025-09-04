@@ -5,6 +5,7 @@ import ipaddress
 import json
 import os
 import re
+import subprocess
 import threading
 import time
 from collections import defaultdict
@@ -36,9 +37,10 @@ TEST_URLS_HTTPS = [
     "https://speed.hetzner.de/1MB.bin",
 ]
 
-OUT_TXT   = "alive_proxies.txt"   # ip:port
-OUT_JSONL = "alive_proxies.jsonl" # streamed {"proxy","country","country_code","supports"}
-OUT_JSON  = "alive_proxies.json"  # final consolidated array
+PROXIES_DIR = os.path.join("proxies")
+OUT_TXT   = os.path.join(PROXIES_DIR, "alive_proxies.txt")    # ip:port
+OUT_JSONL = os.path.join(PROXIES_DIR, "alive_proxies.jsonl")  # streamed {"proxy","country","country_code","supports"}
+OUT_JSON  = os.path.join(PROXIES_DIR, "alive_proxies.json")   # final consolidated array
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -145,6 +147,7 @@ geo_lock   = threading.Lock()
 good_proxies = {}   # proxy -> {"supports": set(["http","https"]), "country": str|None, "country_code": str|None, "isp": str|None, "is_mobile": bool|None, "is_proxy": bool|None, "is_hosting": bool|None}
 all_results  = []   # for final JSON array
 emitted_jsonl = set()
+existing_txt = set()
 discord_notifier = None  # set in main if webhook configured
 ip_api_key = None  # set in main if provided
 
@@ -322,8 +325,12 @@ def geo_ip_via_proxy(proxy: str, timeout: float = 2.0) -> tuple[str | None, str 
 # --------------------- IO helpers --------------------
 def append_txt(proxy: str):
     with file_lock:
+        if proxy in existing_txt:
+            return
+        os.makedirs(os.path.dirname(OUT_TXT), exist_ok=True)
         with open(OUT_TXT, "a", encoding="utf-8") as f:
             f.write(proxy + "\n")
+        existing_txt.add(proxy)
 
 def append_jsonl_once(obj: dict):
     key = obj["proxy"]
@@ -331,8 +338,127 @@ def append_jsonl_once(obj: dict):
         if key in emitted_jsonl:
             return
         emitted_jsonl.add(key)
+        os.makedirs(os.path.dirname(OUT_JSONL), exist_ok=True)
         with open(OUT_JSONL, "a", encoding="utf-8") as f:
             f.write(json.dumps(obj, ensure_ascii=False) + "\n")
+        
+def _load_existing_outputs_into_sets():
+    """Seed in-memory de-dupe sets from existing output files to avoid duplicates across runs."""
+    # Seed TXT
+    try:
+        if os.path.exists(OUT_TXT):
+            with open(OUT_TXT, "r", encoding="utf-8") as f:
+                for line in f:
+                    p = line.strip()
+                    if p:
+                        existing_txt.add(p)
+    except Exception:
+        pass
+    # Seed JSONL
+    try:
+        if os.path.exists(OUT_JSONL):
+            with open(OUT_JSONL, "r", encoding="utf-8") as f:
+                for line in f:
+                    try:
+                        obj = json.loads(line)
+                        key = obj.get("proxy")
+                        if key:
+                            emitted_jsonl.add(key)
+                    except Exception:
+                        continue
+    except Exception:
+        pass
+
+def _read_previous_proxies() -> set[str]:
+    """Read previously found proxies from proxies/ outputs and legacy root files."""
+    prev = set()
+    candidates = [
+        OUT_TXT,
+        OUT_JSONL,
+        OUT_JSON,
+        "alive_proxies.txt",   # legacy root path
+        "alive_proxies.jsonl",
+        "alive_proxies.json",
+    ]
+    for path in candidates:
+        try:
+            if not os.path.exists(path):
+                continue
+            if path.endswith(".txt"):
+                with open(path, "r", encoding="utf-8") as f:
+                    for line in f:
+                        p = line.strip()
+                        if p:
+                            prev.add(p)
+            elif path.endswith(".jsonl"):
+                with open(path, "r", encoding="utf-8") as f:
+                    for line in f:
+                        try:
+                            obj = json.loads(line)
+                            p = obj.get("proxy")
+                            if p:
+                                prev.add(p)
+                        except Exception:
+                            continue
+            elif path.endswith(".json"):
+                with open(path, "r", encoding="utf-8") as f:
+                    try:
+                        arr = json.load(f)
+                        if isinstance(arr, list):
+                            for obj in arr:
+                                if isinstance(obj, dict):
+                                    p = obj.get("proxy")
+                                    if p:
+                                        prev.add(p)
+                    except Exception:
+                        continue
+        except Exception:
+            continue
+    return prev
+
+def _write_consolidated_json_from_jsonl():
+    """Build a consolidated JSON array from the JSONL file (unique by proxy)."""
+    items = {}
+    try:
+        if os.path.exists(OUT_JSONL):
+            with open(OUT_JSONL, "r", encoding="utf-8") as f:
+                for line in f:
+                    try:
+                        obj = json.loads(line)
+                        key = obj.get("proxy")
+                        if key:
+                            items[key] = obj
+                    except Exception:
+                        continue
+    except Exception:
+        pass
+    try:
+        os.makedirs(os.path.dirname(OUT_JSON), exist_ok=True)
+        with open(OUT_JSON, "w", encoding="utf-8") as f:
+            json.dump(list(items.values()), f, ensure_ascii=False, indent=2)
+    except Exception:
+        pass
+
+def _git_commit_and_push(files: list[str], message: str, allow_push: bool = True):
+    """Best-effort git add/commit/push. Requires repo configured with write auth."""
+    try:
+        # Filter existing files
+        files = [f for f in files if os.path.exists(f)]
+        if not files:
+            return
+        # Add files
+        subprocess.run(["git", "add", "--" ] + files, check=False, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        # Commit (may noop if no changes)
+        commit = subprocess.run(["git", "commit", "-m", message], check=False, capture_output=True, text=True)
+        if commit.returncode != 0 and "nothing to commit" in (commit.stderr or "") + (commit.stdout or ""):
+            return
+        # Pull --rebase then push
+        if allow_push:
+            subprocess.run(["git", "pull", "--rebase"], check=False, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            subprocess.run(["git", "push"], check=False, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    except Exception:
+        # best-effort; ignore errors
+        pass
 
 # --------------------- Discord Notifier --------------------
 class DiscordNotifier:
@@ -633,6 +759,7 @@ def main():
     parser.add_argument("--webhook-url", type=str, default=os.environ.get("DISCORD_WEBHOOK_URL"), help="Discord webhook URL to post hits. Can also be set via DISCORD_WEBHOOK_URL env var.")
     parser.add_argument("--webhook-username", type=str, default=os.environ.get("DISCORD_WEBHOOK_USERNAME", "Proxy Checker"), help="Webhook username override (optional).")
     parser.add_argument("--webhook-summary", action="store_true", help="Also send a final summary embed when done.")
+    parser.add_argument("--no-git-push", action="store_true", help="Do not auto-commit and push results to the git repo.")
     args = parser.parse_args()
 
     # Use smaller thread stacks so we can run more threads safely
@@ -641,12 +768,12 @@ def main():
     except Exception:
         pass
 
-    # Fresh outputs
-    for p in (OUT_TXT, OUT_JSONL, OUT_JSON):
-        try:
-            if os.path.exists(p): os.remove(p)
-        except Exception:
-            pass
+    # Ensure output directory exists and seed de-dupe from existing outputs (don't delete; we append across runs)
+    try:
+        os.makedirs(PROXIES_DIR, exist_ok=True)
+    except Exception:
+        pass
+    _load_existing_outputs_into_sets()
 
     # Load sources from config (or use embedded defaults)
     cfg_path = args.config or "config.json"
@@ -663,8 +790,14 @@ def main():
     harvested = harvest_all_sources(selected_sources)
     safe_print(f"✅ Harvested {len(harvested):,} unique proxies in {time.time()-t0:.2f}s")
 
-    deduped = dedupe_proxies(harvested)
-    if len(deduped) != len(harvested):
+    # Include previously found proxies from prior scans
+    prev = _read_previous_proxies()
+    if prev:
+        safe_print(f"♻️  Including {len(prev):,} proxies from previous scans")
+    combined_list = list(harvested) + [p for p in prev if p not in harvested]
+
+    deduped = dedupe_proxies(combined_list)
+    if len(deduped) != len(combined_list):
         safe_print(f"🧹 De-duplicated to {len(deduped):,} unique proxies")
     else:
         safe_print("🧹 De-duplicated: no change")
@@ -702,9 +835,8 @@ def main():
     with print_lock:
         print()
 
-    # Consolidated JSON
-    with open(OUT_JSON, "w", encoding="utf-8") as f:
-        json.dump(all_results, f, ensure_ascii=False, indent=2)
+    # Append-only JSONL/TXT already handled during scan; now create consolidated JSON from JSONL
+    _write_consolidated_json_from_jsonl()
 
     ok_count = len({o["proxy"] for o in all_results})
     duration = time.time() - start_scan
@@ -732,6 +864,12 @@ def main():
 
     if discord_notifier:
         discord_notifier.close()
+
+    # Auto-commit and push changes by default unless disabled
+    if not args.no_git_push and os.path.isdir(os.path.join(".git")):
+        ts = time.strftime("%Y-%m-%d %H:%M UTC", time.gmtime())
+        msg = f"Update alive proxies ({ok_count}) — {ts}"
+        _git_commit_and_push([OUT_TXT, OUT_JSONL, OUT_JSON], msg, allow_push=True)
 
 if __name__ == "__main__":
     main()

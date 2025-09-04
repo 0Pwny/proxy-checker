@@ -11,7 +11,7 @@ Fast threaded proxy checker with real transfer tests, GeoIP lookup, multi-format
 - Harvests proxies from many public lists (HTTP + HTTPS)
 - Verifies real data transfer (>= 200KB) over both HTTP and HTTPS
 - Optional GeoIP via ip-api.com through the proxy itself
-- Outputs: `alive_proxies.txt`, `alive_proxies.jsonl`, `alive_proxies.json`
+- Outputs in `proxies/`: `alive_proxies.txt`, `alive_proxies.jsonl`, `alive_proxies.json`
 - Discord webhook notifications:
 	- Per-hit embed for each alive proxy (flag, ISP, supports, mobile/proxy/hosting flags)
 	- Optional final summary (alive count, total processed, duration, top countries)
@@ -35,6 +35,7 @@ Key options:
 - `--webhook-url <url>`: Discord webhook for notifications (or set env `DISCORD_WEBHOOK_URL`)
 - `--webhook-username <name>`: custom webhook username (optional)
 - `--webhook-summary`: also send a final completion summary embed
+- `--no-git-push`: disable auto-commit and push of updated `proxies/*` outputs (enabled by default)
 
 Example with Discord:
 
@@ -55,6 +56,7 @@ python app.py \
 Notes:
 - Discord posts are best-effort and rate-limit aware. If the queue backs up, some hit notifications may be dropped to keep scanning fast.
 - GeoIP lookups are subject to ip-api.com throttling; use `--no-geo` to skip or reduce `--workers`.
+ - Previous scan results are always re-used: the checker merges proxies harvested from remote lists with what was found in prior runs (`proxies/alive_proxies.*`). Hits are appended without duplicates across runs.
 
 ## Configuration
 

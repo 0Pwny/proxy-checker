@@ -97,3 +97,30 @@
 {"proxy": "49.254.24.117:15648", "country": "South Korea", "country_code": "KR", "isp": "HAIonNet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "49.254.24.114:15648", "country": "South Korea", "country_code": "KR", "isp": "HAIonNet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "185.192.246.42:3128", "country": "The Netherlands", "country_code": "NL", "isp": "Timeweb, LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "115.144.37.69:15648", "country": "South Korea", "country_code": "KR", "isp": "Korea Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "121.126.39.102:15648", "country": "South Korea", "country_code": "KR", "isp": "Korea Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "164.163.42.38:10000", "country": "Argentina", "country_code": "AR", "isp": "Interret Villa Angela SRL", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "121.126.185.38:15648", "country": "South Korea", "country_code": "KR", "isp": "HAIonNet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "121.126.209.214:15648", "country": "South Korea", "country_code": "KR", "isp": "Korea Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "115.144.26.66:15648", "country": "South Korea", "country_code": "KR", "isp": "Korea Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "49.254.113.102:15648", "country": "South Korea", "country_code": "KR", "isp": "HAIonNet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "154.16.41.38:5555", "country": "Mexico", "country_code": "MX", "isp": "Gung HO LLC", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "89.46.249.148:8588", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:33207", "country": "Canada", "country_code": "CA", "isp": "Shaw Communications Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "49.254.187.164:15648", "country": "South Korea", "country_code": "KR", "isp": "Korea Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "115.144.67.107:15648", "country": "South Korea", "country_code": "KR", "isp": "Korea Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.21:14105", "country": "Colombia", "country_code": "CO", "isp": "EPM Telecomunicaciones S.A. E.S.P.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "172.98.201.190:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "121.126.39.99:15648", "country": "South Korea", "country_code": "KR", "isp": "Korea Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "115.144.186.100:15648", "country": "South Korea", "country_code": "KR", "isp": "HAIonNet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "115.144.173.66:15648", "country": "South Korea", "country_code": "KR", "isp": "Korea Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "115.144.173.69:15648", "country": "South Korea", "country_code": "KR", "isp": "Korea Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "162.243.149.86:31028", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "49.254.24.118:15648", "country": "South Korea", "country_code": "KR", "isp": "HAIonNet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "49.254.174.205:15648", "country": "South Korea", "country_code": "KR", "isp": "Korea Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:3899", "country": "Argentina", "country_code": "AR", "isp": "Telecom Argentina S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "49.254.179.139:15648", "country": "South Korea", "country_code": "KR", "isp": "Korea Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "115.144.110.166:15648", "country": "South Korea", "country_code": "KR", "isp": "HAIonNet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "121.126.50.58:15648", "country": "South Korea", "country_code": "KR", "isp": "HAIonNet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.18:17679", "country": "United States", "country_code": "US", "isp": "RCN", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "161.97.181.217:8118", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

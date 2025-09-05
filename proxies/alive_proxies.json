@@ -895,5 +895,187 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "40.71.46.210:8214",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Clouvider Limited",
+    "is_mobile": true,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "164.163.42.13:10000",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Interret Villa Angela SRL",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "164.163.42.11:10000",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Interret Villa Angela SRL",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.94:24411",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:16383",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Telmex Colombia S.A.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "121.126.88.27:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "HAIonNet",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:9105",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.250:20179",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.136.49.130:8118",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "115.144.134.130:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "HAIonNet",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "164.163.42.39:10000",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Interret Villa Angela SRL",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:26849",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Mega Cable, S.A. de C.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:4819",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Vero S.A",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "164.163.42.1:10000",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Interret Villa Angela SRL",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -2897,5 +2897,278 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "115.144.37.68:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "Korea Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "91.201.65.97:3128",
+    "country": "Italy",
+    "country_code": "IT",
+    "isp": "Melbikomas UAB",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "103.13.211.214:8888",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Kamatera Inc",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "49.254.113.100:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "HAIonNet",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "121.126.39.98:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "Korea Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "115.144.67.110:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "Korea Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "49.254.173.38:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "Korea Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "49.254.245.69:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "Korea Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "115.144.26.70:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "Korea Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "49.254.174.204:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "Korea Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "88.55.97.242:8080",
+    "country": "Italy",
+    "country_code": "IT",
+    "isp": "Telecom Italia S.p.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "49.254.174.206:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "Korea Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "115.144.186.102:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "HAIonNet",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "80.211.237.124:8080",
+    "country": "Italy",
+    "country_code": "IT",
+    "isp": "Aruba S.p.A. Network",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "87.106.103.177:3128",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "IONOS SE",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "49.254.173.37:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "Korea Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "65.108.203.37:18080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "115.144.134.132:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "HAIonNet",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "49.254.173.34:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "Korea Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.224.23.235:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "121.126.35.26:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "Korea Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -190,3 +190,20 @@
 {"proxy": "94.156.112.198:3128", "country": "Germany", "country_code": "DE", "isp": "Play2go International Limited", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.253:30111", "country": "Colombia", "country_code": "CO", "isp": "INVERSIONES ZULUAGA SEJIN SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "200.60.124.19:13128", "country": "Peru", "country_code": "PE", "isp": "Telefonica del Peru S.A.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "50.28.85.53:3128", "country": "United States", "country_code": "US", "isp": "Liquid Web, L.L.C", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "51.158.61.240:13128", "country": "France", "country_code": "FR", "isp": "SCALEWAY", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "207.244.244.178:3128", "country": "United States", "country_code": "US", "isp": "Contabo Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:4591", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "41.33.252.209:80", "country": "Egypt", "country_code": "EG", "isp": "TE Data", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "46.246.1.106:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "116.203.71.206:8080", "country": "Germany", "country_code": "DE", "isp": "Hetzner Online GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:10263", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "88.218.17.113:8080", "country": "The Netherlands", "country_code": "NL", "isp": "Serverius Holding B.V.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "209.227.236.18:8080", "country": "Italy", "country_code": "IT", "isp": "Aruba S.p.A.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:18641", "country": "Chile", "country_code": "CL", "isp": "HomeNet LTDA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.91:26279", "country": "Peru", "country_code": "PE", "isp": "Wi-net Telecom S.A.C.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.122.140.56:3128", "country": "United States", "country_code": "US", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "213.32.85.26:3128", "country": "France", "country_code": "FR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "50.28.85.14:3128", "country": "United States", "country_code": "US", "isp": "Liquid Web, L.L.C", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:22749", "country": "Venezuela", "country_code": "VE", "isp": "THUNDERNET, C.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "192.210.212.15:3128", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

@@ -2169,5 +2169,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "164.163.40.110:10000",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Interret Villa Angela SRL",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

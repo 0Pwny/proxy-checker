@@ -153,3 +153,11 @@
 {"proxy": "121.126.50.60:15648", "country": "South Korea", "country_code": "KR", "isp": "HAIonNet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "49.254.11.45:15648", "country": "South Korea", "country_code": "KR", "isp": "HAIonNet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "115.144.147.115:15648", "country": "South Korea", "country_code": "KR", "isp": "Korea Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "142.93.157.60:80", "country": "Canada", "country_code": "CA", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "185.150.190.163:3128", "country": "United States", "country_code": "US", "isp": "ReliableSite.Net LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "171.244.5.173:3129", "country": "Vietnam", "country_code": "VN", "isp": "VIETEL", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "194.163.149.123:1111", "country": "Germany", "country_code": "DE", "isp": "Contabo GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "164.163.42.2:10000", "country": "Argentina", "country_code": "AR", "isp": "Interret Villa Angela SRL", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "66.228.47.125:110", "country": "United States", "country_code": "US", "isp": "Akamai Technologies, Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "195.123.245.230:3128", "country": "Czechia", "country_code": "CZ", "isp": "Green Floid LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:32657", "country": "Colombia", "country_code": "CO", "isp": "Colombia Telecomunicaciones S.a. ESP BIC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

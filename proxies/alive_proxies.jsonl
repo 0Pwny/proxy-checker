@@ -184,3 +184,9 @@
 {"proxy": "115.144.147.114:15648", "country": "South Korea", "country_code": "KR", "isp": "Korea Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "103.21.220.141:3128", "country": "Canada", "country_code": "CA", "isp": "Leaseweb Hong Kong Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "49.254.145.164:15648", "country": "South Korea", "country_code": "KR", "isp": "Korea Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:27807", "country": "Mexico", "country_code": "MX", "isp": "UNINET", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "164.163.42.3:10000", "country": "Argentina", "country_code": "AR", "isp": "Interret Villa Angela SRL", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:19139", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "94.156.112.198:3128", "country": "Germany", "country_code": "DE", "isp": "Play2go International Limited", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:30111", "country": "Colombia", "country_code": "CO", "isp": "INVERSIONES ZULUAGA SEJIN SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "200.60.124.19:13128", "country": "Peru", "country_code": "PE", "isp": "Telefonica del Peru S.A.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

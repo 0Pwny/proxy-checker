@@ -3794,5 +3794,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "191.242.182.7:8080",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Conect Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "91.233.223.147:3128",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "Radist LTD",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "38.180.18.103:3128",
+    "country": "Belgium",
+    "country_code": "BE",
+    "isp": "M247 Europe SRL",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "143.198.147.156:8888",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

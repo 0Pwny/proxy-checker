@@ -268,3 +268,8 @@
 {"proxy": "190.61.45.92:8081", "country": "Colombia", "country_code": "CO", "isp": "Ufinet Panama S.A.", "is_mobile": true, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "64.44.157.13:8845", "country": "United States", "country_code": "US", "isp": "Nexeon Technologies", "is_mobile": true, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "121.126.39.101:15648", "country": "South Korea", "country_code": "KR", "isp": "Korea Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "164.163.42.4:10000", "country": "Argentina", "country_code": "AR", "isp": "Interret Villa Angela SRL", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "164.163.42.34:10000", "country": "Argentina", "country_code": "AR", "isp": "Interret Villa Angela SRL", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:32935", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "140.238.184.182:3128", "country": "Brazil", "country_code": "BR", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "34.10.245.236:8888", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

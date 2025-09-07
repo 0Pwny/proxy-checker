@@ -3677,5 +3677,109 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "49.254.11.43:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "HAIonNet",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "164.163.42.42:10000",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "13.60.92.114:3128",
+    "country": "Sweden",
+    "country_code": "SE",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "115.144.38.22:15648",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "HAIonNet",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "15.228.191.108:3128",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "13.60.12.206:3128",
+    "country": "Sweden",
+    "country_code": "SE",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "13.38.48.111:9090",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Amazon Technologies Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.19:31529",
+    "country": "Portugal",
+    "country_code": "PT",
+    "isp": "Vodafone Portugal",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

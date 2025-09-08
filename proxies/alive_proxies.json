@@ -4925,5 +4925,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "177.234.194.31:999",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "isp": "Telecu Telecomunicaciones Del Ecuador Telecusa S.A.S.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

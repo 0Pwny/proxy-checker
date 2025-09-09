@@ -485,3 +485,11 @@
 {"proxy": "142.171.48.249:3128", "country": "United States", "country_code": "US", "isp": "Multacom Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:7511", "country": "Peru", "country_code": "PE", "isp": "Wi-net Telecom S.A.C.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.92:32449", "country": "Argentina", "country_code": "AR", "isp": "Gabriel Francisco Erbetta Y Mariano Andres Carrizo Richelet Sociedad De Hecho", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.170:25299", "country": "Mexico", "country_code": "MX", "isp": "Total Play Telecomunicaciones SA De CV", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "164.163.42.29:10000", "country": "Argentina", "country_code": "AR", "isp": "Interret Villa Angela SRL", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "37.187.92.9:1025", "country": "Germany", "country_code": "DE", "isp": "Stiftung Erneuerbare Freiheit", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "65.108.203.37:28080", "country": "United States", "country_code": "US", "isp": "Opera Browser VPN", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.176.153.22:3128", "country": "France", "country_code": "FR", "isp": "CGI GLOBAL LIMITED", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:12253", "country": "Canada", "country_code": "CA", "isp": "Reseau d'Informations Scientifiques du Quebec (RISQ Inc.)", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "115.144.38.21:15648", "country": "South Korea", "country_code": "KR", "isp": "HAIonNet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.46.217.79:3128", "country": "United States", "country_code": "US", "isp": "ZhouyiSat Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

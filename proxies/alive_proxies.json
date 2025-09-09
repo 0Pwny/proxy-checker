@@ -6017,5 +6017,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.170:31513",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "TDP-GRS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:8625",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

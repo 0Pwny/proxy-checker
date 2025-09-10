@@ -6628,5 +6628,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "164.163.41.1:10000",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Interret Villa Angela SRL",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "162.238.123.152:8888",
+    "country": "Denmark",
+    "country_code": "DK",
+    "isp": "31173 Services AB",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -6654,5 +6654,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.170:30045",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "isp": "EarthLink Telecommunications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "54.194.36.235:3128",
+    "country": "Ireland",
+    "country_code": "IE",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -6771,5 +6771,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "35.224.157.191:8080",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Oy Crea Nova Hosting Solution Ltd",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.173:19895",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "TELEFÔNICA BRASIL S.A",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

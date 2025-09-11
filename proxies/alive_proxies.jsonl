@@ -635,3 +635,13 @@
 {"proxy": "140.112.90.49:3128", "country": "Taiwan", "country_code": "TW", "isp": "T-NTU.EDU.TW", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "34.72.74.97:3128", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "157.180.121.252:25565", "country": "France", "country_code": "FR", "isp": "Free", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:4377", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "134.199.192.31:1337", "country": "Germany", "country_code": "DE", "isp": "3xK Tech GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.254:11631", "country": "United States", "country_code": "US", "isp": "Charter Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:52239", "country": "United Kingdom", "country_code": "GB", "isp": "Virgin Media Limited", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "107.6.7.232:3128", "country": "Canada", "country_code": "CA", "isp": "Aptum Technologies", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.93:25895", "country": "Argentina", "country_code": "AR", "isp": "Telecom Argentina S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "185.191.236.162:8080", "country": "Switzerland", "country_code": "CH", "isp": "Grupo Panaglobal 15 S.A", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:33039", "country": "Guatemala", "country_code": "GT", "isp": "NORTVCOM, SOCIEDAD ANONIMA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.89.52.241:3128", "country": "Türkiye", "country_code": "TR", "isp": "PQ HOSTING PLUS S.R.L.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:15477", "country": "Mexico", "country_code": "MX", "isp": "UNINET", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

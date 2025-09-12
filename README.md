@@ -4,7 +4,7 @@ Fast threaded proxy checker with real transfer tests, GeoIP lookup, multi-format
 <!-- PROXY_STATUS:START -->
 | 🌐 Updated (UTC) | ✅ Alive | 📄 TXT | 📜 JSONL | 📦 Size (TXT/JSONL) |
 |---|---:|---|---|---|
-| 2025-09-12 12:36 UTC | 694 | [proxies/alive_proxies.txt](proxies/alive_proxies.txt) | [proxies/alive_proxies.jsonl](proxies/alive_proxies.jsonl) | 13.4KB / 133.7KB |
+| 2025-09-12 14:26 UTC | 697 | [proxies/alive_proxies.txt](proxies/alive_proxies.txt) | [proxies/alive_proxies.jsonl](proxies/alive_proxies.jsonl) | 13.4KB / 134.3KB |
 <!-- PROXY_STATUS:END -->
 
 ## Features

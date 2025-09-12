@@ -9267,5 +9267,96 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "157.180.121.252:18115",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Energis UK",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.180.121.252:57411",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "UNI2",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.172:5415",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Total Play Telecomunicaciones SA De CV",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.180.121.252:54899",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Community Fibre Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.180.121.252:53919",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Virgin Media",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:1845",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "EBOX",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:29145",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Giga Byte Telecomunicacoes Ltda",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -674,3 +674,5 @@
 {"proxy": "104.129.194.46:11712", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "104.129.194.46:11735", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "104.129.194.46:10981", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:54019", "country": "France", "country_code": "FR", "isp": "France Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "5.78.130.46:12016", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

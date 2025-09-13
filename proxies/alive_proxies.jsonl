@@ -725,3 +725,6 @@
 {"proxy": "157.180.121.252:30225", "country": "Germany", "country_code": "DE", "isp": "Vodafone", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.171:6905", "country": "United States", "country_code": "US", "isp": "Consolidated Communications, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:26563", "country": "Mexico", "country_code": "MX", "isp": "UNINET", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:25843", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.171:16633", "country": "United States", "country_code": "US", "isp": "Windstream Communications LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.254:21007", "country": "Colombia", "country_code": "CO", "isp": "ETB - Colombia", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

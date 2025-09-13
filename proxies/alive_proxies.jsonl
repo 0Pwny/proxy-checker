@@ -736,3 +736,7 @@
 {"proxy": "72.10.160.90:6091", "country": "United States", "country_code": "US", "isp": "Cablevision Systems Corp.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "157.180.121.252:10581", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.236.20:11395", "country": "Uruguay", "country_code": "UY", "isp": "Administracion Nacional de Telecomunicaciones", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "144.91.91.253:8080", "country": "France", "country_code": "FR", "isp": "Contabo GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:48293", "country": "Germany", "country_code": "DE", "isp": "Deutsche Telekom AG", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "134.209.15.180:8080", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.92:30321", "country": "France", "country_code": "FR", "isp": "Bouygues Telecom ISP Wireline", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

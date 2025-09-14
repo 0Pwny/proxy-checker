@@ -10541,5 +10541,564 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "104.129.194.46:10590",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "95.3.68.78:3128",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Turk Telekomunikasyon Anonim Sirketi",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11065",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:10030",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11725",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.77.156.171:9091",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:10231",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:10001",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11734",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11714",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "138.124.113.42:3128",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Aeza International LTD",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:10152",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11657",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11659",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:26619",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "AT&T Enterprises, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "134.199.192.31:1976",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "3xK Tech GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11495",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11677",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11265",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11072",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11129",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:12099",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11741",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "95.3.68.78:8080",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Turk Telekomunikasyon Anonim Sirketi",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:16357",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "UNINET",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11703",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11699",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:5211",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "TELUS Communications Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:10239",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11723",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11716",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:33333",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11718",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:9401",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11480",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:31357",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Station Net Provedor de Internet",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "170.78.208.251:999",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Wantelco SAS de CV",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:10290",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11691",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11698",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11721",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:10008",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11498",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

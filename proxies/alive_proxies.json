@@ -17080,5 +17080,395 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.236.21:14125",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "THUNDERNET, C.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.91:15517",
+    "country": "Qatar",
+    "country_code": "QA",
+    "isp": "Vodafone Qatar P.Q.S.C",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "185.224.248.228:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Melbikomas UAB",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.180.121.252:28193",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "isp": "Etanetas UAB",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.75.34.103:9400",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "129.146.169.173:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:10265",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "isp": "Telconet S.A",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "24.77.202.177:8080",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Shaw Communications Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.180.121.252:45124",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Sky UK Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.18:26125",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Telmex Colombia S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "161.132.51.126:3128",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "Red Cientifica Peruana",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.180.121.252:47077",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "Soluciones Corporativas IP, SL",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "34.88.57.53:3128",
+    "country": "Sweden",
+    "country_code": "SE",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.180.121.252:35281",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "France Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.172:30829",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "AT&T Enterprises, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "51.178.220.185:3128",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "64.31.49.174:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Limestone Networks, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.18:13307",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "AT&T Enterprises, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "193.122.197.154:80",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.180.121.252:15693",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Proxad / Free SAS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "38.194.243.62:999",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Cogent Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "37.120.247.137:3128",
+    "country": "Romania",
+    "country_code": "RO",
+    "isp": "M247 Europe SRL",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.180.121.252:34383",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Vodafone",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.180.121.252:29837",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "BT Public Internet Service",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:11161",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:15147",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telecom Argentina S.A.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:3931",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.75.34.103:10008",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Packet Host, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "179.1.95.217:9992",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Colombia Telecomunicaciones S.a. ESP BIC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.180.121.252:42084",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "ProXad network / Free SAS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

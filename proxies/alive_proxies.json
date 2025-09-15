@@ -16898,5 +16898,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.90:18707",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "America Movil Peru S.A.C.",
+    "is_mobile": true,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

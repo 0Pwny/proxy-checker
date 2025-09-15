@@ -1304,3 +1304,11 @@
 {"proxy": "181.41.201.85:3128", "country": "Brazil", "country_code": "BR", "isp": "Datacamp Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.160.171:12357", "country": "France", "country_code": "FR", "isp": "ProXad network / Free", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.173:8547", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.19:1389", "country": "France", "country_code": "FR", "isp": "ProXad network / Free SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.174:19209", "country": "Argentina", "country_code": "AR", "isp": "Telecom Argentina S.A.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:21873", "country": "Dominican Republic", "country_code": "DO", "isp": "Compañía Dominicana de Teléfonos S. A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.37.70.195:3128", "country": "Germany", "country_code": "DE", "isp": "Cloud Hosting Solutions, Limited.", "is_mobile": true, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "5.250.183.76:3128", "country": "France", "country_code": "FR", "isp": "IONOS SE", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "170.106.169.126:3128", "country": "United States", "country_code": "US", "isp": "Tencent Cloud Computing (Beijing) Co", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "87.106.122.120:3128", "country": "France", "country_code": "FR", "isp": "IONOS SE", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "93.127.202.239:3128", "country": "France", "country_code": "FR", "isp": "Hostinger International Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

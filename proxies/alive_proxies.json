@@ -15494,5 +15494,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "185.105.88.231:3128",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "First Server Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "168.231.68.151:8080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HOSTINGER US",
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:10329",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -17717,5 +17717,83 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "37.220.85.73:8080",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Timeweb, LLP",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:2825",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Shaw Communications Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "38.156.237.214:999",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "isp": "BITNET DOMINICANA, S.R.L.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "97.79.251.186:80",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Spectrum",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "217.174.244.117:3129",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.75.34.103:10002",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Packet Host, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

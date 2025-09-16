@@ -1384,3 +1384,10 @@
 {"proxy": "67.43.228.253:21605", "country": "United States", "country_code": "US", "isp": "Virginia Polytechnic Institute and State Univ.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "212.227.55.218:3128", "country": "Germany", "country_code": "DE", "isp": "IONOS SE", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.160.173:28485", "country": "United States", "country_code": "US", "isp": "AT&T Enterprises, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.18:26763", "country": "Dominican Republic", "country_code": "DO", "isp": "Compañía Dominicana de Teléfonos S. A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "89.213.45.47:3128", "country": "Poland", "country_code": "PL", "isp": "Wojciech Czapkowicz", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "94.23.160.62:8202", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:26683", "country": "Canada", "country_code": "CA", "isp": "Le Groupe Videotron Ltee", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:29231", "country": "United States", "country_code": "US", "isp": "Charter Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:7467", "country": "Italy", "country_code": "IT", "isp": "INFOSTRADA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "141.253.102.129:3140", "country": "France", "country_code": "FR", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

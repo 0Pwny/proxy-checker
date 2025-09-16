@@ -17470,5 +17470,109 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "128.199.120.191:3128",
+    "country": "Singapore",
+    "country_code": "SG",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.22:26417",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Bell Canada",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.93:21181",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.18:32993",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "ETB - Colombia",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.94:5473",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Rogers Communications Canada Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "164.90.193.32:8888",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "107.178.115.140:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Input Output Flood LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:5633",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Rogers Communications Canada Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

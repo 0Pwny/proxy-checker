@@ -1379,3 +1379,8 @@
 {"proxy": "72.10.160.171:2927", "country": "Venezuela", "country_code": "VE", "isp": "THUNDERNET, C.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "37.220.85.73:3128", "country": "The Netherlands", "country_code": "NL", "isp": "Timeweb, LLP", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "157.180.121.252:35425", "country": "Switzerland", "country_code": "CH", "isp": "Sunrise GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.170:25017", "country": "France", "country_code": "FR", "isp": "Bouygues Telecom ISP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:3729", "country": "Brazil", "country_code": "BR", "isp": "Link Sete Servicos de Internet e Redes Ltda", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:21605", "country": "United States", "country_code": "US", "isp": "Virginia Polytechnic Institute and State Univ.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "212.227.55.218:3128", "country": "Germany", "country_code": "DE", "isp": "IONOS SE", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.173:28485", "country": "United States", "country_code": "US", "isp": "AT&T Enterprises, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

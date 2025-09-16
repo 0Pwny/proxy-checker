@@ -17626,5 +17626,96 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "142.171.157.207:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Multacom Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "94.131.110.63:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "PQ HOSTING PLUS S.R.L.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:21559",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "Wi-net Telecom S.A.C.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "194.67.105.229:3128",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "\"Domain names registrar REG.RU\", Ltd",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "142.171.127.232:7890",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Multacom Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:11515",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "MDS TELECOM C.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "112.216.83.10:3128",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "LG DACOM Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

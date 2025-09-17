@@ -1440,3 +1440,4 @@
 {"proxy": "72.10.160.170:24081", "country": "United States", "country_code": "US", "isp": "AT&T Enterprises, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "104.129.194.44:10820", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "138.68.153.144:3128", "country": "Italy", "country_code": "IT", "isp": "Lowhosting services of Davide Gennari", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "49.229.100.235:8080", "country": "Thailand", "country_code": "TH", "isp": "True Internet Corporation CO. Ltd.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

@@ -18744,5 +18744,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "49.229.100.235:8080",
+    "country": "Thailand",
+    "country_code": "TH",
+    "isp": "True Internet Corporation CO. Ltd.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

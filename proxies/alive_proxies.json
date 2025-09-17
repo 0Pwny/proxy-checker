@@ -18731,5 +18731,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "138.68.153.144:3128",
+    "country": "Italy",
+    "country_code": "IT",
+    "isp": "Lowhosting services of Davide Gennari",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -1434,3 +1434,8 @@
 {"proxy": "72.10.160.170:9229", "country": "United States", "country_code": "US", "isp": "M247 New York", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.160.173:15683", "country": "Belgium", "country_code": "BE", "isp": "M247 Europe SRL", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "157.180.121.252:10111", "country": "Germany", "country_code": "DE", "isp": "Vodafone", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "147.75.101.247:10006", "country": "The Netherlands", "country_code": "NL", "isp": "Packet Host, Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "158.101.173.226:3128", "country": "Germany", "country_code": "DE", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "47.79.94.78:1122", "country": "Japan", "country_code": "JP", "isp": "Alibaba (US) Technology Co., Ltd.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.170:24081", "country": "United States", "country_code": "US", "isp": "AT&T Enterprises, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.129.194.44:10820", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

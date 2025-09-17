@@ -18874,5 +18874,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.164.178:23211",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Total Play Telecomunicaciones SA De CV",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

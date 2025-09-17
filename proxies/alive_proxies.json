@@ -18822,5 +18822,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.170:25007",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.250:11427",
+    "country": "Bahrain",
+    "country_code": "BH",
+    "isp": "Etisalcom W.L.L",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:20387",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "Net Uno, C.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:2827",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Deutsche Telekom AG",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

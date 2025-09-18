@@ -19212,5 +19212,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "212.80.216.232:3128",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Serverio technologijos MB",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

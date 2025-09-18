@@ -1473,3 +1473,5 @@
 {"proxy": "67.43.236.20:1227", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "35.226.66.119:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "67.43.236.21:26135", "country": "Venezuela", "country_code": "VE", "isp": "IFX Networks Venezuela C.A.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:22725", "country": "France", "country_code": "FR", "isp": "France Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:3039", "country": "Sweden", "country_code": "SE", "isp": "Telia Company AB", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

@@ -19225,5 +19225,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "64.181.240.152:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -20447,5 +20447,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.236.22:23325",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "BTT TELECOMUNICACOES S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.251:10961",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Road Runner",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

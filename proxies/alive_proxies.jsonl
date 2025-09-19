@@ -1573,3 +1573,5 @@
 {"proxy": "157.180.121.252:58101", "country": "Spain", "country_code": "ES", "isp": "Digi Spain Telecom S.L.U.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.236.22:23325", "country": "Brazil", "country_code": "BR", "isp": "BTT TELECOMUNICACOES S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.251:10961", "country": "United States", "country_code": "US", "isp": "Road Runner", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.18:8405", "country": "Colombia", "country_code": "CO", "isp": "Telmex Colombia S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "200.174.198.158:8888", "country": "Brazil", "country_code": "BR", "isp": "Claro S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

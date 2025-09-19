@@ -20629,5 +20629,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "92.119.126.229:8118",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

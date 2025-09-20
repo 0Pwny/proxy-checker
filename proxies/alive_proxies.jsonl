@@ -1621,3 +1621,5 @@
 {"proxy": "78.135.85.75:3128", "country": "Turkey", "country_code": "TR", "isp": "Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.173:17587", "country": "Mexico", "country_code": "MX", "isp": "UNINET", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.250:11323", "country": "United States", "country_code": "US", "isp": "Wholesail networks LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.174:31881", "country": "Canada", "country_code": "CA", "isp": "Rogers Communications Canada Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "70.183.141.254:3128", "country": "United States", "country_code": "US", "isp": "Cox Communications Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

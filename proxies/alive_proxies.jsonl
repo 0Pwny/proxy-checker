@@ -1630,3 +1630,6 @@
 {"proxy": "72.10.160.90:1475", "country": "Saudi Arabia", "country_code": "SA", "isp": "Saudi Telecom Company JSC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.236.18:33139", "country": "Ecuador", "country_code": "EC", "isp": "Corporacion Nacional De Telecomunicaciones - CNT EP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "157.180.121.252:25019", "country": "United Kingdom", "country_code": "GB", "isp": "BT Public Internet Service", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:29643", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.180.121.252:10017", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.18:18711", "country": "Brazil", "country_code": "BR", "isp": "Claro NXT Telecomunicacoes Ltda", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

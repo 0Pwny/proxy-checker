@@ -21188,5 +21188,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.236.18:33139",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "isp": "Corporacion Nacional De Telecomunicaciones - CNT EP",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.180.121.252:25019",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "BT Public Internet Service",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -21838,5 +21838,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "38.224.223.246:9991",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Javier Tamayo Garcia",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

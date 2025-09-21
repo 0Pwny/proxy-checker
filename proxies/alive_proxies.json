@@ -21851,5 +21851,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "209.14.68.68:8888",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Qnax Ltda",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:14475",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Total Play Telecomunicaciones SA De CV",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "87.106.144.63:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "IONOS SE ber.de",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "213.142.152.123:31280",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ADEOX",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:21349",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "isp": "Zain KSA",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

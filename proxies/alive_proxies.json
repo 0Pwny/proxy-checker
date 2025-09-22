@@ -22267,5 +22267,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "157.180.121.252:11673",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "BT Public Internet Service",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "159.89.104.215:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "107.174.54.213:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HostPapa",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "23.95.248.47:5566",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HostPapa",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

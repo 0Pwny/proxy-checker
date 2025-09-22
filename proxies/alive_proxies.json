@@ -22124,5 +22124,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.170:4437",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telecentro S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

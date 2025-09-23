@@ -23190,5 +23190,135 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "157.180.121.252:13023",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "TDENET (Red de servicios IP)",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.180.121.252:58705",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Energis UK",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:13871",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "KPN B.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:31025",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telecom Argentina S.A",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:27629",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Telmex Colombia S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.250:30509",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Bell Canada",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:7557",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Claro NXT Telecomunicacoes Ltda",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "23.236.65.234:38080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Zenlayer Inc",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.250:33277",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Total Play Telecomunicaciones SA De CV",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:12141",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "TDP-GRS",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

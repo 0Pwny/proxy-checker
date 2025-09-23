@@ -23320,5 +23320,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.211.221.112:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Interserver, Inc",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.18:31369",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Rogers Communications Canada Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.171:23173",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

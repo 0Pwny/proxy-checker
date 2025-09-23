@@ -23359,5 +23359,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "157.180.121.252:12491",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Community Fibre Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.180.121.252:23456",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "ATUAXANELA",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.180.121.252:11757",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "isp": "Filleck s.r.o.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:5081",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "AT&T Enterprises, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

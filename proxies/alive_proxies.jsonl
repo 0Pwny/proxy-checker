@@ -1755,3 +1755,8 @@
 {"proxy": "204.13.154.221:5688", "country": "United States", "country_code": "US", "isp": "Multacom Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:31679", "country": "Colombia", "country_code": "CO", "isp": "Telmex Colombia S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "142.93.80.53:13218", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "107.167.49.215:15999", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:4965", "country": "Honduras", "country_code": "HN", "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "107.167.49.200:15999", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "138.201.125.223:3129", "country": "Germany", "country_code": "DE", "isp": "Stiftung Erneuerbare Freiheit", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.18:16653", "country": "Brazil", "country_code": "BR", "isp": "Desktop Sigmanet Comunicação Multimídia SA", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

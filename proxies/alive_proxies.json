@@ -23879,5 +23879,83 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "157.180.121.252:10062",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "BT Public Internet Service",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "78.47.219.204:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Hetzner Online GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:22751",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Shaw Communications Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.22:19597",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telefonica de Argentina",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "103.246.146.136:3128",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Podaon SIA",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "177.247.249.5:3128",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Mega Cable, S.A. de C.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

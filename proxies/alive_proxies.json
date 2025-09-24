@@ -23593,5 +23593,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "191.96.96.223:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "95.179.221.141:443",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "The Constant Company, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

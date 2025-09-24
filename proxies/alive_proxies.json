@@ -23541,5 +23541,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "157.180.121.252:52611",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Kcom Group Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.171:13373",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "SpaceX Starlink",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "46.247.108.6:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Florian Kolb",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "173.249.48.227:3128",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Contabo GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

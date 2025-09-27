@@ -25712,5 +25712,174 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.236.20:1579",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Empresas Municipales De Cali E.i.c.e. E.S.P.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "167.172.162.147:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.220:10007",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.220:10086",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "31.145.50.10:8080",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Vodafone Net Iletisim Hizmetler AS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "31.145.174.165:8080",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Vodafone Net Iletisim Hizmetler AS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.92:23833",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:28613",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Bell Canada",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.93:18545",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telefonica de Argentina",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.220:10039",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.217:9400",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:32013",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Developpement Innovations Haut-Richelieu",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.220:10053",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

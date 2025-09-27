@@ -26466,5 +26466,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "31.145.50.5:8080",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Vodafone Net Iletisim Hizmetler AS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:19179",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "31.145.50.3:8080",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Vodafone Net Iletisim Hizmetler AS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.18:27247",
+    "country": "Uruguay",
+    "country_code": "UY",
+    "isp": "Administracion Nacional de Telecomunicaciones",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "135.125.97.184:44287",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

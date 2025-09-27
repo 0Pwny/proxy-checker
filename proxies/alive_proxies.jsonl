@@ -2025,3 +2025,8 @@
 {"proxy": "35.232.62.97:8080", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.160.90:12993", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "165.227.104.238:8118", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "5.161.190.155:100", "country": "United States", "country_code": "US", "isp": "Hetzner Online GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:19019", "country": "Mexico", "country_code": "MX", "isp": "Mega Cable, S.A. de C.V.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "62.84.97.236:80", "country": "The Netherlands", "country_code": "NL", "isp": "Servers Tech Fzco", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "31.145.50.4:8080", "country": "Türkiye", "country_code": "TR", "isp": "Vodafone Net Iletisim Hizmetler AS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "31.145.50.1:8080", "country": "Türkiye", "country_code": "TR", "isp": "Vodafone Net Iletisim Hizmetler AS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

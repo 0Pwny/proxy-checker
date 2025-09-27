@@ -1989,3 +1989,13 @@
 {"proxy": "35.243.0.217:9400", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:32013", "country": "Canada", "country_code": "CA", "isp": "Developpement Innovations Haut-Richelieu", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "35.243.0.220:10053", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:17285", "country": "Brazil", "country_code": "BR", "isp": "Universo Internet Ltda - ME", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:3455", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "200.81.158.46:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "31.145.50.19:8080", "country": "Türkiye", "country_code": "TR", "isp": "Vodafone Net Iletisim Hizmetler AS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "31.145.174.183:8080", "country": "Türkiye", "country_code": "TR", "isp": "Vodafone Net Iletisim Hizmetler AS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "35.243.0.217:10012", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "31.145.174.176:8080", "country": "Türkiye", "country_code": "TR", "isp": "Vodafone Net Iletisim Hizmetler AS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "35.243.0.217:10011", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.236.19:33129", "country": "Canada", "country_code": "CA", "isp": "Rogers Communications Canada Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "31.145.174.181:8080", "country": "Türkiye", "country_code": "TR", "isp": "Vodafone Net Iletisim Hizmetler AS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

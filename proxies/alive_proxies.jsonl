@@ -2011,3 +2011,6 @@
 {"proxy": "31.145.50.2:8080", "country": "Türkiye", "country_code": "TR", "isp": "Vodafone Net Iletisim Hizmetler AS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "217.160.224.54:8118", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "104.244.78.150:5555", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "193.95.53.131:8077", "country": "Tunisia", "country_code": "TN", "isp": "3S INF", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.170:18945", "country": "Chile", "country_code": "CL", "isp": "WOM S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "109.92.141.2:789", "country": "Serbia", "country_code": "RS", "isp": "TELEKOM SRBIJA a.d.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

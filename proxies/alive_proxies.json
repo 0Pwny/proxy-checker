@@ -26700,5 +26700,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "147.75.101.247:10030",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Packet Host, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "89.40.143.28:7788",
+    "country": "Italy",
+    "country_code": "IT",
+    "isp": "Seflow S.N.C. Di Marco Brame' & C.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

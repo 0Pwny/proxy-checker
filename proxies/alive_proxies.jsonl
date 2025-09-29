@@ -2096,3 +2096,8 @@
 {"proxy": "72.10.160.170:22413", "country": "Brazil", "country_code": "BR", "isp": "Vivo", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.174:28121", "country": "Saudi Arabia", "country_code": "SA", "isp": "Saudi Telecom Company JSC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "45.14.224.247:80", "country": "The Netherlands", "country_code": "NL", "isp": "SpectraIP B.V.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "43.130.52.194:8118", "country": "United States", "country_code": "US", "isp": "Shenzhen Tencent Computer Systems Company Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.174:29221", "country": "United States", "country_code": "US", "isp": "Merit Network Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:14055", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "190.108.82.244:999", "country": "Peru", "country_code": "PE", "isp": "Internexa Peru S.A", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "167.98.100.170:31280", "country": "United Kingdom", "country_code": "GB", "isp": "Exponential-E Ltd.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

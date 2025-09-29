@@ -27337,5 +27337,122 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.236.20:17417",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Bledsoe Telephone Cooperative Corporation",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.253:2577",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Frontier Communications Solutions",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "176.65.132.67:8080",
+    "country": "Morocco",
+    "country_code": "MA",
+    "isp": "Pfcloud UG",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "83.43.97.182:8228",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "137.184.0.30:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "201.182.84.2:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.253:18333",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Operbes",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "176.65.132.67:3128",
+    "country": "Morocco",
+    "country_code": "MA",
+    "isp": "Pfcloud UG",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:13543",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Rogers Communications Canada Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

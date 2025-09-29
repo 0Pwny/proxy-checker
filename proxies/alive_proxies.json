@@ -27142,5 +27142,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.228.254:21449",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Hotwire Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "141.253.112.236:3168",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.19:25753",
+    "country": "Belarus",
+    "country_code": "BY",
+    "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

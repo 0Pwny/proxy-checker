@@ -32524,5 +32524,278 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "35.243.0.249:10080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.1.4:10040",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.1.4:10086",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.249:10086",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "148.153.56.51:80",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "CDS Global Cloud Co., Ltd",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.1.4:10081",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.38:10497",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.38:10230",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.1.4:10002",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.38:10344",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.250:18321",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Proxad / Free SAS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.22:19869",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Companhia Itabirana Telecomunicações Ltda",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.249:10100",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "207.174.7.181:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Back Waves Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.1.4:10111",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.1.4:10061",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.249:10030",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "8.217.250.141:33333",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.1.4:10032",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "172.104.55.36:3128",
+    "country": "Singapore",
+    "country_code": "SG",
+    "isp": "Akamai Technologies",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.1.4:10062",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

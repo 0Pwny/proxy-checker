@@ -2478,3 +2478,15 @@
 {"proxy": "67.43.228.250:8695", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "35.243.1.4:10012", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "35.243.0.249:10029", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:21195", "country": "Dominican Republic", "country_code": "DO", "isp": "Compañía Dominicana de Teléfonos S. A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.18:6879", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "35.243.0.249:10109", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "35.243.1.4:10087", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "35.243.0.249:10046", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "192.203.0.78:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "35.243.0.249:10028", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:1033", "country": "United States", "country_code": "US", "isp": "Meeker Cooperative Light & Power Association", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "35.243.0.249:10040", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "83.212.82.139:3128", "country": "Greece", "country_code": "GR", "isp": "National Infrastructures for Research and Technology S.A.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.173:20795", "country": "Costa Rica", "country_code": "CR", "isp": "Instituto Costarricense de Electricidad y Telecom.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "35.243.0.249:10024", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

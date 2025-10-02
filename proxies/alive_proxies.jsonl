@@ -2574,3 +2574,8 @@
 {"proxy": "62.171.152.87:8888", "country": "Germany", "country_code": "DE", "isp": "Contabo GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "201.196.16.199:80", "country": "Costa Rica", "country_code": "CR", "isp": "Instituto Costarricense de Electricidad y Telecom.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.90:1653", "country": "United States", "country_code": "US", "isp": "Purchase College - SUNY", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "35.243.1.4:10036", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "35.243.1.4:10046", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.92:12639", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:27765", "country": "Mexico", "country_code": "MX", "isp": "Total Play Telecomunicaciones SA De CV", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:8529", "country": "United States", "country_code": "US", "isp": "Wholesail networks LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

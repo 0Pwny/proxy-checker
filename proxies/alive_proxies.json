@@ -34890,5 +34890,122 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "35.243.1.4:10091",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "89.251.9.11:3128",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "BitCommand LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.172:28151",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "VIETTEL PERÚ S.A.C.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.1.4:10063",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:22191",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "197.164.101.11:1981",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.250:12493",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Total Play Telecomunicaciones SA De CV",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "74.89.123.49:80",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cablevision Systems Corp.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.249:10038",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

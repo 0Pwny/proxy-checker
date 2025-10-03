@@ -2710,3 +2710,5 @@
 {"proxy": "212.74.225.230:3128", "country": "Russia", "country_code": "RU", "isp": "Selectel", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "3.29.240.36:3128", "country": "United Arab Emirates", "country_code": "AE", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "41.254.48.190:1976", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "47.79.95.136:1122", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "138.201.135.176:3129", "country": "United States", "country_code": "US", "isp": "Emerald Onion", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

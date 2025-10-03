@@ -35254,5 +35254,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "47.79.95.136:1122",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "138.201.135.176:3129",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Emerald Onion",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

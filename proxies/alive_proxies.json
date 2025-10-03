@@ -35137,5 +35137,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "89.117.54.187:80",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Contabo GmbH",
+    "is_mobile": true,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.211:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.211:10094",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.211:23924",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.211:10083",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

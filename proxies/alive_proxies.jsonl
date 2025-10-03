@@ -2714,3 +2714,13 @@
 {"proxy": "138.201.135.176:3129", "country": "United States", "country_code": "US", "isp": "Emerald Onion", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.160.90:2537", "country": "Uruguay", "country_code": "UY", "isp": "Administracion Nacional de Telecomunicaciones", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "35.243.1.4:10076", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.170:10891", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:30017", "country": "Canada", "country_code": "CA", "isp": "Cogeco Connexion inc", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:28971", "country": "Venezuela", "country_code": "VE", "isp": "CANTV Servicios, Venezuela", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "77.123.145.21:3128", "country": "Ukraine", "country_code": "UA", "isp": "Volia-Cable LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.171:4707", "country": "United States", "country_code": "US", "isp": "Cox Communications Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.171:3863", "country": "United Kingdom", "country_code": "GB", "isp": "Energis UK", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "35.243.1.4:10093", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "91.238.104.155:2023", "country": "Ukraine", "country_code": "UA", "isp": "FOP \"Reznichenko Sergey Mykolayovich\"", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "95.81.117.156:8888", "country": "United States", "country_code": "US", "isp": "Scalaxy B.V.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "91.238.105.43:2023", "country": "Ukraine", "country_code": "UA", "isp": "FOP \"Reznichenko Sergey Mykolayovich\"", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

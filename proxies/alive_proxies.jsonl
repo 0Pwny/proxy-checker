@@ -3349,3 +3349,8 @@
 {"proxy": "67.43.228.253:18525", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.253:13717", "country": "United States", "country_code": "US", "isp": "Google Fiber Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.236.22:16341", "country": "Brazil", "country_code": "BR", "isp": "RVT SERVICOS DE TELECOMUNICACOES LTDA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:20659", "country": "Ecuador", "country_code": "EC", "isp": "Telconet S.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "116.80.58.222:3172", "country": "Japan", "country_code": "JP", "isp": "InfoSphere", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:28181", "country": "United States", "country_code": "US", "isp": "Verizon Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:27481", "country": "France", "country_code": "FR", "isp": "ProXad network / Free SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:21671", "country": "Sweden", "country_code": "SE", "isp": "Telenor Norge", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

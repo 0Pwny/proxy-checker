@@ -43106,5 +43106,226 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.228.250:30771",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Bell Canada",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.245:10119",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:14367",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Free",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.245:10039",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.93:4779",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Free",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:26519",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "NCNET",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.251:27355",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "BOUYGUES Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.243:10087",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:19845",
+    "country": "Portugal",
+    "country_code": "PT",
+    "isp": "Vodafone Portugal",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:29757",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "Cogent Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.19:6815",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.243:10098",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.245:29623",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.245:10060",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.245:10018",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.245:10112",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.243.0.245:10008",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

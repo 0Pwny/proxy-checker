@@ -3452,3 +3452,10 @@
 {"proxy": "67.43.228.253:14717", "country": "Colombia", "country_code": "CO", "isp": "Telmex Colombia S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.250:8329", "country": "Peru", "country_code": "PE", "isp": "Telefonica del Peru S.A.A.", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "223.205.73.218:8080", "country": "Thailand", "country_code": "TH", "isp": "Triple T Broadband Public Company Limited", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "68.178.167.154:8899", "country": "Japan", "country_code": "JP", "isp": "GoDaddy.com, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.91:5897", "country": "France", "country_code": "FR", "isp": "Orange S.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.21:31725", "country": "Andorra", "country_code": "AD", "isp": "ANDORRA TELECOM, S.A.U.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:5897", "country": "France", "country_code": "FR", "isp": "Orange S.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "35.243.0.245:10065", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.172:2769", "country": "United States", "country_code": "US", "isp": "Cox Communications Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:20409", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

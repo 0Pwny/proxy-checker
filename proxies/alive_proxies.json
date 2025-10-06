@@ -44601,5 +44601,96 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "35.243.1.4:10025",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.19:2065",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "isp": "Liberty Communications of Puerto Rico LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:15223",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "isp": "Puntonet S.A",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:5127",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "University of Waterloo",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.92:8291",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "A Fróes da Mota telecomunicaçoes",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.253:27519",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Colombia Telecomunicaciones S.a. ESP BIC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:19491",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "Telefonica del Peru",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

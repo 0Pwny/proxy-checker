@@ -3411,3 +3411,8 @@
 {"proxy": "72.10.160.172:11211", "country": "Vietnam", "country_code": "VN", "isp": "Vietnam Internet Network Information Center", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "35.243.0.243:10048", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "35.243.0.249:10033", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:10763", "country": "France", "country_code": "FR", "isp": "Orange", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.170:9979", "country": "Bulgaria", "country_code": "BG", "isp": "Telecabel PLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:29743", "country": "France", "country_code": "FR", "isp": "Orange", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "190.93.92.134:999", "country": "Dominican Republic", "country_code": "DO", "isp": "Airtime Technology SRL", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.252:19867", "country": "Nicaragua", "country_code": "NI", "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

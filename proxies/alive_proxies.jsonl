@@ -3416,3 +3416,10 @@
 {"proxy": "72.10.160.90:29743", "country": "France", "country_code": "FR", "isp": "Orange", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "190.93.92.134:999", "country": "Dominican Republic", "country_code": "DO", "isp": "Airtime Technology SRL", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.252:19867", "country": "Nicaragua", "country_code": "NI", "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "165.225.72.38:10011", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:29379", "country": "Canada", "country_code": "CA", "isp": "Rogers Communications Canada Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "34.22.184.163:4309", "country": "Poland", "country_code": "PL", "isp": "PTK CENTERTEL MOBILE data services", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:30731", "country": "Spain", "country_code": "ES", "isp": "Orange Spain", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "31.97.136.54:3128", "country": "United States", "country_code": "US", "isp": "Hostinger International Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.91:17729", "country": "France", "country_code": "FR", "isp": "France Telecom", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "165.225.72.38:10523", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

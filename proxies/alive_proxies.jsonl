@@ -3459,3 +3459,15 @@
 {"proxy": "35.243.0.245:10065", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.160.172:2769", "country": "United States", "country_code": "US", "isp": "Cox Communications Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:20409", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.173:30041", "country": "United States", "country_code": "US", "isp": "Comporium", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "35.243.1.4:10049", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.236.18:27061", "country": "Canada", "country_code": "CA", "isp": "British Columbia Institute of Technology", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:13913", "country": "Brazil", "country_code": "BR", "isp": "TELEFÔNICA BRASIL S.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.94:10043", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "35.243.1.4:10065", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:1121", "country": "Colombia", "country_code": "CO", "isp": "Colombia Telecomunicaciones S.a. ESP BIC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "91.121.63.51:1080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "190.97.237.115:999", "country": "Venezuela", "country_code": "VE", "isp": "Cogent Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "178.17.62.152:8875", "country": "Belgium", "country_code": "BE", "isp": "Cogent Communications", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:5861", "country": "United States", "country_code": "US", "isp": "Momentum Telecom", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.170:19105", "country": "Brazil", "country_code": "BR", "isp": "Claro NXT Telecomunicacoes Ltda", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

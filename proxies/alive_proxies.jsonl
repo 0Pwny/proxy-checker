@@ -3495,3 +3495,15 @@
 {"proxy": "178.17.62.152:8843", "country": "Germany", "country_code": "DE", "isp": "Cogent Communications", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "190.113.15.2:3127", "country": "Chile", "country_code": "CL", "isp": "Servicios Internet Ltda", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.174:1923", "country": "Venezuela", "country_code": "VE", "isp": "THUNDERNET, C.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:4133", "country": "France", "country_code": "FR", "isp": "Sicae DU Carmausin SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:21563", "country": "Colombia", "country_code": "CO", "isp": "Telmex Colombia S.A.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.170:18697", "country": "France", "country_code": "FR", "isp": "BOUYGUES Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:4133", "country": "France", "country_code": "FR", "isp": "Sicae DU Carmausin SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "78.40.216.249:8888", "country": "Germany", "country_code": "DE", "isp": "Timeweb, LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "57.129.70.80:3128", "country": "Germany", "country_code": "DE", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "35.243.0.249:10049", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "151.80.147.171:3128", "country": "France", "country_code": "FR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.171:9867", "country": "Argentina", "country_code": "AR", "isp": "Telecom Argentina S.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "35.243.0.243:10117", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "89.107.10.73:3128", "country": "Germany", "country_code": "DE", "isp": " Miglovets Egor Andreevich", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "185.233.37.178:1210", "country": "Ukraine", "country_code": "UA", "isp": "Hosting Ukraine LTD", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

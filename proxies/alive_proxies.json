@@ -48995,5 +48995,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "186.180.73.50:9090",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Colombia Móvil",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

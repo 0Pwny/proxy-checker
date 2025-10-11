@@ -50035,5 +50035,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "201.144.25.10:8080",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "UNINET",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

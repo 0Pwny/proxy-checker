@@ -49983,5 +49983,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.236.18:3541",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "T-Mobile USA, Inc.",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:32711",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "Digi Spain Telecom S.L.U.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "154.73.28.161:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.253:13107",
+    "country": "Bahrain",
+    "country_code": "BH",
+    "isp": "Bahrain Telcommunication Company",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

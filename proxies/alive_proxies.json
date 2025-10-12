@@ -50698,5 +50698,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "195.201.144.27:8888",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "198.187.28.126:8080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Web-hosting.com",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:19051",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "isp": "Ufinet Panama S.A.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:1813",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "isp": "Compañía Dominicana de Teléfonos S. A.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

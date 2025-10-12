@@ -51244,5 +51244,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "90.19.216.199:8080",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Orange",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "198.54.124.88:8080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Namecheap, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "218.188.156.138:3128",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "isp": "HGC Global Communications Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.38:10608",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

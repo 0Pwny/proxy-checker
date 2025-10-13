@@ -3976,3 +3976,6 @@
 {"proxy": "67.43.228.250:30059", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "3.249.212.91:31280", "country": "Ireland", "country_code": "IE", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "158.178.215.19:3153", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "94.156.236.87:1080", "country": "Estonia", "country_code": "EE", "isp": "Baykov Ilya Sergeevich", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.252:10693", "country": "El Salvador", "country_code": "SV", "isp": "Globalnet.hn", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "141.253.101.47:3234", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

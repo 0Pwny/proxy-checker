@@ -52232,5 +52232,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "103.75.199.249:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "BitCommand LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

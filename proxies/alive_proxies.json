@@ -52492,5 +52492,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "94.154.152.13:8079",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

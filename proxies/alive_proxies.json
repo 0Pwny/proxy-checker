@@ -53129,5 +53129,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.170:26313",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Rogers Communications Canada Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:21267",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Le Groupe Videotron Ltee",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

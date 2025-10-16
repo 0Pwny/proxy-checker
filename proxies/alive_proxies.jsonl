@@ -4109,3 +4109,4 @@
 {"proxy": "143.244.207.86:3128", "country": "Germany", "country_code": "DE", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "178.208.78.217:8118", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "72.10.160.170:28529", "country": "Peru", "country_code": "PE", "isp": "Wi-net Telecom S.A.C.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "94.143.137.77:3128", "country": "Spain", "country_code": "ES", "isp": "IONOS SE", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

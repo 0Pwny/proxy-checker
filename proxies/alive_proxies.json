@@ -53441,5 +53441,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "94.143.137.77:3128",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "IONOS SE",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -54065,5 +54065,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "189.141.90.110:8118",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -54078,5 +54078,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "177.234.217.82:999",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "isp": "Ufinet Panama S.A.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

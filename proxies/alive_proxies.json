@@ -54364,5 +54364,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.228.253:17293",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "ProXad network / Free SAS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

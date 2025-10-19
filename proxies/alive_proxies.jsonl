@@ -4180,3 +4180,4 @@
 {"proxy": "67.43.236.20:26933", "country": "Canada", "country_code": "CA", "isp": "Rogers Communications Canada Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.170:4281", "country": "United States", "country_code": "US", "isp": "CenturyLink", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.253:32261", "country": "El Salvador", "country_code": "SV", "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:17293", "country": "France", "country_code": "FR", "isp": "ProXad network / Free SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

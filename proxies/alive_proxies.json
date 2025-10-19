@@ -54455,5 +54455,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.228.253:26695",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Total Play Telecomunicaciones SA De CV",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "185.88.174.249:8081",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

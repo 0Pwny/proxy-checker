@@ -54481,5 +54481,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.170:13337",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "Cablexpress TV C.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:5241",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.253:14587",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "ProXad network / Free SAS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

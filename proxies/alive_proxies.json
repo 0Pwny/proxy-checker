@@ -54858,5 +54858,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "35.236.192.3:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

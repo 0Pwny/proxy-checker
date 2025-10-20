@@ -4206,3 +4206,5 @@
 {"proxy": "72.10.160.93:25419", "country": "United States", "country_code": "US", "isp": "Pavlov Media Inc", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.170:15179", "country": "France", "country_code": "FR", "isp": "BOUYGUES Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.236.20:15731", "country": "Uruguay", "country_code": "UY", "isp": "Administracion Nacional de Telecomunicaciones", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "164.163.73.69:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "199.188.207.31:8080", "country": "United States", "country_code": "US", "isp": "Namecheap, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

@@ -4201,3 +4201,6 @@
 {"proxy": "72.10.160.172:20679", "country": "Venezuela", "country_code": "VE", "isp": "Customer01-fibra360", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:24637", "country": "Mexico", "country_code": "MX", "isp": "Total Play Telecomunicaciones SA De CV", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "31.25.236.121:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:7415", "country": "Canada", "country_code": "CA", "isp": "Saskatchewan Telecommunications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "213.131.85.30:1981", "country": "Egypt", "country_code": "EG", "isp": "Link Egypt (Link.NET)", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.93:25419", "country": "United States", "country_code": "US", "isp": "Pavlov Media Inc", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

@@ -55586,5 +55586,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.236.20:13987",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "UNINET",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:12399",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Le Groupe Videotron Ltee",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

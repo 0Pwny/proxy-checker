@@ -4287,3 +4287,5 @@
 {"proxy": "67.43.228.250:5783", "country": "France", "country_code": "FR", "isp": "Orange", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.90:18975", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.236.20:24343", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "74.48.78.6:3128", "country": "United States", "country_code": "US", "isp": "Multacom Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:9331", "country": "Panama", "country_code": "PA", "isp": "Cable & Wireless Panama", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

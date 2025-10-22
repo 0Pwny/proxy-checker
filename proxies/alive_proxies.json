@@ -55989,5 +55989,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.236.19:4201",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Telmex Colombia S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:23091",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Bell Canada",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

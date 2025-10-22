@@ -55781,5 +55781,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.91:9675",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "France Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.172:7451",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Vivo",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:2727",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "WideOpenWest Finance LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:15601",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "TruVista Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

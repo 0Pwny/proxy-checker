@@ -4332,3 +4332,5 @@
 {"proxy": "67.43.228.250:15117", "country": "Luxembourg", "country_code": "LU", "isp": "POST Luxembourg", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.254:29833", "country": "Ukraine", "country_code": "UA", "isp": "Everest more spec", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.90:16329", "country": "France", "country_code": "FR", "isp": "Bouygues Telecom ISP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:1507", "country": "Canada", "country_code": "CA", "isp": "University of Guelph", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:19563", "country": "Colombia", "country_code": "CO", "isp": "Colombia Telecomunicaciones S.a. ESP BIC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

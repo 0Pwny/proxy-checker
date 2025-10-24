@@ -57094,5 +57094,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "167.172.168.155:8080",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

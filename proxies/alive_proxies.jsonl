@@ -4391,3 +4391,5 @@
 {"proxy": "72.10.164.178:30371", "country": "France", "country_code": "FR", "isp": "Free SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:20245", "country": "Poland", "country_code": "PL", "isp": "Vectra S.A. CGNAT NETWORK", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "167.172.168.155:8080", "country": "Germany", "country_code": "DE", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "159.138.38.121:3128", "country": "Hong Kong", "country_code": "HK", "isp": "Huawei International Pte. Ltd.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:33075", "country": "Mexico", "country_code": "MX", "isp": "Mexico Red de Telecomunicaciones, S. de R.L. de C.V.", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

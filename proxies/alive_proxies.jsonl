@@ -4426,3 +4426,6 @@
 {"proxy": "72.10.160.170:4227", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "173.44.175.226:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "177.234.217.236:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:7493", "country": "France", "country_code": "FR", "isp": "BOUYGUES Telecom ISP Wireline", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.254:11273", "country": "France", "country_code": "FR", "isp": "France Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "46.101.131.79:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

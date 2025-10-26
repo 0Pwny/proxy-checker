@@ -57406,5 +57406,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "216.10.27.159:6837",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Colocation America Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "195.85.250.141:3128",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "PQ HOSTING PLUS S.R.L.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

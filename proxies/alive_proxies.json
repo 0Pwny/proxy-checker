@@ -58303,5 +58303,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.164.178:8993",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Microsoft Corporation",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "129.146.226.84:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

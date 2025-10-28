@@ -58433,5 +58433,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "190.97.230.198:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "95.164.61.2:3128",
+    "country": "Israel",
+    "country_code": "IL",
+    "isp": "PQ HOSTING PLUS S.R.L.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

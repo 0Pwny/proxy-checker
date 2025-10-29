@@ -58641,5 +58641,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "142.93.195.158:80",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

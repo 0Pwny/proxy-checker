@@ -58706,5 +58706,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.90:16435",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "BOUYGUES Telecom",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -4553,3 +4553,5 @@
 {"proxy": "72.10.160.90:31785", "country": "Colombia", "country_code": "CO", "isp": "ETB - Colombia", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.171:3541", "country": "Mexico", "country_code": "MX", "isp": "Mizraim Valtierra Espino", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "77.110.96.211:3128", "country": "Sweden", "country_code": "SE", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.251:26713", "country": "Canada", "country_code": "CA", "isp": "Le Groupe Videotron Ltee", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.254:23003", "country": "Mexico", "country_code": "MX", "isp": "UNINET", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

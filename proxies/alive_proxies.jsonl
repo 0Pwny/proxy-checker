@@ -4594,3 +4594,8 @@
 {"proxy": "20.210.39.153:8561", "country": "Japan", "country_code": "JP", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.160.171:14731", "country": "Colombia", "country_code": "CO", "isp": "Telmex Colombia S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.253:10625", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "103.80.87.70:3128", "country": "Ukraine", "country_code": "UA", "isp": "Individual Entrepreneur Anton Levin", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:13801", "country": "Qatar", "country_code": "QA", "isp": "Vodafone Qatar P.Q.S.C", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "158.101.113.18:80", "country": "United States", "country_code": "US", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:13097", "country": "Brazil", "country_code": "BR", "isp": "UNIFIQUE TELECOMUNICACOES S/A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:2929", "country": "Paraguay", "country_code": "PY", "isp": "Telecel S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

@@ -60123,5 +60123,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.171:22973",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "ETB - Colombia",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

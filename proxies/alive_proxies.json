@@ -60292,5 +60292,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.164.178:27831",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "America Movil Peru S.A.C.",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

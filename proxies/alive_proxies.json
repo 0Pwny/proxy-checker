@@ -60188,5 +60188,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.90:17281",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Bell Canada",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:24873",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Total Play Telecomunicaciones SA De CV",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.18:15263",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.91:20377",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:14045",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

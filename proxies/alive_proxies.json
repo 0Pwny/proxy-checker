@@ -60513,5 +60513,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.164.178:28889",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "168.138.147.179:3128",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:16925",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "MBO Video, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "54.36.105.26:3128",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

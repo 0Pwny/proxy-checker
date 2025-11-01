@@ -60396,5 +60396,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.171:25097",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications Inc",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:14059",
+    "country": "Uruguay",
+    "country_code": "UY",
+    "isp": "Administracion Nacional de Telecomunicaciones",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.18:32905",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

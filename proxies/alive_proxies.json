@@ -60175,5 +60175,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "20.210.76.178:8561",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Microsoft Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

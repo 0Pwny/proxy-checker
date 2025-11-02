@@ -60747,5 +60747,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.90:30403",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "CCT LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -4672,3 +4672,6 @@
 {"proxy": "167.99.78.120:3128", "country": "Singapore", "country_code": "SG", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:29783", "country": "United States", "country_code": "US", "isp": "Verizon Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.90:30403", "country": "United States", "country_code": "US", "isp": "CCT LLC", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:12109", "country": "France", "country_code": "FR", "isp": "France Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "185.162.236.133:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "67.43.228.252:1339", "country": "Australia", "country_code": "AU", "isp": "TPG Internet Pty Ltd", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

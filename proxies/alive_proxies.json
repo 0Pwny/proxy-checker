@@ -60877,5 +60877,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "139.59.222.40:3128",
+    "country": "Singapore",
+    "country_code": "SG",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

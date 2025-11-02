@@ -4669,3 +4669,5 @@
 {"proxy": "72.10.164.178:16609", "country": "United States", "country_code": "US", "isp": "Frontier Communications Solutions", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.251:5645", "country": "United States", "country_code": "US", "isp": "Metronet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "47.238.223.95:3128", "country": "Hong Kong", "country_code": "HK", "isp": "Alibaba Cloud LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "167.99.78.120:3128", "country": "Singapore", "country_code": "SG", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:29783", "country": "United States", "country_code": "US", "isp": "Verizon Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

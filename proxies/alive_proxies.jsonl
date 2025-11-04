@@ -4742,3 +4742,4 @@
 {"proxy": "72.10.160.170:2103", "country": "Mexico", "country_code": "MX", "isp": "Television Internacional, S.A. de C.V.", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "107.152.39.253:3128", "country": "United States", "country_code": "US", "isp": "tzulo, inc.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "178.128.243.121:3128", "country": "The Netherlands", "country_code": "NL", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.228.254:23389", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

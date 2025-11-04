@@ -61670,5 +61670,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.228.254:23389",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -4736,3 +4736,8 @@
 {"proxy": "67.43.228.253:24811", "country": "Colombia", "country_code": "CO", "isp": "Telmex Colombia S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "45.144.234.129:52056", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "4.233.138.204:8888", "country": "France", "country_code": "FR", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "103.52.115.171:3128", "country": "Indonesia", "country_code": "ID", "isp": "PT. Cloud Hosting Indonesia", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.170:16021", "country": "United States", "country_code": "US", "isp": "Fuse Internet Access", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.170:3303", "country": "United States", "country_code": "US", "isp": "Verizon Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.170:2103", "country": "Mexico", "country_code": "MX", "isp": "Television Internacional, S.A. de C.V.", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "107.152.39.253:3128", "country": "United States", "country_code": "US", "isp": "tzulo, inc.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

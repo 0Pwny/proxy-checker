@@ -62229,5 +62229,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.164.178:7481",
+    "country": "Belgium",
+    "country_code": "BE",
+    "isp": "Destiny N.V",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "46.205.246.63:8080",
+    "country": "Poland",
+    "country_code": "PL",
+    "isp": "T-Mobile Polska S.A.",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:21803",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.171:4031",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Mega Cable, S.A. de C.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:1209",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Free",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

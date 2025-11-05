@@ -62164,5 +62164,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "170.0.11.11:8080",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Guajiranet ISP S.A.S.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.172:2189",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google Fiber Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.91:2757",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.252:4613",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telecentro S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

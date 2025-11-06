@@ -63269,5 +63269,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.173:27647",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Spectrum",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:20563",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Orange",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:27647",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Spectrum",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

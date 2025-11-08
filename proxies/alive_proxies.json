@@ -64426,5 +64426,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.60.171.206:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Hostinger US",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

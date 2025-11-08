@@ -64361,5 +64361,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.174:4219",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google Fiber Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

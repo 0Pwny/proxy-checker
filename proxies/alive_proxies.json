@@ -64179,5 +64179,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.228.251:13533",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "IFX Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:24627",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "UNINET",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

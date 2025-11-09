@@ -64569,5 +64569,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "135.148.122.209:8080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

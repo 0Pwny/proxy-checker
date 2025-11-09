@@ -64582,5 +64582,96 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "8.208.90.86:8080",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Alibaba.com Singapore E-Commerce Private Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.92:19335",
+    "country": "Andorra",
+    "country_code": "AD",
+    "isp": "ANDORRA TELECOM, S.A.U.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.252:6149",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.171:2361",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "isp": "SPLIUS, UAB",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:6749",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Frontier Communications Solutions",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.90.181.223:2525",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Hetzner Online GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:19335",
+    "country": "Andorra",
+    "country_code": "AD",
+    "isp": "ANDORRA TELECOM, S.A.U.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -64868,5 +64868,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "38.137.179.252:999",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "DATANET VZLA 2021, C.A",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.75.68.200:9443",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

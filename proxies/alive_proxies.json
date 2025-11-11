@@ -65388,5 +65388,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.92:33061",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "TELUS Communications Inc",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "38.65.175.68:3128",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Wantelco SAS de CV",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

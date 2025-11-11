@@ -65336,5 +65336,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "149.62.191.202:3128",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "176.57.189.138:3128",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Contabo GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:8947",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:12227",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Cloudflare, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

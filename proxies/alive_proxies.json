@@ -66025,5 +66025,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.236.18:7279",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

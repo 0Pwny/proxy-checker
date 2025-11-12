@@ -65869,5 +65869,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.90:30475",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:25995",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Clicknet Telecom. Provedor de Internet LTDA",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:23927",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Orange",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:8653",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "UNINET",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "44.199.110.54:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon.com",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

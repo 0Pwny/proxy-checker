@@ -5127,3 +5127,10 @@
 {"proxy": "67.43.228.250:14221", "country": "Mexico", "country_code": "MX", "isp": "Total Play Telecomunicaciones SA De CV", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "45.144.53.25:1080", "country": "Finland", "country_code": "FI", "isp": "H2nexus LTD", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.90:32703", "country": "Brazil", "country_code": "BR", "isp": "Vivo", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "91.218.244.153:8989", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:18957", "country": "France", "country_code": "FR", "isp": "Free Mobile SAS", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "74.143.86.243:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:27927", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.173:7449", "country": "Canada", "country_code": "CA", "isp": "Rogers Communications Canada Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:4961", "country": "France", "country_code": "FR", "isp": "BOUYGUES Telecom", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:25965", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

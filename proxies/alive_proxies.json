@@ -66298,5 +66298,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.164.178:3419",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "EPM Telecomunicaciones S.A. E.S.P.",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:6123",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

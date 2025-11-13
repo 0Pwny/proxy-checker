@@ -5136,3 +5136,5 @@
 {"proxy": "72.10.164.178:25965", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.90:29819", "country": "Mexico", "country_code": "MX", "isp": "UNINET", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.254:25161", "country": "Canada", "country_code": "CA", "isp": "Rogers Communications Canada Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "47.250.123.161:3128", "country": "Malaysia", "country_code": "MY", "isp": "Alibaba Cloud LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:23239", "country": "Brazil", "country_code": "BR", "isp": "INFORNET CONEXÃO", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

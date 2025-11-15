@@ -67689,5 +67689,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.174:7759",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.75.68.200:9401",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

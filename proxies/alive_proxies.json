@@ -67520,5 +67520,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "116.80.91.203:3172",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "InfoSphere",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:24505",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

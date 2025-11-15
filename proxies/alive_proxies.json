@@ -67507,5 +67507,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.61.139.153:2525",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "BL Networks GB",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

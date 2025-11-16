@@ -68274,5 +68274,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "198.177.125.154:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Namecheap, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.86.27.94:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

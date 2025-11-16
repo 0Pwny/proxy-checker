@@ -5250,3 +5250,5 @@
 {"proxy": "3.112.87.42:3128", "country": "Japan", "country_code": "JP", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "57.182.245.99:3128", "country": "Japan", "country_code": "JP", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "43.206.138.151:3128", "country": "Japan", "country_code": "JP", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "198.177.125.154:3128", "country": "United States", "country_code": "US", "isp": "Namecheap, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "35.86.27.94:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

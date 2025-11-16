@@ -5242,3 +5242,11 @@
 {"proxy": "43.206.112.247:3128", "country": "Japan", "country_code": "JP", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.160.171:22037", "country": "Canada", "country_code": "CA", "isp": "Cogeco Communications Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "43.207.65.158:3128", "country": "Japan", "country_code": "JP", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "51.15.17.100:3128", "country": "The Netherlands", "country_code": "NL", "isp": "Online SAS NL", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "18.179.56.34:3128", "country": "Japan", "country_code": "JP", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "35.77.56.181:3128", "country": "Japan", "country_code": "JP", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "57.183.3.202:3128", "country": "Japan", "country_code": "JP", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "43.207.99.17:3128", "country": "Japan", "country_code": "JP", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "3.112.87.42:3128", "country": "Japan", "country_code": "JP", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "57.182.245.99:3128", "country": "Japan", "country_code": "JP", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "43.206.138.151:3128", "country": "Japan", "country_code": "JP", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

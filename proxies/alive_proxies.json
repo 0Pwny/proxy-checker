@@ -69015,5 +69015,148 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.236.20:20559",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Proxad / Free SAS",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.253:14039",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "ProXad network / Free SAS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.254:20771",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Empresas Municipales De Cali E.i.c.e. E.S.P.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:24101",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "RCN",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:29329",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "Digi Spain Telecom S.L.U.",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:11541",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "CORPORACION VISUAL NUEVA ESPARTA, C.A",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:24535",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cablevision Systems Corp.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:28565",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "France Telecom Orange",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.80.69.102:3128",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "Beget LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.144.52.96:3128",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "H2nexus LTD",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "95.163.64.156:3128",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "LLC Digital Network",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

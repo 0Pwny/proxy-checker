@@ -5390,3 +5390,7 @@
 {"proxy": "72.10.160.171:25285", "country": "France", "country_code": "FR", "isp": "France Telecom", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.90:32585", "country": "Argentina", "country_code": "AR", "isp": "Telecom Argentina S.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.236.18:3141", "country": "El Salvador", "country_code": "SV", "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.173:8651", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "188.253.22.231:3128", "country": "Latvia", "country_code": "LV", "isp": "SIA VEESP", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:21039", "country": "Andorra", "country_code": "AD", "isp": "ANDORRA TELECOM, S.A.U.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:32533", "country": "Chile", "country_code": "CL", "isp": "Telmex Servicios Empresariales S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

@@ -69782,5 +69782,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.228.250:32289",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Bell Canada",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "172.172.209.40:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Microsoft",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -5394,3 +5394,7 @@
 {"proxy": "188.253.22.231:3128", "country": "Latvia", "country_code": "LV", "isp": "SIA VEESP", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:21039", "country": "Andorra", "country_code": "AD", "isp": "ANDORRA TELECOM, S.A.U.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.90:32533", "country": "Chile", "country_code": "CL", "isp": "Telmex Servicios Empresariales S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:19987", "country": "Canada", "country_code": "CA", "isp": "TELUS Communications Inc", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.93:3795", "country": "Brazil", "country_code": "BR", "isp": "V tal", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:26505", "country": "Venezuela", "country_code": "VE", "isp": "Net Uno, C.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "82.25.90.240:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

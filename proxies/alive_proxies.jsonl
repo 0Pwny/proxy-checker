@@ -5411,3 +5411,6 @@
 {"proxy": "72.10.164.178:8303", "country": "United States", "country_code": "US", "isp": "AT&T Enterprises, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.251:8153", "country": "Peru", "country_code": "PE", "isp": "Telefonica del Peru", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.91:8487", "country": "Canada", "country_code": "CA", "isp": "Rogers Communications Canada Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:17839", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.252:3025", "country": "United States", "country_code": "US", "isp": "Wholesail networks LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "186.116.148.53:8080", "country": "Colombia", "country_code": "CO", "isp": "Celsia Colombia S.a. E.S.P.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

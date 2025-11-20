@@ -5431,3 +5431,6 @@
 {"proxy": "135.125.97.184:43077", "country": "France", "country_code": "FR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "199.127.62.89:3131", "country": "Chile", "country_code": "CL", "isp": "Netprotect", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:8983", "country": "Ukraine", "country_code": "UA", "isp": "Volia", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.170:19197", "country": "United Kingdom", "country_code": "GB", "isp": "Clouvider Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:7267", "country": "Venezuela", "country_code": "VE", "isp": "Net Uno, C.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "216.229.112.25:8080", "country": "United States", "country_code": "US", "isp": "Five Area Systems, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

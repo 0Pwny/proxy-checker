@@ -5473,3 +5473,8 @@
 {"proxy": "72.10.160.170:12433", "country": "Venezuela", "country_code": "VE", "isp": "THUNDERNET, C.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.91:13543", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "154.16.41.18:5555", "country": "Mexico", "country_code": "MX", "isp": "Gung HO LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:19425", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:1331", "country": "France", "country_code": "FR", "isp": "ProXad network / Free SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:25915", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.170:17645", "country": "Australia", "country_code": "AU", "isp": "SUPERLOOP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.91:15291", "country": "Ecuador", "country_code": "EC", "isp": "ETAPA EP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

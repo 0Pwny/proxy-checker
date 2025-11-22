@@ -5538,3 +5538,7 @@
 {"proxy": "67.43.236.18:8851", "country": "Paraguay", "country_code": "PY", "isp": "Núcleo S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.90:19953", "country": "United States", "country_code": "US", "isp": "Windstream Communications LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.253:1393", "country": "India", "country_code": "IN", "isp": "Excitel Broadband Private Limited", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.171:1063", "country": "France", "country_code": "FR", "isp": "Orange", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:20649", "country": "France", "country_code": "FR", "isp": "Free", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.144.234.129:53764", "country": "Finland", "country_code": "FI", "isp": "Baykov Ilya Sergeevich", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.18:18799", "country": "United States", "country_code": "US", "isp": "AT&T Enterprises, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

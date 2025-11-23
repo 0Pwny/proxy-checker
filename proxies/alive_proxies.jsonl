@@ -5610,3 +5610,8 @@
 {"proxy": "67.43.228.253:15051", "country": "Ecuador", "country_code": "EC", "isp": "Telconet S.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "200.59.186.178:999", "country": "Venezuela", "country_code": "VE", "isp": "TotalCom Venezuela C.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.170:19971", "country": "Qatar", "country_code": "QA", "isp": "Vodafone Qatar Q.S.C", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "15.204.39.252:3128", "country": "United States", "country_code": "US", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:27523", "country": "United States", "country_code": "US", "isp": "Frontier Communications Solutions", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "152.26.14.34:3156", "country": "United States", "country_code": "US", "isp": "MCNC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:19107", "country": "Peru", "country_code": "PE", "isp": "Wi-net Telecom S.A.C.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "200.59.186.176:999", "country": "Venezuela", "country_code": "VE", "isp": "TotalCom Venezuela C.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

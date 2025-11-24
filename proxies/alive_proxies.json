@@ -74319,5 +74319,252 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "89.110.80.195:10149",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Servers Tech Fzco",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.150:11734",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.151:11716",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "65.108.203.36:28080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Opera Browser VPN",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:17975",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Turkcell Iletisim Hizmetleri A.S.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:20083",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Free",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.151:11712",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.18:9267",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "Telefonica del Peru",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.250:11433",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Rogers Communications Canada Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.43:11721",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.150:11712",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.44:11222",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.45:10228",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11719",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.46:11742",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.194.45:11716",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "77.238.228.178:10808",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Servers Tech Fzco",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.18:23759",
+    "country": "Panama",
+    "country_code": "PA",
+    "isp": "Cable Onda",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:4911",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "AT&T Enterprises, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

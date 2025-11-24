@@ -73903,5 +73903,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.170:11673",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Wifirst Networks",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -76269,5 +76269,213 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.91:4981",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "America Movil Peru S.A.C.",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:4829",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Navigata Communications Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "167.249.52.98:999",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Tecnet Argentina S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:7429",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.250:21303",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "isp": "Earthlink Telecommunications Equipment Trading & Services DMCC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "64.23.225.106:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:18327",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "UNINET",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:24109",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "AT&T Enterprises, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:9651",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Talklink Informática EIRELI ME.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.174:1165",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.254:13311",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Total Play Telecomunicaciones SA De CV",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:8663",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Bell Canada",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "89.109.23.80:3128",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:31805",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Metronet",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "91.107.246.140:8888",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Hetzner Online AG",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:13237",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telecom Argentina S.A",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

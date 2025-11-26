@@ -5850,3 +5850,11 @@
 {"proxy": "67.43.228.253:2729", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:25581", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.252:19221", "country": "Canada", "country_code": "CA", "isp": "EBOX", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:1305", "country": "Venezuela", "country_code": "VE", "isp": "Airtek Solutions C.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "172.235.56.84:3128", "country": "United States", "country_code": "US", "isp": "Akamai Technologies, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:8165", "country": "United States", "country_code": "US", "isp": "T-Mobile USA, Inc.", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:23425", "country": "United States", "country_code": "US", "isp": "Frontier Communications of America, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "167.249.52.115:999", "country": "Argentina", "country_code": "AR", "isp": "Tecnet Argentina S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.252:22489", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.254:2843", "country": "Portugal", "country_code": "PT", "isp": "MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:3293", "country": "Cyprus", "country_code": "CY", "isp": "CYTANET - Cyprus Telecommunications Authority", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

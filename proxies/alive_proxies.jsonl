@@ -5943,3 +5943,7 @@
 {"proxy": "72.10.160.90:18879", "country": "Chile", "country_code": "CL", "isp": "Telefonica del Sur S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.94:7805", "country": "Panama", "country_code": "PA", "isp": "Cable Onda", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.90:16681", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "88.30.0.185:3128", "country": "Spain", "country_code": "ES", "isp": "RIMA (Red IP Multi Acceso)", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:9163", "country": "France", "country_code": "FR", "isp": "Free", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "38.199.66.61:999", "country": "Colombia", "country_code": "CO", "isp": "TV COLOMBIA DIGITAL SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:7951", "country": "Mexico", "country_code": "MX", "isp": "UNINET", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

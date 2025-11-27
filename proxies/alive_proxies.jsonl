@@ -5980,3 +5980,13 @@
 {"proxy": "67.43.228.251:8579", "country": "Portugal", "country_code": "PT", "isp": "PT Comunicacoes", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "74.119.194.225:2094", "country": "United States", "country_code": "US", "isp": "WorkTitans B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.171:19547", "country": "Mexico", "country_code": "MX", "isp": "Mega Cable, S.A. de C.V.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "92.112.124.238:8888", "country": "The Netherlands", "country_code": "NL", "isp": "Matteo Martelloni trading as DELUXHOST", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:24301", "country": "France", "country_code": "FR", "isp": "Proxad / Free SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:18959", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:27667", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:13729", "country": "France", "country_code": "FR", "isp": "Free SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "38.159.229.114:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "38.188.48.73:8080", "country": "Venezuela", "country_code": "VE", "isp": "Cogent Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.91:5099", "country": "Venezuela", "country_code": "VE", "isp": "CANTV Servicios, Venezuela", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.254:32283", "country": "Canada", "country_code": "CA", "isp": "Le Groupe Videotron Ltee", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:25617", "country": "Türkiye", "country_code": "TR", "isp": "Cloudflare, Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

@@ -78154,5 +78154,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.170:29391",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telecom Argentina S.A",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:25879",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:32413",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telecom Argentina S.A",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:17701",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "TekSavvy Solutions, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "15.204.233.75:3128",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

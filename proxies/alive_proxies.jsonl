@@ -6026,3 +6026,40 @@
 {"proxy": "5.129.212.118:8090", "country": "The Netherlands", "country_code": "NL", "isp": "Timeweb, LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.90:20607", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.170:8895", "country": "United States", "country_code": "US", "isp": "Charter Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:19663", "country": "Mexico", "country_code": "MX", "isp": "Kblex SA De CV", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.148.233.231:8085", "country": "The Netherlands", "country_code": "NL", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:28991", "country": "Canada", "country_code": "CA", "isp": "EBOX", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.88.13.37:8085", "country": "Finland", "country_code": "FI", "isp": "Fast Servers (Pty) Ltd", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.174:32191", "country": "Colombia", "country_code": "CO", "isp": "Colombia Telecomunicaciones S.a. ESP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.56.20.14:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.173:10883", "country": "Peru", "country_code": "PE", "isp": "Wi-net Telecom S.A.C.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.56.20.110:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.56.20.129:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.56.20.37:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.56.20.97:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.88.13.116:8085", "country": "Finland", "country_code": "FI", "isp": "Fast Servers (Pty) Ltd", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.56.20.57:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.202.12.108:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.171:26659", "country": "Venezuela", "country_code": "VE", "isp": "Net Uno, C.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.173:3017", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "193.202.12.249:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.56.20.26:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "147.78.180.63:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "147.78.180.145:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.56.20.89:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.56.20.219:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.56.20.18:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.56.20.157:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.56.20.183:8085", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "193.56.20.202:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.202.12.90:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.202.12.254:8085", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "193.56.20.191:8085", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "193.56.20.27:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.56.20.32:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.202.12.73:8085", "country": "United States", "country_code": "US", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.148.233.250:8085", "country": "The Netherlands", "country_code": "NL", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.56.20.96:8085", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "193.56.20.195:8085", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "67.43.236.21:25691", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.148.233.111:8085", "country": "The Netherlands", "country_code": "NL", "isp": "PureVoltage Hosting Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

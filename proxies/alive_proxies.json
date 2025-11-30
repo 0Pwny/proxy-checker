@@ -80923,5 +80923,109 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.170:16875",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "51.155.165.52:8082",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:4883",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "CORPORACION FIBEX TELECOM, C.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.91:12153",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "Optical Technologies S.A.C.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "181.119.111.59:999",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "isp": "Ufinet Panama S.A.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:3529",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "213.131.85.28:1981",
+    "country": "Egypt",
+    "country_code": "EG",
+    "isp": "Link Egypt (Link.NET)",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:5039",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "France Telecom Orange",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

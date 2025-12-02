@@ -87995,5 +87995,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.236.21:10077",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "WI-NET Telecom SAC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:9249",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "BOUYGUES Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "199.188.93.55:8000",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

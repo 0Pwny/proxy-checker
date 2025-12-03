@@ -6843,3 +6843,7 @@
 {"proxy": "67.43.236.20:28849", "country": "Colombia", "country_code": "CO", "isp": "ETB - Colombia", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "85.208.200.185:8081", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "174.136.204.44:8888", "country": "United States", "country_code": "US", "isp": "DMIT Cloud Services", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:2717", "country": "Ukraine", "country_code": "UA", "isp": "LLC \"VECHIR TELECOM\"", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.91:4651", "country": "United States", "country_code": "US", "isp": "Crown Castle Fiber LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:24837", "country": "Brazil", "country_code": "BR", "isp": "Markan comercio e serviços EIRELI-ME", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "34.45.207.111:9080", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

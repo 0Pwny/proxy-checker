@@ -6811,3 +6811,10 @@
 {"proxy": "67.43.228.253:30467", "country": "Canada", "country_code": "CA", "isp": "BLU Fibre Networks inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "154.236.177.104:1976", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "200.59.191.233:999", "country": "Venezuela", "country_code": "VE", "isp": "TotalCom Venezuela C.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:13033", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "31.193.193.69:1488", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "5.35.34.30:9080", "country": "United Kingdom", "country_code": "GB", "isp": "Iomart Cloud Services Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:15027", "country": "United States", "country_code": "US", "isp": "Pavlov Media Inc", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:22307", "country": "Honduras", "country_code": "HN", "isp": "METRONET", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "165.22.63.252:3128", "country": "Singapore", "country_code": "SG", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:30417", "country": "United States", "country_code": "US", "isp": "AT&T Enterprises, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

@@ -6829,3 +6829,9 @@
 {"proxy": "67.43.228.253:3373", "country": "Russia", "country_code": "RU", "isp": "Media Land LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.253:26305", "country": "Colombia", "country_code": "CO", "isp": "Colombia Telecomunicaciones S.a. ESP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "80.190.83.72:3128", "country": "United Kingdom", "country_code": "GB", "isp": "Contabo GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:8147", "country": "Colombia", "country_code": "CO", "isp": "Colombia Móvil", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "166.249.54.61:7234", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": true, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:22685", "country": "United States", "country_code": "US", "isp": "Charter Communications Inc", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:22591", "country": "Spain", "country_code": "ES", "isp": "RIMA (Red IP Multi Acceso)", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "146.198.58.145:8888", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:19463", "country": "Chile", "country_code": "CL", "isp": "TELEFÓNICA CHILE S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

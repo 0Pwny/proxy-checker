@@ -6861,3 +6861,19 @@
 {"proxy": "72.10.164.178:5505", "country": "United States", "country_code": "US", "isp": "Frontier Communications Solutions", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "148.178.124.75:8888", "country": "United States", "country_code": "US", "isp": "Zillion Network Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.170:14573", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:28089", "country": "Colombia", "country_code": "CO", "isp": "Telmex Colombia S.A.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "13.217.217.123:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "50.17.146.59:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.228.252:3057", "country": "United States", "country_code": "US", "isp": "Verizon Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "74.249.180.117:3128", "country": "United States", "country_code": "US", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "3.17.149.62:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "78.13.218.250:3128", "country": "Mexico", "country_code": "MX", "isp": "Amazon.com", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.171:4729", "country": "Costa Rica", "country_code": "CR", "isp": "Cable Tica", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "18.130.131.137:3128", "country": "United Kingdom", "country_code": "GB", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "44.192.54.217:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:21927", "country": "Canada", "country_code": "CA", "isp": "Persona Communications Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "54.245.138.232:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:29041", "country": "Canada", "country_code": "CA", "isp": "TELUS Communications Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "54.75.215.79:3128", "country": "Ireland", "country_code": "IE", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "18.232.171.52:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "89.117.130.19:80", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

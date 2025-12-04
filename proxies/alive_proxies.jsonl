@@ -6933,3 +6933,5 @@
 {"proxy": "67.43.236.22:6813", "country": "Spain", "country_code": "ES", "isp": "Xtra Telecom S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.174:20035", "country": "Peru", "country_code": "PE", "isp": "America Movil Peru S.A.C.", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "135.125.97.184:42927", "country": "France", "country_code": "FR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.94:7979", "country": "Canada", "country_code": "CA", "isp": "Rogers Communications Canada Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.19:6027", "country": "Dominican Republic", "country_code": "DO", "isp": "Compañía Dominicana de Teléfonos S. A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

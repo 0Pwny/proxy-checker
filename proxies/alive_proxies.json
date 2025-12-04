@@ -89672,5 +89672,96 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "18.101.159.101:3128",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "Amazon Technologies Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "78.13.191.71:3128",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Amazon.com",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.250:13407",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Virgin Media Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:15793",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telecom Argentina S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "187.102.219.64:999",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Cretton Lisandro Maximiliano",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:16397",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "isp": "Telia Lietuva",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.177.178.242:999",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Wantelco SAS de CV",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

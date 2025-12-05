@@ -6943,3 +6943,7 @@
 {"proxy": "45.173.6.233:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "8.218.238.34:8855", "country": "Hong Kong", "country_code": "HK", "isp": "Alibaba (US) Technology Co., Ltd.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:33167", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.90.98.163:8080", "country": "Germany", "country_code": "DE", "isp": "Florian Kolb", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "20.223.127.248:3128", "country": "Ireland", "country_code": "IE", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:17335", "country": "Colombia", "country_code": "CO", "isp": "Telmex Colombia S.A.", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "181.78.79.57:999", "country": "Colombia", "country_code": "CO", "isp": "IFX Networks Argentina S.R.L", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

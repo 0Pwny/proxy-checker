@@ -7036,3 +7036,10 @@
 {"proxy": "44.213.1.118:80", "country": "Albania", "country_code": "AL", "isp": "Datacamp Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.160.91:6453", "country": "Canada", "country_code": "CA", "isp": "TELUS Communications Inc", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.171:4851", "country": "Argentina", "country_code": "AR", "isp": "Telecom Argentina S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:31995", "country": "Chile", "country_code": "CL", "isp": "VTR BANDA ANCHA S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:28477", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:25315", "country": "Peru", "country_code": "PE", "isp": "America Movil Peru S.A.C.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:11033", "country": "Canada", "country_code": "CA", "isp": "Datacamp Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "169.63.230.181:8081", "country": "United States", "country_code": "US", "isp": "SoftLayer", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:18197", "country": "United States", "country_code": "US", "isp": "Frontier Communications Solutions", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:1567", "country": "United States", "country_code": "US", "isp": "ICS Advanced Technologies", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

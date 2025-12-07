@@ -92467,5 +92467,109 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.228.251:6729",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:1245",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "CORPORACION FIBEX TELECOM, C.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.20:21971",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "RCN",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:1229",
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "isp": "Telgua",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "41.33.245.139:1976",
+    "country": "Egypt",
+    "country_code": "EG",
+    "isp": "TE Data",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:31435",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Commonwealth University of Pennsylvania",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:12991",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "Digi Spain Telecom S.L.U.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.172:31125",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "AT&T Enterprises, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

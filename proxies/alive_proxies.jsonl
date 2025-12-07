@@ -7078,3 +7078,8 @@
 {"proxy": "188.126.85.122:8080", "country": "Sweden", "country_code": "SE", "isp": "GleSYS AB", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "194.26.138.53:3128", "country": "Russia", "country_code": "RU", "isp": "TimeWeb LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "67.43.236.18:29903", "country": "Canada", "country_code": "CA", "isp": "Rogers Communications Canada Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:3121", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "185.14.92.234:3128", "country": "Germany", "country_code": "DE", "isp": "Florian Kolb", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.173:22689", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "164.92.163.109:8080", "country": "United States", "country_code": "US", "isp": "3xK Tech GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "44.200.8.242:80", "country": "United States", "country_code": "US", "isp": "Amazon.com", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

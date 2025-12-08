@@ -7119,3 +7119,11 @@
 {"proxy": "72.10.160.90:31435", "country": "United States", "country_code": "US", "isp": "Commonwealth University of Pennsylvania", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:12991", "country": "Spain", "country_code": "ES", "isp": "Digi Spain Telecom S.L.U.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.172:31125", "country": "United States", "country_code": "US", "isp": "AT&T Enterprises, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.92:1517", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:19029", "country": "Venezuela", "country_code": "VE", "isp": "TELECOMUNICACIONES G-NETWORK, C.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:32773", "country": "Colombia", "country_code": "CO", "isp": "Colombia Telecomunicaciones S.a. ESP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "24.248.184.51:8080", "country": "United States", "country_code": "US", "isp": "Cox Communications Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:26151", "country": "United States", "country_code": "US", "isp": "Charter Communications Inc", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "62.60.151.128:80", "country": "Sweden", "country_code": "SE", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "164.92.137.207:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:27295", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

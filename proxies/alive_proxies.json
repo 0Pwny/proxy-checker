@@ -92805,5 +92805,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.91:13009",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Free SAS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.12.129.42:80",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "isp": "WorkTitans B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.252:18437",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:2477",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

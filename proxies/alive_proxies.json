@@ -92961,5 +92961,122 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "88.99.26.62:3128",
+    "country": "Iceland",
+    "country_code": "IS",
+    "isp": "The 1984 ehf",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:8223",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "France Telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "92.118.8.190:443",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "First Server Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.19:2501",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "CORPORACION FIBEX TELECOM, C.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:24773",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:6365",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:10447",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "isp": "Vodafone Czech Republic",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.250:16363",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Uninet S.A. de C.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:1989",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "TELEFONICA VENEZOLANA, C.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

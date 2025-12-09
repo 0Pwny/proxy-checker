@@ -94131,5 +94131,109 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "74.242.169.16:3128",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Microsoft Corporation",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "179.184.245.66:4500",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Claro NXT Telecomunicacoes Ltda",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.171:19239",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telecom Argentina S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:10935",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Shaw Communications Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:25023",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Claro NXT Telecomunicacoes Ltda",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:4333",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "isp": "Mena Cornejo Hector Elias",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "47.243.27.70:3128",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "isp": "Alibaba Cloud LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.253:2065",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "isp": "Compañía Dominicana de Teléfonos S. A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

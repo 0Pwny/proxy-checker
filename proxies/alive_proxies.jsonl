@@ -7198,3 +7198,7 @@
 {"proxy": "45.230.169.129:999", "country": "Venezuela", "country_code": "VE", "isp": "Soluciones DCN Network C.A", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "200.76.28.204:999", "country": "Mexico", "country_code": "MX", "isp": "Alestra, S. de R.L. de C.V.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "47.79.145.29:3128", "country": "Japan", "country_code": "JP", "isp": "Alibaba (US) Technology Co., Ltd.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.236.22:29217", "country": "United States", "country_code": "US", "isp": "Charter Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.21:18763", "country": "Argentina", "country_code": "AR", "isp": "Telecentro S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:2731", "country": "Mexico", "country_code": "MX", "isp": "Uninet S.A. de C.V.", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:14701", "country": "United States", "country_code": "US", "isp": "Charter Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

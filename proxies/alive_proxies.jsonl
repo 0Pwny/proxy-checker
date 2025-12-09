@@ -7214,3 +7214,5 @@
 {"proxy": "72.10.160.92:19089", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:15909", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "41.254.48.66:1973", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "72.10.160.91:15985", "country": "Dominican Republic", "country_code": "DO", "isp": "BITNET DOMINICANA, S.R.L", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:5549", "country": "Canada", "country_code": "CA", "isp": "Rogers Communications Canada Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

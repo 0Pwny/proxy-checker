@@ -7276,3 +7276,9 @@
 {"proxy": "177.22.36.92:3130", "country": "Brazil", "country_code": "BR", "isp": "Conecta Tecnologia LTDA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "209.182.199.206:3128", "country": "United States", "country_code": "US", "isp": "InMotion Hosting, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "67.43.236.20:22655", "country": "Colombia", "country_code": "CO", "isp": "Telmex Colombia S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "209.145.54.125:8118", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:21829", "country": "Brazil", "country_code": "BR", "isp": "Vivo", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.21:9215", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "216.146.18.253:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "72.10.160.170:31053", "country": "Mongolia", "country_code": "MN", "isp": "MCS Com Co Ltd", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:20419", "country": "United States", "country_code": "US", "isp": "Wellesley College", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

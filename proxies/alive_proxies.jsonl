@@ -7325,3 +7325,8 @@
 {"proxy": "72.10.160.174:15487", "country": "Saudi Arabia", "country_code": "SA", "isp": "Saudi Telecom Company JSC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:22569", "country": "Colombia", "country_code": "CO", "isp": "Colombia Telecomunicaciones S.a. ESP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "45.167.126.148:999", "country": "Colombia", "country_code": "CO", "isp": "Sepcom Comunicaciones SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "94.79.152.14:80", "country": "Germany", "country_code": "DE", "isp": "Vodafone", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:33205", "country": "Peru", "country_code": "PE", "isp": "Telefonica Del Peru", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:7513", "country": "United States", "country_code": "US", "isp": "Frontier Communications Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "162.243.5.191:80", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:21681", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

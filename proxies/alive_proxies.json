@@ -96029,5 +96029,96 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.91:22493",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Edgeuno S.A.S",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:31801",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "isp": "Telconet S.A",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.253:8919",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.253:5503",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Videotron Ltee",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.91:15641",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Colombia Telecomunicaciones S.a. ESP",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.18:9697",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cablevision Systems Corp.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.198.3.133:3128",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

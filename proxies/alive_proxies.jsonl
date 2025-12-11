@@ -7403,3 +7403,15 @@
 {"proxy": "72.10.164.178:8371", "country": "United States", "country_code": "US", "isp": "Cablevision Systems Corp.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.91:4307", "country": "United States", "country_code": "US", "isp": "AT&T Enterprises, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:9173", "country": "United States", "country_code": "US", "isp": "Charter Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:32885", "country": "United States", "country_code": "US", "isp": "Charter Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.18:12937", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "109.190.105.24:3128", "country": "France", "country_code": "FR", "isp": "OVH xDSL", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.18:7931", "country": "Argentina", "country_code": "AR", "isp": "Techtel LMDS Comunicaciones Interactivas S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:12995", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "151.245.215.27:3128", "country": "The Netherlands", "country_code": "NL", "isp": "UAB \"Atlantis Capital\"", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.174:13819", "country": "France", "country_code": "FR", "isp": "ProXad network / Free SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:13253", "country": "United States", "country_code": "US", "isp": "Arvig Enterprises Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:2479", "country": "Colombia", "country_code": "CO", "isp": "Colombia Telecomunicaciones S.a. ESP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.93:27497", "country": "Colombia", "country_code": "CO", "isp": "Colombia Móvil", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.21:6459", "country": "Canada", "country_code": "CA", "isp": "Bell Canada", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "51.159.5.19:13128", "country": "France", "country_code": "FR", "isp": "SCALEWAY", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

@@ -97030,5 +97030,83 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.236.20:19295",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Uninet S.A. de C.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:12465",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.18:8553",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telefonica de Argentina",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:16823",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.172:5457",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Cablevisión, S.A. de C.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:25597",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telefonica de Argentina",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

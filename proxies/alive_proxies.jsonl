@@ -7470,3 +7470,8 @@
 {"proxy": "72.10.164.178:25597", "country": "Argentina", "country_code": "AR", "isp": "Telefonica de Argentina", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.236.20:14343", "country": "United States", "country_code": "US", "isp": "Google Fiber Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "86.48.1.16:3128", "country": "France", "country_code": "FR", "isp": "Contabo GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:5209", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:11201", "country": "Argentina", "country_code": "AR", "isp": "Telefonica de Argentina", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:32641", "country": "Mexico", "country_code": "MX", "isp": "Uninet S.A. de C.V.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.38.224.169:8081", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "5.134.118.80:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

@@ -97654,5 +97654,135 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "104.168.10.224:8888",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "212.227.79.107:3128",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "IONOS SE",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.22:1973",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telefonica de Argentina",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:3327",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:3169",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "RIMA (Red IP Multi Acceso)",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "217.76.55.8:8888",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Adept AB",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "158.160.81.185:1080",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "Yandex.Cloud LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:2367",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "AT&T Enterprises, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.170:7243",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Free SAS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.253:14043",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cablevision Systems Corp.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

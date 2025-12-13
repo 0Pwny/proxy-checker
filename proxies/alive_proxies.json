@@ -97342,5 +97342,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.164.178:16713",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "146.235.212.142:1080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cloudflare, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:20299",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Uninet S.A. de C.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.93:4781",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.19:5795",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telecom Argentina S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -7558,3 +7558,4 @@
 {"proxy": "198.23.239.134:6540", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "64.137.96.74:6641", "country": "Spain", "country_code": "ES", "isp": "Getechbrothers, MB", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "38.159.229.117:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "49.13.63.38:3128", "country": "United States", "country_code": "US", "isp": "1337 Services GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

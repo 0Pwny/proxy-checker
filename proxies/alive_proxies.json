@@ -98278,5 +98278,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "49.13.63.38:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "1337 Services GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

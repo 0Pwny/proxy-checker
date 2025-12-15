@@ -98395,5 +98395,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "95.217.117.168:1080",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Hetzner Online GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

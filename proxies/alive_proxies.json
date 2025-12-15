@@ -98343,5 +98343,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.83.129.189:8888",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "isp": "WorkTitans B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

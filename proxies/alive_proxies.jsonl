@@ -7569,3 +7569,4 @@
 {"proxy": "72.10.160.90:1113", "country": "Saudi Arabia", "country_code": "SA", "isp": "Saudi Telecom Company JSC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "95.217.117.168:1080", "country": "Finland", "country_code": "FI", "isp": "Hetzner Online GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:21771", "country": "Peru", "country_code": "PE", "isp": "Wi-net Telecom S.A.C.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:15457", "country": "Brazil", "country_code": "BR", "isp": "Brisanet Servicos De Telecomunicacoes S.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

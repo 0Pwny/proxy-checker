@@ -98629,5 +98629,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "157.66.3.34:1111",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "13.211.26.10:80",
+    "country": "Australia",
+    "country_code": "AU",
+    "isp": "Amazon Technologies Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -98941,5 +98941,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "38.159.229.109:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "181.78.74.171:999",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "IFX Networks Argentina S.R.L",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:23939",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Total Play Telecomunicaciones SA De CV",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

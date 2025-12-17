@@ -7618,3 +7618,14 @@
 {"proxy": "72.10.164.178:31987", "country": "United States", "country_code": "US", "isp": "AT&T Enterprises, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "80.190.83.66:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:24751", "country": "Brazil", "country_code": "BR", "isp": "Vivo", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "95.164.51.108:3000", "country": "United States", "country_code": "US", "isp": "BohoBeach ISP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "95.164.51.142:3000", "country": "United States", "country_code": "US", "isp": "BohoBeach ISP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "95.164.51.141:3000", "country": "United States", "country_code": "US", "isp": "BohoBeach ISP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "95.164.51.109:3000", "country": "United States", "country_code": "US", "isp": "BohoBeach ISP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "95.164.51.106:3000", "country": "United States", "country_code": "US", "isp": "BohoBeach ISP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "95.164.51.147:3000", "country": "United States", "country_code": "US", "isp": "BohoBeach ISP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "95.164.51.166:3000", "country": "United States", "country_code": "US", "isp": "BohoBeach ISP", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "95.164.51.179:3000", "country": "United States", "country_code": "US", "isp": "BohoBeach ISP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "95.164.33.95:3000", "country": "Ukraine", "country_code": "UA", "isp": "BohoBeach ISP", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "95.164.51.139:3000", "country": "United States", "country_code": "US", "isp": "BohoBeach ISP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.172:28055", "country": "Canada", "country_code": "CA", "isp": "Shaw Communications Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

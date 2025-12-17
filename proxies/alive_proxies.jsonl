@@ -7642,3 +7642,5 @@
 {"proxy": "72.10.160.170:31181", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.91:11043", "country": "United States", "country_code": "US", "isp": "Charter Communications Inc", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "207.254.71.62:8088", "country": "Ireland", "country_code": "IE", "isp": "MacStadium, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "205.237.104.165:3128", "country": "France", "country_code": "FR", "isp": "ESTOXY OU", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.171:6363", "country": "Venezuela", "country_code": "VE", "isp": "Corporación Telemic C.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

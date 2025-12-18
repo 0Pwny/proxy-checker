@@ -99539,5 +99539,83 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.236.21:22937",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Cogeco Communications Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.18:27197",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Bouygues Telecom ISP",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:2343",
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "isp": "Telgua",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.253:7319",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Insitel S.A.S.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "34.237.158.210:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "38.127.172.7:37234",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cogent Communications",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

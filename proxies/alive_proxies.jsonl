@@ -7732,3 +7732,6 @@
 {"proxy": "72.10.160.94:20657", "country": "Mexico", "country_code": "MX", "isp": "Total Play Telecomunicaciones SA De CV", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "74.208.192.81:3128", "country": "United States", "country_code": "US", "isp": "IONOS SE", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "95.164.33.66:3000", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "168.194.64.219:3128", "country": "Brazil", "country_code": "BR", "isp": "Julio Cesar DAS Neves - ME", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "139.177.229.249:8080", "country": "United States", "country_code": "US", "isp": "Bytedance Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "192.67.197.107:8888", "country": "Germany", "country_code": "DE", "isp": "IONOS SE", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

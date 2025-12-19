@@ -99760,5 +99760,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.228.253:3701",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Altima Telecom",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "77.232.142.164:3128",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "Aeza International LTD",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

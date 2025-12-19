@@ -100527,5 +100527,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "95.164.33.66:3000",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

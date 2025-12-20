@@ -7740,3 +7740,5 @@
 {"proxy": "169.63.230.169:8081", "country": "United States", "country_code": "US", "isp": "SoftLayer", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "95.164.33.214:3000", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "173.249.50.95:3128", "country": "France", "country_code": "FR", "isp": "Contabo GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "207.180.252.236:3128", "country": "France", "country_code": "FR", "isp": "Contabo GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "147.161.141.65:11273", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

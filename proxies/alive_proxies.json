@@ -100696,5 +100696,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "190.12.150.244:999",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "isp": "Servitelconet Cia. Ltda.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -7871,3 +7871,6 @@
 {"proxy": "139.177.229.205:8080", "country": "United States", "country_code": "US", "isp": "Bytedance Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "139.177.229.142:8080", "country": "United States", "country_code": "US", "isp": "Bytedance Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "139.177.229.11:8080", "country": "United States", "country_code": "US", "isp": "Bytedance Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "139.177.229.214:8080", "country": "United States", "country_code": "US", "isp": "Bytedance Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "179.43.117.214:8080", "country": "Argentina", "country_code": "AR", "isp": "Dattatec.com", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "139.59.132.179:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

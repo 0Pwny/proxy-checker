@@ -104635,5 +104635,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "139.177.229.95:8080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Bytedance Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

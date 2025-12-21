@@ -104622,5 +104622,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "139.177.229.49:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

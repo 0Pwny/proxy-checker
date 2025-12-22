@@ -106572,5 +106572,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "104.248.172.167:80",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

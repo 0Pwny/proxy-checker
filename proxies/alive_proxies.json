@@ -106676,5 +106676,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.171:20613",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telecom Argentina S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:25711",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Techtel LMDS Comunicaciones Interactivas S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:17271",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "T-Mobile USA, Inc.",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.250:18705",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "TELUS Communications Inc",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.171:12989",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "EBOX",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

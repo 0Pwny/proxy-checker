@@ -8270,3 +8270,6 @@
 {"proxy": "67.43.228.250:15177", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "194.147.90.23:3128", "country": "Russia", "country_code": "RU", "isp": "AZERTA.RU Hosting LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "172.233.153.101:3128", "country": "United States", "country_code": "US", "isp": "Akamai Technologies, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.89.110.20:8080", "country": "United States", "country_code": "US", "isp": "WorkTitans B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "144.208.127.181:3128", "country": "United States", "country_code": "US", "isp": "Shock Hosting LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:26861", "country": "Saudi Arabia", "country_code": "SA", "isp": "Saudinet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

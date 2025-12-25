@@ -8273,3 +8273,5 @@
 {"proxy": "45.89.110.20:8080", "country": "United States", "country_code": "US", "isp": "WorkTitans B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "144.208.127.181:3128", "country": "United States", "country_code": "US", "isp": "Shock Hosting LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:26861", "country": "Saudi Arabia", "country_code": "SA", "isp": "Saudinet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.93:24889", "country": "United States", "country_code": "US", "isp": "Cablevision Systems Corp.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:16821", "country": "Peru", "country_code": "PE", "isp": "P Y D TELECOM S.R.L.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

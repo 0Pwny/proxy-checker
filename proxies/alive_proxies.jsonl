@@ -8306,3 +8306,4 @@
 {"proxy": "206.27.173.58:80", "country": "United States", "country_code": "US", "isp": "CenturyLink Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "108.142.206.134:8080", "country": "Netherlands", "country_code": "NL", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "34.87.1.201:8888", "country": "Singapore", "country_code": "SG", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "34.96.238.40:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

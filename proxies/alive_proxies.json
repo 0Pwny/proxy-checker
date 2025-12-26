@@ -108002,5 +108002,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "34.96.238.40:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

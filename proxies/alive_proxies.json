@@ -108301,5 +108301,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "154.3.236.202:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charles River Operation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

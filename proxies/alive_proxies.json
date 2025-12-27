@@ -108639,5 +108639,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.171:25805",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Consolidated Communications, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.172:8811",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Videotron Ltee",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.21:27961",
+    "country": "Jamaica",
+    "country_code": "JM",
+    "isp": "Digicel Jamaica",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:32757",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "PenTeleData Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

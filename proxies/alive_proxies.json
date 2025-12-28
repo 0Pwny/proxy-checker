@@ -108886,5 +108886,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.164.178:16679",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "CANTV Servicios, Venezuela",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.91:30451",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Saskatchewan Telecommunications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.19:27393",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Techtel LMDS Comunicaciones Interactivas S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

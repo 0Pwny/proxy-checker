@@ -8360,3 +8360,6 @@
 {"proxy": "67.43.236.21:27961", "country": "Jamaica", "country_code": "JM", "isp": "Digicel Jamaica", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:32757", "country": "United States", "country_code": "US", "isp": "PenTeleData Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "149.202.47.125:3128", "country": "France", "country_code": "FR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "20.78.26.206:8561", "country": "Japan", "country_code": "JP", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:22347", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "185.204.170.11:3128", "country": "Germany", "country_code": "DE", "isp": "Arvancloud Global Technologies L.L.C", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

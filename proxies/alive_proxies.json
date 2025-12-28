@@ -108808,5 +108808,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "170.9.13.229:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

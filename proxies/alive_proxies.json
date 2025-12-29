@@ -109172,5 +109172,83 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "80.85.246.217:5555",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Emerald Onion",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "80.85.245.145:5555",
+    "country": "Luxembourg",
+    "country_code": "LU",
+    "isp": "FranTech Solutions",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:29325",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "CANTV Servicios, Venezuela",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.190.78.20:999",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Meta Networks SA De CV",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "80.85.247.161:5555",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Florian Kolb",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.171:7975",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

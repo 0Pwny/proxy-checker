@@ -109471,5 +109471,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "185.228.137.178:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "netcup GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

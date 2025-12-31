@@ -109549,5 +109549,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.236.20:12247",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Conexon Connect",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -109614,5 +109614,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "80.190.83.32:3128",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Contabo GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

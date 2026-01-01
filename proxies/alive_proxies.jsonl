@@ -8442,3 +8442,4 @@
 {"proxy": "141.11.250.117:3128", "country": "The Netherlands", "country_code": "NL", "isp": "NForce Entertainment B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "13.222.100.121:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:20591", "country": "Mongolia", "country_code": "MN", "isp": "Univision LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:18501", "country": "France", "country_code": "FR", "isp": "Free SAS", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

@@ -109692,5 +109692,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "142.171.12.112:8118",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.195.250.6:11554",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "BitCommand LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "138.117.230.131:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "141.11.250.117:3128",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "NForce Entertainment B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

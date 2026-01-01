@@ -109783,5 +109783,96 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "154.236.177.103:1976",
+    "country": "Egypt",
+    "country_code": "EG",
+    "isp": "Enterprise",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.236.18:4961",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.133.7.95:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Aceville Pte.ltd",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.133.10.181:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Aceville Pte.ltd",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "130.185.122.199:8090",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Arvancloud Global Technologies L.L.C",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.133.10.26:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Aceville Pte.ltd",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.133.10.104:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Aceville Pte.ltd",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

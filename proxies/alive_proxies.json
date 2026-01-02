@@ -109900,5 +109900,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "43.167.166.40:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.167.163.212:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

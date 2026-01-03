@@ -111863,5 +111863,109 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "43.167.185.23:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.167.177.198:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.167.185.75:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.163.245.105:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:2919",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "GloboTech Communications",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.167.236.35:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.167.173.47:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.167.196.39:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

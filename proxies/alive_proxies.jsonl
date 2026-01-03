@@ -8611,3 +8611,7 @@
 {"proxy": "43.167.236.35:6006", "country": "Japan", "country_code": "JP", "isp": "Shenzhen Tencent Computer Systems Company Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "43.167.173.47:6006", "country": "Japan", "country_code": "JP", "isp": "Shenzhen Tencent Computer Systems Company Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "43.167.196.39:6006", "country": "Japan", "country_code": "JP", "isp": "Shenzhen Tencent Computer Systems Company Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "43.133.6.171:6006", "country": "Japan", "country_code": "JP", "isp": "Aceville Pte.ltd", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "144.31.199.30:80", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "192.145.31.78:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "168.194.64.219:8888", "country": "Brazil", "country_code": "BR", "isp": "Julio Cesar DAS Neves - ME", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

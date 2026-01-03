@@ -112201,5 +112201,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "54.74.230.129:80",
+    "country": "Ireland",
+    "country_code": "IE",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

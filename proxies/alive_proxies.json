@@ -112019,5 +112019,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.90:12905",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Total Play Telecomunicaciones SA De CV",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.167.184.115:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.133.6.135:6006",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.133.14.162:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Aceville Pte.ltd",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.167.156.249:6006",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

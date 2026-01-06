@@ -112721,5 +112721,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "143.208.57.163:999",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "isp": "Comunicaciones Metropolitanas Cablecolor",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

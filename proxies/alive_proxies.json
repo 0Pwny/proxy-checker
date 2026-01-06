@@ -112669,5 +112669,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "66.228.140.209:8899",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Mobius Partners Internet",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

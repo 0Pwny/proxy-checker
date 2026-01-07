@@ -112734,5 +112734,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "179.42.6.24:3128",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "SN TELECON LTDA",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.90:25049",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Total Play Telecomunicaciones SA De CV",
+    "is_mobile": true,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

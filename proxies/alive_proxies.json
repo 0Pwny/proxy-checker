@@ -113644,5 +113644,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "192.145.31.78:4145",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "192.99.62.192:8888",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

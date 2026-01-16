@@ -113839,5 +113839,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "192.145.31.78:5678",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "isp": "Baykov Ilya Sergeevich",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

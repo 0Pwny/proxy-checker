@@ -8796,3 +8796,12 @@
 {"proxy": "89.144.32.150:44738", "country": "Poland", "country_code": "PL", "isp": "Sebastian Stefanek trading as MatHost.eu", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "89.144.32.150:51932", "country": "Poland", "country_code": "PL", "isp": "Sebastian Stefanek trading as MatHost.eu", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:21147", "country": "United States", "country_code": "US", "isp": "Verizon Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.129.203.245:11004", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "192.145.31.78:8888", "country": "Netherlands", "country_code": "NL", "isp": "Baykov Ilya Sergeevich", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.129.203.245:11383", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "192.145.31.160:5678", "country": "Netherlands", "country_code": "NL", "isp": "Baykov Ilya Sergeevich", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.129.203.245:10626", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.129.203.245:11875", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.129.203.245:10241", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:14561", "country": "United States", "country_code": "US", "isp": "Cox Communications Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.129.203.245:10414", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

@@ -114502,5 +114502,96 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "104.129.203.245:10000",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.203.245:10509",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.174.77.1:999",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Raul Duarte Urita",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "195.26.240.215:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Contabo Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.203.245:10987",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.203.245:10001",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.203.245:10741",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

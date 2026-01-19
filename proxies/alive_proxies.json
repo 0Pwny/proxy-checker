@@ -115594,5 +115594,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "209.145.53.118:8080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Contabo Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

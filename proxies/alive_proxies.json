@@ -117856,5 +117856,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "192.73.243.98:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "NetActuate, Inc",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

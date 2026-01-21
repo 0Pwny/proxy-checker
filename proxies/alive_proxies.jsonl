@@ -9145,3 +9145,19 @@
 {"proxy": "77.238.229.104:31244", "country": "The Netherlands", "country_code": "NL", "isp": "Servers Tech Fzco", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "195.200.31.69:53688", "country": "The Netherlands", "country_code": "NL", "isp": "MISTRAL", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "91.107.170.243:6825", "country": "Germany", "country_code": "DE", "isp": "Hetzner Online AG", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.173:17909", "country": "United States", "country_code": "US", "isp": "Wire 3 LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "77.239.97.182:31994", "country": "Germany", "country_code": "DE", "isp": "International Hosting Company Limited", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "62.113.118.241:8058", "country": "Russia", "country_code": "RU", "isp": "Hosting technology LTD", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "91.107.157.68:20143", "country": "Germany", "country_code": "DE", "isp": "Hetzner Online AG", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "165.225.72.38:11724", "country": "Germany", "country_code": "DE", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "91.98.232.106:10808", "country": "Germany", "country_code": "DE", "isp": "Hetzner Online GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "165.225.72.38:11677", "country": "Germany", "country_code": "DE", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "78.47.253.162:1083", "country": "Germany", "country_code": "DE", "isp": "Hetzner Online GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "89.110.124.101:8080", "country": "The Netherlands", "country_code": "NL", "isp": "Servers Tech Fzco", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "165.225.72.38:11703", "country": "Germany", "country_code": "DE", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "165.225.72.38:11711", "country": "Germany", "country_code": "DE", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "165.225.72.38:11265", "country": "Germany", "country_code": "DE", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "165.225.72.38:11691", "country": "Germany", "country_code": "DE", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "165.225.72.38:10446", "country": "Germany", "country_code": "DE", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "49.13.48.65:9821", "country": "Germany", "country_code": "DE", "isp": "Cloudflare, Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "165.225.72.38:11714", "country": "Germany", "country_code": "DE", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

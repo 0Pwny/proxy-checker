@@ -119559,5 +119559,83 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "88.99.30.148:5052",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "1&1 Versatel GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "88.99.27.22:5082",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Glide Student & Residential Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "88.99.69.237:5043",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Level 3 Communications, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "88.99.26.79:5071",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "SOLLUTIUM EU Sp z.o.o.",
+    "is_mobile": true,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "88.99.30.148:5051",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Level 3 Communications, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "88.99.30.237:5063",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "1&1 Versatel GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

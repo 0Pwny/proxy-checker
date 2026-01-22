@@ -9204,3 +9204,4 @@
 {"proxy": "72.10.160.90:11701", "country": "Saudi Arabia", "country_code": "SA", "isp": "Saudinet DSL", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.236.18:33121", "country": "Peru", "country_code": "PE", "isp": "WI-NET Telecom SAC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "204.157.251.178:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:23023", "country": "Venezuela", "country_code": "VE", "isp": "MDS TELECOM C.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

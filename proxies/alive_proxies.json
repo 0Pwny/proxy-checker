@@ -119689,5 +119689,83 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.164.178:33253",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "194.87.45.62:8888",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "GCS SER",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "88.99.26.79:5072",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "1&1 Versatel GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "88.99.69.103:5022",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "1&1 Versatel GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "193.168.198.216:16777",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Baykov Ilya Sergeevich",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "88.99.69.103:5021",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

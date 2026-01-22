@@ -119481,5 +119481,83 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "194.67.206.117:443",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "88.99.27.163:5093",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "SOLLUTIUM EU Sp z.o.o.",
+    "is_mobile": true,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "181.78.20.11:999",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Media Commerce Partners S.A",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "148.253.211.78:1734",
+    "country": "Sweden",
+    "country_code": "SE",
+    "isp": "SEBEK sp. z o.o",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "94.156.236.221:1080",
+    "country": "Estonia",
+    "country_code": "EE",
+    "isp": "Baykov Ilya Sergeevich",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "77.91.78.157:42775",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Hypercore Ltd",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

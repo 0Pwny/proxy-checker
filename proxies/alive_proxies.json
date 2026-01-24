@@ -121431,5 +121431,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "212.34.154.156:46662",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

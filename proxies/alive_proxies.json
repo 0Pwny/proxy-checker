@@ -121704,5 +121704,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "141.11.187.163:8080",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "NForce Entertainment B.V.",
+    "is_mobile": true,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "89.168.33.150:3164",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

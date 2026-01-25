@@ -9343,3 +9343,4 @@
 {"proxy": "93.43.251.159:80", "country": "Italy", "country_code": "IT", "isp": "Fastweb Networks", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "64.188.65.195:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "88.99.27.17:5112", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "67.43.236.19:29911", "country": "Peru", "country_code": "PE", "isp": "America Movil Peru S.A.C", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

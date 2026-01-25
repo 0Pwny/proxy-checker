@@ -9352,3 +9352,7 @@
 {"proxy": "67.43.236.20:5103", "country": "France", "country_code": "FR", "isp": "Orange", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "187.250.80.172:80", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "45.225.89.145:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:10537", "country": "France", "country_code": "FR", "isp": "Orange", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.10.70.209:8888", "country": "United States", "country_code": "US", "isp": "Zenlayer Inc", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.228.254:28907", "country": "France", "country_code": "FR", "isp": "France Telecom Orange", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:6001", "country": "Canada", "country_code": "CA", "isp": "M247 Europe SRL", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

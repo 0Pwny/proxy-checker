@@ -9380,3 +9380,4 @@
 {"proxy": "83.219.250.8:62920", "country": "Sweden", "country_code": "SE", "isp": "Baykov Ilya Sergeevich", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "88.99.29.50:5132", "country": "The Netherlands", "country_code": "NL", "isp": "Level 3 Communications, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "88.99.27.22:5081", "country": "Germany", "country_code": "DE", "isp": "1&1 Versatel GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:14645", "country": "United States", "country_code": "US", "isp": "AT&T Enterprises, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

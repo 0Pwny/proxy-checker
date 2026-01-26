@@ -121977,5 +121977,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.93:4893",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Reseau d'Informations Scientifiques du Quebec (RISQ Inc.)",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

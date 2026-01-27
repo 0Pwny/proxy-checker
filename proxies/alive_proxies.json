@@ -122081,5 +122081,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "94.177.58.26:7443",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Hostkey B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

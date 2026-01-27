@@ -122055,5 +122055,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "89.208.85.169:443",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "27.133.238.94:80",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Fujitsu Cloud Technologies Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

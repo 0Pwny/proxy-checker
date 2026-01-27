@@ -9394,3 +9394,4 @@
 {"proxy": "34.172.17.9:213", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.10.160.170:14141", "country": "Argentina", "country_code": "AR", "isp": "Telecom Argentina S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.90:1237", "country": "Poland", "country_code": "PL", "isp": "Beskid Media Sp. z o.o.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:19161", "country": "France", "country_code": "FR", "isp": "Orange", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

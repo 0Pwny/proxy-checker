@@ -9411,3 +9411,7 @@
 {"proxy": "104.129.194.43:11646", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "104.129.194.38:11731", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "104.129.194.38:11727", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "190.97.232.249:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "104.129.194.38:11646", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.129.194.38:11728", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.129.194.43:11011", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

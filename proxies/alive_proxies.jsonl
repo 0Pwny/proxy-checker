@@ -9415,3 +9415,6 @@
 {"proxy": "104.129.194.38:11646", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "104.129.194.38:11728", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "104.129.194.43:11011", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.92:10977", "country": "France", "country_code": "FR", "isp": "Orange", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "170.9.224.115:3128", "country": "United States", "country_code": "US", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:25231", "country": "Brazil", "country_code": "BR", "isp": "Rede Smart Solucao EM Internet Eireli", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

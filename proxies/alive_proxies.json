@@ -122978,5 +122978,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "5.129.206.247:8888",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "JSC \"TIMEWEB\"",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "190.130.6.11:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.45.251.242:8888",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "JSC \"TIMEWEB\"",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

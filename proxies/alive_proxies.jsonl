@@ -9466,3 +9466,6 @@
 {"proxy": "66.80.0.115:3128", "country": "United States", "country_code": "US", "isp": "Bunny Communications", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "181.78.194.249:999", "country": "Ecuador", "country_code": "EC", "isp": "Ufinet Panama S.A.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "181.78.205.45:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "138.59.10.112:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "152.228.163.79:80", "country": "France", "country_code": "FR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "64.112.185.210:3128", "country": "United States", "country_code": "US", "isp": "Hosted Backbone", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

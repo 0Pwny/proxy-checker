@@ -9505,3 +9505,6 @@
 {"proxy": "23.108.27.158:80", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "72.10.164.178:30655", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.252:21555", "country": "France", "country_code": "FR", "isp": "Societe Francaise Du Radiotelephone - SFR SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:25257", "country": "Türkiye", "country_code": "TR", "isp": "Superonline Iletisim Hizmetleri A.S.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "107.173.141.163:8080", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.160.91:25257", "country": "Türkiye", "country_code": "TR", "isp": "Superonline Iletisim Hizmetleri A.S.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

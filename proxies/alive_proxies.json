@@ -123589,5 +123589,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.90:25257",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Superonline Iletisim Hizmetleri A.S.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "107.173.141.163:8080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HostPapa",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.160.91:25257",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Superonline Iletisim Hizmetleri A.S.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

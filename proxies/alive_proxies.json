@@ -123784,5 +123784,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "157.66.50.125:1111",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "82.26.93.30:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HOSTKEY",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.253:29561",
+    "country": "Qatar",
+    "country_code": "QA",
+    "isp": "Vodafone Qatar P.Q.S.C",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

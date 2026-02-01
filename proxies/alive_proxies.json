@@ -123823,5 +123823,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.90:20265",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "isp": "STC FBB",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "188.130.160.209:80",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "isp": "PE Fedinyak Sergey Vyacheslavovich",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

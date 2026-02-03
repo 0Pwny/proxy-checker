@@ -9624,3 +9624,10 @@
 {"proxy": "72.10.160.170:1107", "country": "United States", "country_code": "US", "isp": "Metronet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.250:9355", "country": "Mexico", "country_code": "MX", "isp": "UNINET", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "151.245.215.10:3128", "country": "The Netherlands", "country_code": "NL", "isp": "UAB \"Atlantis Capital\"", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:24109", "country": "Canada", "country_code": "CA", "isp": "Rogers Communications Canada Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:20529", "country": "France", "country_code": "FR", "isp": "BOUYGUES Telecom ISP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "138.199.208.166:1080", "country": "Germany", "country_code": "DE", "isp": "Hetzner Online GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.43.236.19:17787", "country": "France", "country_code": "FR", "isp": "Orange", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:15613", "country": "Peru", "country_code": "PE", "isp": "Telefonica del Peru S.A.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:15393", "country": "France", "country_code": "FR", "isp": "BOUYGUES Telecom ISP Wireline", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.252:24883", "country": "United States", "country_code": "US", "isp": "Metronet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

@@ -9631,3 +9631,12 @@
 {"proxy": "72.10.164.178:15613", "country": "Peru", "country_code": "PE", "isp": "Telefonica del Peru S.A.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.90:15393", "country": "France", "country_code": "FR", "isp": "BOUYGUES Telecom ISP Wireline", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.228.252:24883", "country": "United States", "country_code": "US", "isp": "Metronet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:2737", "country": "Brazil", "country_code": "BR", "isp": "UNIFIQUE TELECOMUNICACOES S/A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.236.20:16003", "country": "United States", "country_code": "US", "isp": "Charter Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.251:9955", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:9067", "country": "United States", "country_code": "US", "isp": "Cablevision Systems Corp.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.92:7227", "country": "United States", "country_code": "US", "isp": "Verizon Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.91:18567", "country": "United States", "country_code": "US", "isp": "Cablevision Systems Corp.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.253:26385", "country": "Colombia", "country_code": "CO", "isp": "Telmex Colombia S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:12847", "country": "Argentina", "country_code": "AR", "isp": "Fibernext SRL", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.90:21039", "country": "Canada", "country_code": "CA", "isp": "Cogeco Communications Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

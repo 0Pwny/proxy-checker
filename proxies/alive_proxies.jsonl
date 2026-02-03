@@ -9621,3 +9621,6 @@
 {"proxy": "177.240.3.62:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "67.43.236.19:23883", "country": "Brazil", "country_code": "BR", "isp": "G NET Serviços de Telecomunicações Ltda - ME", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "67.43.236.18:9033", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.160.170:1107", "country": "United States", "country_code": "US", "isp": "Metronet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.43.228.250:9355", "country": "Mexico", "country_code": "MX", "isp": "UNINET", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "151.245.215.10:3128", "country": "The Netherlands", "country_code": "NL", "isp": "UAB \"Atlantis Capital\"", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

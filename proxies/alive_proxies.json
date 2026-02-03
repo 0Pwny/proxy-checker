@@ -125006,5 +125006,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "185.94.165.252:9002",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "First Server Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

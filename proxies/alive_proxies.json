@@ -125734,5 +125734,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.43.228.251:5473",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "OSIRIS",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

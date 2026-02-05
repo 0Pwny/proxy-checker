@@ -9679,3 +9679,7 @@
 {"proxy": "172.233.179.41:3128", "country": "United States", "country_code": "US", "isp": "Akamai Technologies, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "108.181.252.65:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "160.238.65.5:3128", "country": "The Netherlands", "country_code": "NL", "isp": "GZ REMITTANCE (CHINA) INDUSTRY LIMITED", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:25913", "country": "Argentina", "country_code": "AR", "isp": "Telecom Argentina S.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "5.101.0.233:3128", "country": "Russia", "country_code": "RU", "isp": "Petersburg Internet Network ltd.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "208.87.242.41:3128", "country": "United States", "country_code": "US", "isp": "Psychz Networks", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.10.164.178:14853", "country": "Canada", "country_code": "CA", "isp": "Shaw Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

@@ -125786,5 +125786,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "196.70.91.2:3128",
+    "country": "Morocco",
+    "country_code": "MA",
+    "isp": "ADSL Maroc telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "160.238.65.7:3128",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "GZ REMITTANCE (CHINA) INDUSTRY LIMITED",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "172.233.179.41:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Akamai Technologies, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "108.181.252.65:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "160.238.65.5:3128",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "GZ REMITTANCE (CHINA) INDUSTRY LIMITED",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

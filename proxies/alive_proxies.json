@@ -125747,5 +125747,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "147.75.198.94:10004",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "177.71.224.87:3128",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Amazon Technologies Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

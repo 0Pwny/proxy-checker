@@ -126150,5 +126150,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "217.76.245.80:999",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "isp": "CENTRIC MOBILITY, S.R.L",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

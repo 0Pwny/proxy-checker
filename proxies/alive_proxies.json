@@ -126410,5 +126410,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.91:1665",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "Cogent Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.254:9595",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Celsia Colombia S.a. E.S.P.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.250:4527",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Distributel Communications Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "38.252.215.11:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

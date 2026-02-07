@@ -126384,5 +126384,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.38.107.97:6014",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "UK-2 Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "151.245.215.24:3128",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "UAB \"Atlantis Capital\"",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

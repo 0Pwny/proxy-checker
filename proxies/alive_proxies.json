@@ -126540,5 +126540,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.170:23079",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Free",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.252:4555",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "EPM Telecomunicaciones S.A. E.S.P.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

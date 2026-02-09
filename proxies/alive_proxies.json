@@ -126930,5 +126930,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "104.207.48.26:3128",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "3xK Tech GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

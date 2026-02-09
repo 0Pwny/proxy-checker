@@ -126826,5 +126826,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "185.221.160.3:8080",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Servers Tech Fzco",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:8819",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Telefonica de Argentina",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.10.164.178:11905",
+    "country": "Bolivia",
+    "country_code": "BO",
+    "isp": "Entel S.A. - EntelNet",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

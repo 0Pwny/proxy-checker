@@ -127034,5 +127034,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "35.164.47.97:7890",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

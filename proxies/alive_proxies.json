@@ -127333,5 +127333,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "62.171.161.88:2018",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Contabo GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

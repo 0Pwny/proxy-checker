@@ -127385,5 +127385,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "160.238.65.8:3128",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "GZ REMITTANCE (CHINA) INDUSTRY LIMITED",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.46.46:10002",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -127320,5 +127320,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "157.180.83.138:3128",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Hetzner Online GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

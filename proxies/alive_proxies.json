@@ -127346,5 +127346,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "44.215.184.119:80",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon.com",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

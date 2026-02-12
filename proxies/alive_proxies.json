@@ -127437,5 +127437,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "80.211.137.187:8088",
+    "country": "Italy",
+    "country_code": "IT",
+    "isp": "Aruba S.p.A. Network",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "91.107.148.58:53967",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "188.121.117.221:3128",
+    "country": "Iran",
+    "country_code": "IR",
+    "isp": "Noyan Abr Arvan Co. ( Private Joint Stock)",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

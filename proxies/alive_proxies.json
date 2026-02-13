@@ -127684,5 +127684,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "116.203.112.97:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Hetzner Online GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.124.227.88:3128",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -127905,5 +127905,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.56.59.56:63127",
+    "country": "Georgia",
+    "country_code": "GE",
+    "isp": "AkhaliNet LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.250:3357",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "isp": "SERVICIOS DE TELECOMUNICACIONES SETEL S.A. (XTRIM EC)",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.253:12459",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "WI-NET Telecom SAC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.43.228.252:29465",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Colombia Móvil",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

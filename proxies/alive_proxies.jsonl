@@ -9852,3 +9852,6 @@
 {"proxy": "72.10.164.178:24563", "country": "Bolivia", "country_code": "BO", "isp": "Entel S.A. - EntelNet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "72.10.160.172:14411", "country": "France", "country_code": "FR", "isp": "BOUYGUES Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "172.86.92.68:31337", "country": "Germany", "country_code": "DE", "isp": "FranTech Solutions", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.238.30.58:63744", "country": "Italy", "country_code": "IT", "isp": "AkhaliNet LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "90.84.188.97:8000", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "104.238.30.37:59741", "country": "Italy", "country_code": "IT", "isp": "AkhaliNet LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

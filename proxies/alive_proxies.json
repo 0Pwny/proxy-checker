@@ -128516,5 +128516,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.10.160.90:30981",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "ETB - Colombia",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

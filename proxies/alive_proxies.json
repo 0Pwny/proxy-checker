@@ -128893,5 +128893,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "210.48.154.94:80",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "isp": "TM ONE DC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

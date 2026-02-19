@@ -129062,5 +129062,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "190.9.109.194:999",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Megabit Telecomunicaciones SA De CV",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

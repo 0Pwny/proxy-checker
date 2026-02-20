@@ -129296,5 +129296,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "94.177.131.12:3128",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "G-Core Labs S.A.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

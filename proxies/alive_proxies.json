@@ -129192,5 +129192,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "148.72.152.253:8888",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "velia.net",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -129257,5 +129257,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "38.95.77.16:6005",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cogent Communications",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

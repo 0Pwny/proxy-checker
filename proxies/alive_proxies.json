@@ -129244,5 +129244,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "128.90.145.100:8118",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

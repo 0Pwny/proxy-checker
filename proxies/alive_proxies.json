@@ -129335,5 +129335,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "51.38.230.146:443",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

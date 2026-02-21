@@ -129309,5 +129309,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "137.220.150.22:6005",
+    "country": "Singapore",
+    "country_code": "SG",
+    "isp": "CTG Server Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

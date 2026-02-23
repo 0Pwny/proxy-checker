@@ -129842,5 +129842,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "41.33.219.130:1981",
+    "country": "Egypt",
+    "country_code": "EG",
+    "isp": "TE Data",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

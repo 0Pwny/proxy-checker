@@ -9986,3 +9986,4 @@
 {"proxy": "78.13.231.158:3128", "country": "Mexico", "country_code": "MX", "isp": "Amazon.com", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "98.85.203.202:80", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "3.225.78.45:80", "country": "United States", "country_code": "US", "isp": "Amazon.com", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "41.33.219.130:1981", "country": "Egypt", "country_code": "EG", "isp": "TE Data", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

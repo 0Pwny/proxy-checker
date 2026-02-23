@@ -9989,3 +9989,4 @@
 {"proxy": "41.33.219.130:1981", "country": "Egypt", "country_code": "EG", "isp": "TE Data", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "160.238.65.2:3128", "country": "The Netherlands", "country_code": "NL", "isp": "GZ REMITTANCE (CHINA) INDUSTRY LIMITED", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "37.27.100.108:443", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "213.97.158.42:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

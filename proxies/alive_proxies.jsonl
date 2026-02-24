@@ -9992,3 +9992,5 @@
 {"proxy": "213.97.158.42:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "147.45.159.213:48206", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "144.124.227.234:3128", "country": "Netherlands", "country_code": "NL", "isp": "Servers Tech Fzco", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "18.229.201.117:3128", "country": "Brazil", "country_code": "BR", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "188.241.197.244:3128", "country": "Netherlands", "country_code": "NL", "isp": "Clodo Cloud Service CO. L.L.C", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

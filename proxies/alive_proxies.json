@@ -129946,5 +129946,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "158.178.213.92:3235",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

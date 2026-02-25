@@ -10014,3 +10014,6 @@
 {"proxy": "163.5.128.11:14270", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "109.107.181.253:1080", "country": "Germany", "country_code": "DE", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "71.204.156.52:443", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "104.248.25.131:3128", "country": "Germany", "country_code": "DE", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "88.218.17.170:3128", "country": "Netherlands", "country_code": "NL", "isp": "Serverius Holding B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "144.31.69.170:1080", "country": "Germany", "country_code": "DE", "isp": "u1host ltd", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

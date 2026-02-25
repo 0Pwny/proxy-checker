@@ -130128,5 +130128,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "103.113.70.189:1081",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "WorkTitans B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

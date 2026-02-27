@@ -130414,5 +130414,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "52.201.29.25:80",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

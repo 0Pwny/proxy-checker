@@ -130440,5 +130440,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "3.213.157.4:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon Technologies Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

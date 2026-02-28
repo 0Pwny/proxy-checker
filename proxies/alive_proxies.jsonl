@@ -10034,3 +10034,7 @@
 {"proxy": "193.227.49.81:8080", "country": "Egypt", "country_code": "EG", "isp": "Egyptian Universities Network", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "3.213.157.4:3128", "country": "United States", "country_code": "US", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "52.73.65.198:80", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "34.7.88.87:3128", "country": "Netherlands", "country_code": "NL", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "34.159.121.205:3128", "country": "Germany", "country_code": "DE", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "34.79.102.160:3128", "country": "Belgium", "country_code": "BE", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "34.158.73.60:3128", "country": "Netherlands", "country_code": "NL", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

@@ -130609,5 +130609,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "34.78.177.18:3128",
+    "country": "Belgium",
+    "country_code": "BE",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

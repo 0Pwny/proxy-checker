@@ -10038,3 +10038,4 @@
 {"proxy": "34.159.121.205:3128", "country": "Germany", "country_code": "DE", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "34.79.102.160:3128", "country": "Belgium", "country_code": "BE", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "34.158.73.60:3128", "country": "Netherlands", "country_code": "NL", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "54.89.108.25:80", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

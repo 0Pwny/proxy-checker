@@ -130856,5 +130856,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "38.180.226.51:3128",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "M247 Europe SRL",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

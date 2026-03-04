@@ -10067,3 +10067,5 @@
 {"proxy": "38.180.226.51:3128", "country": "France", "country_code": "FR", "isp": "M247 Europe SRL", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "46.249.103.192:443", "country": "Sweden", "country_code": "SE", "isp": "BitCommand LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "86.109.3.28:10067", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "77.83.203.5:443", "country": "Türkiye", "country_code": "TR", "isp": "Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "185.79.138.225:3128", "country": "Finland", "country_code": "FI", "isp": "Baykov Ilya Sergeevich", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

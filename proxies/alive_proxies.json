@@ -130895,5 +130895,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "77.83.203.5:443",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "185.79.138.225:3128",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Baykov Ilya Sergeevich",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

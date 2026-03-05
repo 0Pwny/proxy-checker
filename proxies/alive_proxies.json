@@ -130960,5 +130960,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "217.119.129.86:2222",
+    "country": "Latvia",
+    "country_code": "LV",
+    "isp": "AZERTA.RU Hosting Solutions",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

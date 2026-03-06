@@ -10084,3 +10084,6 @@
 {"proxy": "130.36.36.29:443", "country": "United States", "country_code": "US", "isp": "Abbott Laboratories", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "165.225.222.44:13956", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "165.225.222.44:10981", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "178.236.245.59:3128", "country": "Russia", "country_code": "RU", "isp": "Foton Telecom CJSC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "50.200.166.130:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "178.236.245.17:3128", "country": "Russia", "country_code": "RU", "isp": "Foton Telecom CJSC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

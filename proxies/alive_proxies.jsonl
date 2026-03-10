@@ -10408,3 +10408,4 @@
 {"proxy": "38.123.48.50:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "4.157.215.139:3128", "country": "United States", "country_code": "US", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "152.70.98.46:8888", "country": "Japan", "country_code": "JP", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "82.209.251.53:45678", "country": "Belarus", "country_code": "BY", "isp": "Business network jv", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

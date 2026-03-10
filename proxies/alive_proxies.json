@@ -135315,5 +135315,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "152.70.98.46:8888",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

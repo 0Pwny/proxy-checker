@@ -10414,3 +10414,4 @@
 {"proxy": "86.109.3.24:10007", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "86.109.3.24:9401", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "201.71.2.41:999", "country": "Venezuela", "country_code": "VE", "isp": "Gold Data USA Inc", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "107.173.0.178:1080", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

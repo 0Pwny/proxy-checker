@@ -10417,3 +10417,6 @@
 {"proxy": "107.173.0.178:1080", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "95.84.150.66:1080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "192.203.0.70:999", "country": "Puerto Rico", "country_code": "PR", "isp": "Boom NET", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "95.3.9.78:3128", "country": "Turkey", "country_code": "TR", "isp": "Turk Telekomunikasyon A.S", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "95.3.9.78:8080", "country": "Turkey", "country_code": "TR", "isp": "Turk Telekomunikasyon A.S", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "213.220.62.62:3128", "country": "The Netherlands", "country_code": "NL", "isp": "YSZ Trading Co. Limited", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

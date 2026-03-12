@@ -135523,5 +135523,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "93.174.125.63:80",
+    "country": "Greece",
+    "country_code": "GR",
+    "isp": "IpHost P.C.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -10423,3 +10423,4 @@
 {"proxy": "38.150.4.3:10000", "country": "United States", "country_code": "US", "isp": "NetLab Global", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "45.168.238.193:8443", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "45.134.13.8:1080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "93.174.125.63:80", "country": "Greece", "country_code": "GR", "isp": "IpHost P.C.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

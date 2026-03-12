@@ -135510,5 +135510,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.134.13.8:1080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

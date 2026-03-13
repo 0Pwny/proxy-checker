@@ -135549,5 +135549,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.167.124.52:8080",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Sepcom Comunicaciones SAS",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "86.109.3.24:10003",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Equinix (EMEA) Acquisition Enterprises B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

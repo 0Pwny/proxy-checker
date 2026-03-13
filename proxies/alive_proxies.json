@@ -135536,5 +135536,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "107.173.52.58:7890",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HostPapa",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

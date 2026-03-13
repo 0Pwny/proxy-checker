@@ -135679,5 +135679,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "140.238.156.12:1080",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

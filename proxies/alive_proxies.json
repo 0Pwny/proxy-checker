@@ -135705,5 +135705,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "24.144.86.173:1080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

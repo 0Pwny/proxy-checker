@@ -135757,5 +135757,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "198.24.188.140:31353",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cablevision Systems Corp.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

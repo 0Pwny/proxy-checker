@@ -10444,3 +10444,4 @@
 {"proxy": "198.24.188.140:31353", "country": "United States", "country_code": "US", "isp": "Cablevision Systems Corp.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "198.24.188.142:54442", "country": "United States", "country_code": "US", "isp": "AT&T Enterprises, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "92.119.127.212:6005", "country": "France", "country_code": "FR", "isp": "velia.net Internetdienste GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "149.50.116.240:1080", "country": "Poland", "country_code": "PL", "isp": "MEVSPACE sp. z o.o.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

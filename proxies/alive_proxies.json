@@ -135848,5 +135848,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "104.129.203.245:10026",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.31.137.23:8080",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "isp": "u1host ltd",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

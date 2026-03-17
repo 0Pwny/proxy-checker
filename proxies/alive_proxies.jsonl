@@ -10458,3 +10458,6 @@
 {"proxy": "157.100.69.19:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "163.5.128.13:14270", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "147.161.239.240:8800", "country": "Germany", "country_code": "DE", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "165.225.72.38:10878", "country": "Germany", "country_code": "DE", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "165.225.72.38:10974", "country": "Germany", "country_code": "DE", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "165.225.72.38:10464", "country": "Germany", "country_code": "DE", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

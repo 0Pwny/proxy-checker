@@ -136082,5 +136082,122 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "165.225.72.38:11989",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.38:10539",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.38:11996",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.38:11251",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.38:12000",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.38:10173",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.38:10676",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.38:10105",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.72.38:18000",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

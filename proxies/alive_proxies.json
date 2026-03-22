@@ -136862,5 +136862,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "152.70.16.146:8888",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

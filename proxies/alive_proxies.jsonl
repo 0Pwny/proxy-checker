@@ -10523,3 +10523,5 @@
 {"proxy": "172.93.42.71:3128", "country": "United States", "country_code": "US", "isp": "IT7 Networks Inc", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "3.137.216.199:1080", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "12.49.24.22:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "23.148.244.192:20107", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "23.236.65.229:8888", "country": "United States", "country_code": "US", "isp": "Zenlayer Inc", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

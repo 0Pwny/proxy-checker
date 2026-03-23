@@ -10528,3 +10528,4 @@
 {"proxy": "45.151.183.183:1080", "country": "Czechia", "country_code": "CZ", "isp": "Mastersoft S.R.L.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "152.70.16.146:8888", "country": "Germany", "country_code": "DE", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "38.57.64.99:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "147.45.60.34:1082", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

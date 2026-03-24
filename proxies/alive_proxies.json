@@ -136953,5 +136953,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "46.101.190.71:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

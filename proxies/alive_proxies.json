@@ -136940,5 +136940,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "178.62.184.67:3128",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

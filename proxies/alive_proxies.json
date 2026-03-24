@@ -136927,5 +136927,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "155.212.132.241:3128",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "Beget LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

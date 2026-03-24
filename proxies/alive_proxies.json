@@ -137213,5 +137213,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "185.114.73.2:1080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

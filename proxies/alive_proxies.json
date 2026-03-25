@@ -137226,5 +137226,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "20.27.13.35:8561",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Microsoft Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

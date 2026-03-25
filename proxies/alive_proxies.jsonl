@@ -10555,3 +10555,5 @@
 {"proxy": "193.233.22.29:10808", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "185.114.73.2:1080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "20.27.13.35:8561", "country": "Japan", "country_code": "JP", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "144.31.79.117:8888", "country": "Finland", "country_code": "FI", "isp": "u1host ltd", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "2.56.173.45:10808", "country": "Finland", "country_code": "FI", "isp": "WorkTitans B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

@@ -10562,3 +10562,4 @@
 {"proxy": "217.52.247.88:1981", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "200.71.111.90:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "47.77.193.180:1080", "country": "United States", "country_code": "US", "isp": "Alibaba.com LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.144.28.81:10808", "country": "The Netherlands", "country_code": "NL", "isp": "WorkTitans B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

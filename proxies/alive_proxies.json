@@ -137447,5 +137447,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "2.56.178.32:8080",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "UFO Hosting LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

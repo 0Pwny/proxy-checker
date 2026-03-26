@@ -137434,5 +137434,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.12.151.226:2829",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "WorkTitans B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

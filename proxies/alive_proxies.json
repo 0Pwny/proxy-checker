@@ -137603,5 +137603,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "43.99.54.236:5555",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

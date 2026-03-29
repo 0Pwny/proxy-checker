@@ -137642,5 +137642,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "44.213.105.2:8888",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon.com",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

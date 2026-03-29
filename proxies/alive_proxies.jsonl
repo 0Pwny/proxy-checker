@@ -10587,3 +10587,4 @@
 {"proxy": "195.62.50.25:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "150.241.71.15:1080", "country": "Germany", "country_code": "DE", "isp": "xorek.cloud International LTD", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "44.213.105.2:8888", "country": "United States", "country_code": "US", "isp": "Amazon.com", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "198.244.188.127:3128", "country": "United Kingdom", "country_code": "GB", "isp": "OVH SAS", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

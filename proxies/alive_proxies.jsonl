@@ -10590,3 +10590,5 @@
 {"proxy": "198.244.188.127:3128", "country": "United Kingdom", "country_code": "GB", "isp": "OVH SAS", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "144.31.52.77:3128", "country": "Finland", "country_code": "FI", "isp": "DpkgSoft International Limited", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "181.62.249.189:8081", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "31.56.177.74:1090", "country": "Finland", "country_code": "FI", "isp": "CGI GLOBAL LIMITED", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "148.222.152.12:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

@@ -137759,5 +137759,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "31.192.106.135:8010",
+    "country": "Estonia",
+    "country_code": "EE",
+    "isp": "Elisteka UAB",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

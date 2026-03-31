@@ -137772,5 +137772,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "1.231.81.166:3128",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "SK Broadband Co Ltd",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

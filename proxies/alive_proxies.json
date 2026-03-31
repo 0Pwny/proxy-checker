@@ -137746,5 +137746,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "47.242.113.5:3128",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "isp": "Alibaba.com LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

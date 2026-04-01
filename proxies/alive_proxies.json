@@ -137850,5 +137850,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "172.105.130.80:8888",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Akamai Technologies",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

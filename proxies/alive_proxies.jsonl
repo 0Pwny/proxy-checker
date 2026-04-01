@@ -10602,3 +10602,4 @@
 {"proxy": "190.216.132.225:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "200.125.169.118:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "163.5.180.103:56297", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "172.105.130.80:8888", "country": "Germany", "country_code": "DE", "isp": "Akamai Technologies", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

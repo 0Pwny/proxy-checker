@@ -10598,3 +10598,5 @@
 {"proxy": "31.192.106.135:8010", "country": "Estonia", "country_code": "EE", "isp": "Elisteka UAB", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "1.231.81.166:3128", "country": "South Korea", "country_code": "KR", "isp": "SK Broadband Co Ltd", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "135.125.97.184:38035", "country": "France", "country_code": "FR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "217.182.195.221:30003", "country": "Austria", "country_code": "AT", "isp": "Foundation for Applied Privacy", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "190.216.132.225:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

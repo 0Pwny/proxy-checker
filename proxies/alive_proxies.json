@@ -137863,5 +137863,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "166.0.192.117:8888",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Snaju Development",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

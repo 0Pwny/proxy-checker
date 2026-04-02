@@ -137889,5 +137889,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.167.125.21:999",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Sepcom Comunicaciones SAS",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -137967,5 +137967,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "103.97.88.47:3128",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Melbikomas UAB",
+    "is_mobile": true,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -137954,5 +137954,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "213.220.3.183:3128",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "YSZ TRADING CO., LIMITED",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

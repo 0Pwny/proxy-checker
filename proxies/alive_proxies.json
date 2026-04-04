@@ -137993,5 +137993,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "104.168.92.24:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HostPapa",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

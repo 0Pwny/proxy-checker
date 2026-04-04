@@ -138006,5 +138006,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "46.249.98.211:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "BitCommand LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

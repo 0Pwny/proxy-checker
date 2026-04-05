@@ -138097,5 +138097,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "205.164.46.6:3082",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Grass DataCo (BVI) Ltd.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

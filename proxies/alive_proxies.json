@@ -138214,5 +138214,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "38.242.204.27:3128",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "185.76.240.21:10001",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "GIR SER",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

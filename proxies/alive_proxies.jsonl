@@ -10648,3 +10648,7 @@
 {"proxy": "23.130.144.12:999", "country": "Puerto Rico", "country_code": "PR", "isp": "Antoniol Electronic", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "109.107.179.140:8090", "country": "The Netherlands", "country_code": "NL", "isp": "Servers Tech Fzco", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "200.92.201.126:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "107.161.9.167:8080", "country": "Canada", "country_code": "CA", "isp": "Videotron Ltee", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "5.161.50.82:8118", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "79.137.197.56:3128", "country": "The Netherlands", "country_code": "NL", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "185.242.107.91:3129", "country": "Latvia", "country_code": "LV", "isp": "SIA VEESP", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

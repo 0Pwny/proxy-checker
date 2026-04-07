@@ -10646,3 +10646,5 @@
 {"proxy": "185.4.132.222:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "107.173.52.221:3128", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "23.130.144.12:999", "country": "Puerto Rico", "country_code": "PR", "isp": "Antoniol Electronic", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "109.107.179.140:8090", "country": "The Netherlands", "country_code": "NL", "isp": "Servers Tech Fzco", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "200.92.201.126:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

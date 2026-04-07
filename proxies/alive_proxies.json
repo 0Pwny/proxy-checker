@@ -138422,5 +138422,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "109.107.179.140:8090",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Servers Tech Fzco",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "200.92.201.126:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

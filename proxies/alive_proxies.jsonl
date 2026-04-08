@@ -10665,3 +10665,6 @@
 {"proxy": "142.171.95.105:3128", "country": "United States", "country_code": "US", "isp": "Multacom Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "86.109.3.24:10001", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "38.92.10.139:33985", "country": "United States", "country_code": "US", "isp": "Cogent Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "23.27.177.232:24574", "country": "United States", "country_code": "US", "isp": "Ace Data Centers II", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "185.76.240.194:10001", "country": "Russia", "country_code": "RU", "isp": "GIR SER", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.234.0.145:55554", "country": "United States", "country_code": "US", "isp": "WAP.AC LTD", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

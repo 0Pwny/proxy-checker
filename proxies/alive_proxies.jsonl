@@ -10669,3 +10669,8 @@
 {"proxy": "185.76.240.194:10001", "country": "Russia", "country_code": "RU", "isp": "GIR SER", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "104.234.0.145:55554", "country": "United States", "country_code": "US", "isp": "WAP.AC LTD", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "185.76.240.240:10001", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "185.76.240.61:10001", "country": "Russia", "country_code": "RU", "isp": "Global Internet Solutions LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "154.40.137.209:55965", "country": "United States", "country_code": "US", "isp": "Cogent Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "185.76.240.157:10001", "country": "Russia", "country_code": "RU", "isp": "GIR SER", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "177.93.132.244:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "89.169.168.25:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

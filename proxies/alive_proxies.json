@@ -138890,5 +138890,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "130.61.30.221:8080",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

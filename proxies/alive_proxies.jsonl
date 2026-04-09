@@ -10678,3 +10678,7 @@
 {"proxy": "185.76.240.198:10001", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "38.92.10.152:57579", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "38.244.52.152:26678", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "205.164.46.6:3128", "country": "United States", "country_code": "US", "isp": "Grass DataCo (BVI) Ltd.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "38.92.10.98:20058", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "38.244.54.190:31168", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "213.220.62.63:3128", "country": "The Netherlands", "country_code": "NL", "isp": "YSZ Trading Co. Limited", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

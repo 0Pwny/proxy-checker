@@ -138903,5 +138903,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "193.93.55.175:34526",
+    "country": "Turkey",
+    "country_code": "TR",
+    "isp": "Superonline Iletisim Hizmetleri A.S.",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "201.230.121.86:999",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "Telefonica Del Peru",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

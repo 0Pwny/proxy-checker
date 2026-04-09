@@ -10683,3 +10683,5 @@
 {"proxy": "38.244.54.190:31168", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "213.220.62.63:3128", "country": "The Netherlands", "country_code": "NL", "isp": "YSZ Trading Co. Limited", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "130.61.30.221:8080", "country": "Germany", "country_code": "DE", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "193.93.55.175:34526", "country": "Turkey", "country_code": "TR", "isp": "Superonline Iletisim Hizmetleri A.S.", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "201.230.121.86:999", "country": "Peru", "country_code": "PE", "isp": "Telefonica Del Peru", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

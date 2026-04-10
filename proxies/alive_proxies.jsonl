@@ -10703,3 +10703,6 @@
 {"proxy": "151.240.19.111:46167", "country": "France", "country_code": "FR", "isp": "Feelb Sarl", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "185.76.240.115:10001", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "199.68.217.2:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "190.97.254.254:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "185.76.240.150:10001", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "185.76.240.126:10001", "country": "Russia", "country_code": "RU", "isp": "GIR SER", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

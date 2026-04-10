@@ -10706,3 +10706,4 @@
 {"proxy": "190.97.254.254:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "185.76.240.150:10001", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "185.76.240.126:10001", "country": "Russia", "country_code": "RU", "isp": "GIR SER", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "103.231.75.209:3128", "country": "Türkiye", "country_code": "TR", "isp": "WorkTitans B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

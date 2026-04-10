@@ -139202,5 +139202,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "103.231.75.209:3128",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "WorkTitans B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

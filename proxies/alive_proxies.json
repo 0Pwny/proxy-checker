@@ -139358,5 +139358,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "188.34.194.195:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Hetzner Online GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

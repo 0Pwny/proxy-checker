@@ -139423,5 +139423,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "213.131.85.28:1976",
+    "country": "Egypt",
+    "country_code": "EG",
+    "isp": "Link Egypt (Link.NET)",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

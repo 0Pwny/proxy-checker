@@ -139839,5 +139839,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "165.227.169.229:3080",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "24.172.82.94:53281",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "3.222.207.104:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon Technologies Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "205.164.46.6:3094",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Grass DataCo (BVI) Ltd.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

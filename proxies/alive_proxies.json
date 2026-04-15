@@ -140008,5 +140008,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "195.26.243.76:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Contabo Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

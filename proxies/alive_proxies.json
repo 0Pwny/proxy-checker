@@ -139930,5 +139930,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "193.181.35.159:8118",
+    "country": "Sweden",
+    "country_code": "SE",
+    "isp": "PVDataNet AB",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "168.222.254.26:8888",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

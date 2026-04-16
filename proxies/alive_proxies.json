@@ -140112,5 +140112,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "159.89.191.221:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

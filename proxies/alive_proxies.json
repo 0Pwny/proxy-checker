@@ -140073,5 +140073,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "144.31.140.92:1080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "DpkgSoft International Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -10773,3 +10773,4 @@
 {"proxy": "27.71.24.102:3128", "country": "Vietnam", "country_code": "VN", "isp": "Viettel Group", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "91.218.142.28:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "188.246.224.49:7890", "country": "Russia", "country_code": "RU", "isp": "JSC Selectel", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "144.31.140.92:1080", "country": "United States", "country_code": "US", "isp": "DpkgSoft International Limited", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

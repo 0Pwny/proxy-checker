@@ -140060,5 +140060,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "188.246.224.49:7890",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "JSC Selectel",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

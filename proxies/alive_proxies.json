@@ -140203,5 +140203,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "185.88.101.111:8060",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Baykov Ilya Sergeevich",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

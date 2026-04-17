@@ -10779,3 +10779,5 @@
 {"proxy": "159.89.191.221:3128", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "8.209.238.110:47701", "country": "Japan", "country_code": "JP", "isp": "Alibaba (US) Technology Co., Ltd.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "217.28.220.104:1080", "country": "Netherlands", "country_code": "NL", "isp": "Servers Tech Fzco", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "72.56.105.251:3128", "country": "Germany", "country_code": "DE", "isp": "Timeweb, LLP", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "185.138.116.150:8080", "country": "France", "country_code": "FR", "isp": "Artic Solutions SARL", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

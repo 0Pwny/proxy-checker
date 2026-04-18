@@ -140437,5 +140437,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.76.207.177:40000",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Cloudflare, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

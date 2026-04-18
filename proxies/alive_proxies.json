@@ -140255,5 +140255,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "160.119.69.7:8080",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Greenhost BV",
+    "is_mobile": true,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "91.107.124.215:3128",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "JSC IOT",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "94.158.219.111:3128",
+    "country": "Latvia",
+    "country_code": "LV",
+    "isp": "SIA VEESP",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

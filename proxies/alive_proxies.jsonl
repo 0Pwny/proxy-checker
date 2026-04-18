@@ -10797,3 +10797,6 @@
 {"proxy": "108.181.201.118:1234", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "162.19.253.202:8443", "country": "Germany", "country_code": "DE", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.56.87.46:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "46.101.95.183:8888", "country": "United Kingdom", "country_code": "GB", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "89.111.174.221:8080", "country": "Germany", "country_code": "DE", "isp": "Senko Digital LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "81.30.156.115:8080", "country": "Germany", "country_code": "DE", "isp": "WIIT AG", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

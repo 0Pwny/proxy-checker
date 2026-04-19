@@ -140554,5 +140554,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "192.3.248.190:8014",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HostPapa",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

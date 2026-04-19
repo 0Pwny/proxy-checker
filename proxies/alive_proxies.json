@@ -140515,5 +140515,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "166.88.61.54:8000",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "isp": "Ace Data Centers II",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

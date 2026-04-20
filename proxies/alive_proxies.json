@@ -140645,5 +140645,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "103.85.113.66:9999",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "First Server Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

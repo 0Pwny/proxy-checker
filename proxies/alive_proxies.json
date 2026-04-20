@@ -140632,5 +140632,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "107.150.41.226:18080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Nocix, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

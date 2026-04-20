@@ -10816,3 +10816,4 @@
 {"proxy": "192.73.243.65:3128", "country": "United States", "country_code": "US", "isp": "NetActuate, Inc", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "178.63.155.151:9002", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "77.110.113.24:40000", "country": "Russia", "country_code": "RU", "isp": "Global Internet Solutions LLC", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "107.150.41.226:18080", "country": "United States", "country_code": "US", "isp": "Nocix, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

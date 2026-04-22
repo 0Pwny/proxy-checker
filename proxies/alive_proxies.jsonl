@@ -10838,3 +10838,5 @@
 {"proxy": "86.109.3.27:10064", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "83.97.79.114:8443", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "86.109.3.27:10004", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "103.78.83.18:8083", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "41.254.48.188:1970", "country": "Libya", "country_code": "LY", "isp": "LTT Network Backbone and POPs", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

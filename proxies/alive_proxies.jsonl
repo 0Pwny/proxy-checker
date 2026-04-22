@@ -10844,3 +10844,4 @@
 {"proxy": "193.181.35.204:8118", "country": "Sweden", "country_code": "SE", "isp": "PVDataNet AB", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "190.97.247.18:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "134.209.27.75:3128", "country": "United Kingdom", "country_code": "GB", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "193.181.35.218:8118", "country": "Sweden", "country_code": "SE", "isp": "PVDataNet AB", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

@@ -140996,5 +140996,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "193.181.35.218:8118",
+    "country": "Sweden",
+    "country_code": "SE",
+    "isp": "PVDataNet AB",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

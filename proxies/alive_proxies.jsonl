@@ -10842,3 +10842,5 @@
 {"proxy": "41.254.48.188:1970", "country": "Libya", "country_code": "LY", "isp": "LTT Network Backbone and POPs", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "85.117.56.115:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "193.181.35.204:8118", "country": "Sweden", "country_code": "SE", "isp": "PVDataNet AB", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "190.97.247.18:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "134.209.27.75:3128", "country": "United Kingdom", "country_code": "GB", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

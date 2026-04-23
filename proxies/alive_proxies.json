@@ -141035,5 +141035,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "190.60.47.165:999",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "IFX NETWORKS COLOMBIA",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

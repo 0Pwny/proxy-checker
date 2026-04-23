@@ -141087,5 +141087,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "91.186.217.84:3128",
+    "country": "Sweden",
+    "country_code": "SE",
+    "isp": "NetCrafters OU",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

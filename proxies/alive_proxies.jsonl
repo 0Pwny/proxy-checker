@@ -10854,3 +10854,4 @@
 {"proxy": "91.186.217.84:3128", "country": "Sweden", "country_code": "SE", "isp": "NetCrafters OU", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "64.188.77.221:3128", "country": "Netherlands", "country_code": "NL", "isp": "OC NETWORKS LIMITED", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "181.143.181.35:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "64.188.77.26:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

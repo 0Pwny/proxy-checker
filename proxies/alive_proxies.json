@@ -141165,5 +141165,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "86.109.3.27:10074",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "86.109.3.27:10073",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Equinix (EMEA) Acquisition Enterprises B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

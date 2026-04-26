@@ -141204,5 +141204,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "68.183.199.89:1080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

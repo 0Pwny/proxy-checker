@@ -10864,3 +10864,4 @@
 {"proxy": "72.56.115.11:3128", "country": "Netherlands", "country_code": "NL", "isp": "Timeweb, LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "64.188.67.154:1080", "country": "Germany", "country_code": "DE", "isp": "Play2go International Limited", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "86.104.72.220:1081", "country": "United States", "country_code": "US", "isp": "WorkTitans B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "62.60.237.112:3128", "country": "Finland", "country_code": "FI", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

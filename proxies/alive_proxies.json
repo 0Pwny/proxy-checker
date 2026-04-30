@@ -141464,5 +141464,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "103.35.190.182:1082",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "WorkTitans B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "103.35.191.244:1082",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "WorkTitans B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

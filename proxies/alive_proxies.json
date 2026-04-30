@@ -141386,5 +141386,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "80.92.204.47:1081",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "WorkTitans B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

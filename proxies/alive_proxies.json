@@ -141399,5 +141399,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "65.109.213.99:1080",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Hetzner Online GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

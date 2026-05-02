@@ -141620,5 +141620,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "136.244.96.236:50000",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "isp": "Cloudflare, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

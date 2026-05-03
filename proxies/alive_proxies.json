@@ -141672,5 +141672,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "144.31.164.134:11011",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Play2go International Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -10897,3 +10897,6 @@
 {"proxy": "86.104.72.219:1081", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "47.77.216.82:1080", "country": "United States", "country_code": "US", "isp": "Alibaba.com LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "144.31.164.134:11011", "country": "Germany", "country_code": "DE", "isp": "Play2go International Limited", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "135.125.97.184:32901", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "109.120.156.122:8090", "country": "Sweden", "country_code": "SE", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "86.104.74.110:1081", "country": "France", "country_code": "FR", "isp": "WorkTitans B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

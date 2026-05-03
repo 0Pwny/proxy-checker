@@ -141750,5 +141750,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "81.26.190.143:1080",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Leaseweb Deutschland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "185.196.61.181:8081",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

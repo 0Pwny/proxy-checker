@@ -10938,3 +10938,15 @@
 {"proxy": "217.182.195.221:30001", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "45.71.186.214:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "189.195.30.210:8080", "country": "Mexico", "country_code": "MX", "isp": "Mega Cable, S.A. de C.V.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "176.88.166.202:8080", "country": "Türkiye", "country_code": "TR", "isp": "Superonline Iletisim Hizmetleri A.S.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "185.234.64.63:1082", "country": "France", "country_code": "FR", "isp": "WorkTitans B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.239.48.102:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "77.110.107.80:8080", "country": "Germany", "country_code": "DE", "isp": "Global Connectivity Solutions LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "185.121.13.73:3128", "country": "Netherlands", "country_code": "NL", "isp": "Anton Levin", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "38.145.218.142:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "185.230.191.240:3128", "country": "Finland", "country_code": "FI", "isp": "Livi Hosting LTD", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "38.199.26.34:999", "country": "Colombia", "country_code": "CO", "isp": "Renoca Group SRL", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "190.60.55.61:8080", "country": "Colombia", "country_code": "CO", "isp": "IFX NETWORKS COLOMBIA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "84.242.58.9:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "23.185.200.94:37514", "country": "United States", "country_code": "US", "isp": "Fastnet Data Inc", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "38.199.88.1:999", "country": "Guatemala", "country_code": "GT", "isp": "Ufinet Panama S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

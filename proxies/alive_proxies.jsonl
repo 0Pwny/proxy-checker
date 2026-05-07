@@ -10980,3 +10980,5 @@
 {"proxy": "147.161.246.36:8800", "country": "Switzerland", "country_code": "CH", "isp": "Zscaler ZRH1", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "38.211.245.34:999", "country": "Argentina", "country_code": "AR", "isp": "Latencia 0 SA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "38.7.23.201:999", "country": "Mexico", "country_code": "MX", "isp": "Internet Telefonia Y TV De Michoacan SA De CV", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "91.242.229.129:8092", "country": "United Kingdom", "country_code": "GB", "isp": "Psychz Networks", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "178.63.155.151:8978", "country": "Germany", "country_code": "DE", "isp": "Vodafone", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

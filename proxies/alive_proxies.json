@@ -142660,5 +142660,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "31.59.20.176:6754",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Leaseweb UK Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

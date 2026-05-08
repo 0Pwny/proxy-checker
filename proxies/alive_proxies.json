@@ -142959,5 +142959,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.143.94.147:40000",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Cloudflare, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

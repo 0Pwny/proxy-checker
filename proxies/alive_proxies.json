@@ -147041,5 +147041,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "38.194.253.133:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

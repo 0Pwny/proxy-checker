@@ -147639,5 +147639,460 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "131.153.163.166:55845",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "T-Mobile USA, Inc.",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.126:52364",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cox Communications Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.171.158:31451",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comporium, Inc",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.188:9291",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.187:25328",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Datacamp Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "154.27.196.80:999",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Mega Cable, S.A. de C.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "181.78.217.50:999",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "isp": "Ufinet Paraguay S.A",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.130:52445",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.74:50048",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cox Communications Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.218:21245",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cox Communications Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "217.113.235.181:443",
+    "country": "Poland",
+    "country_code": "PL",
+    "isp": "Toya sp. z o.o.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.181:51288",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Breezeline",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.179:53418",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Data Stream",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.219:20762",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Strong Technology",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.219:8770",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cox Communications Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "192.203.0.166:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.206:8632",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.202:8950",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.213:50691",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.179:31154",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Strong Technology",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.171.158:36440",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications, Inc",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "131.153.163.163:37068",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications Inc",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.171.165:28220",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Datacamp Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.220:35785",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Strong Technology",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.171.156:63607",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google Fiber Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.130:8772",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cox Communications Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.221:55074",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Shenandoah Cable Television LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.252:22817",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cox Communications Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "131.153.163.166:55341",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "190.97.242.233:999",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "Viginet C.A",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.202:31095",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "CenturyLink",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.171.154:20671",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cox Communications Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.171.155:38546",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Strong Technology",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.219:21568",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Zayo Bandwidth",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.165.218:8657",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

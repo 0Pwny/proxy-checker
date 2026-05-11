@@ -11318,3 +11318,18 @@
 {"proxy": "131.153.163.164:8001", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "174.138.165.211:52643", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "85.159.2.31:58080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "174.138.165.219:9066", "country": "United States", "country_code": "US", "isp": "Suddenlink Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.165.133:21908", "country": "United States", "country_code": "US", "isp": "Strong Technology", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "174.138.165.75:39270", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "174.138.165.133:56241", "country": "United States", "country_code": "US", "isp": "Shenandoah Cable Television LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "131.153.163.166:8001", "country": "United States", "country_code": "US", "isp": "Mediacom Communications Corp", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.165.211:64985", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.165.92:35682", "country": "United States", "country_code": "US", "isp": "Taylor Electric Cooperative Inc", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "5.189.138.17:3128", "country": "France", "country_code": "FR", "isp": "Contabo GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "174.138.165.126:36306", "country": "United States", "country_code": "US", "isp": "PacketHub S.A.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.13.116.215:21537", "country": "France", "country_code": "FR", "isp": "ABJP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "31.131.248.48:3129", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "174.138.165.78:21713", "country": "United States", "country_code": "US", "isp": "Latitude.sh", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.165.133:55004", "country": "United States", "country_code": "US", "isp": "Consolidated Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "131.153.163.163:35173", "country": "United States", "country_code": "US", "isp": "T-Mobile USA, Inc.", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.171.156:36381", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

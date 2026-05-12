@@ -148783,5 +148783,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.13.185.217:3128",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "Soluciones web on line s.l.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.171.154:52571",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

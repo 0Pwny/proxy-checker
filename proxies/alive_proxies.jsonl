@@ -11476,3 +11476,9 @@
 {"proxy": "37.187.64.116:3128", "country": "France", "country_code": "FR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "174.138.168.74:8001", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "174.138.161.222:8001", "country": "United States", "country_code": "US", "isp": "Spectrum", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.161.166:39142", "country": "United States", "country_code": "US", "isp": "Emery Telcom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.163.51:33733", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "38.7.23.118:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "174.138.161.213:38068", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "181.78.17.131:999", "country": "Colombia", "country_code": "CO", "isp": "IFX Networks Argentina S.R.L", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.161.213:55100", "country": "United States", "country_code": "US", "isp": "Uniti Fiber Holdings Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

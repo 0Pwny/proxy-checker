@@ -11523,3 +11523,4 @@
 {"proxy": "174.138.168.90:53044", "country": "United States", "country_code": "US", "isp": "Valley Electric Association", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "174.138.162.235:50629", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "129.146.127.232:3128", "country": "United States", "country_code": "US", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "23.27.6.196:3128", "country": "United States", "country_code": "US", "isp": "Cyclone Servers", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

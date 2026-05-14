@@ -149810,5 +149810,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "129.146.127.232:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

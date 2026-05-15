@@ -149862,5 +149862,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "47.238.78.190:1080",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "isp": "Alibaba Cloud LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

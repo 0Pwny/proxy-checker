@@ -149888,5 +149888,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "3.15.187.17:1080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

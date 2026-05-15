@@ -11525,3 +11525,4 @@
 {"proxy": "129.146.127.232:3128", "country": "United States", "country_code": "US", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "23.27.6.196:3128", "country": "United States", "country_code": "US", "isp": "Cyclone Servers", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "167.99.173.119:3128", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "192.210.236.118:3128", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

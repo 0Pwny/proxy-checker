@@ -149849,5 +149849,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "192.210.236.118:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HostPapa",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

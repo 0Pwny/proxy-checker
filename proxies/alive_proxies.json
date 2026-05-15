@@ -149875,5 +149875,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "38.19.47.114:999",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Cogent Communications",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

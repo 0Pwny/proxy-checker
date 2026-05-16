@@ -149953,5 +149953,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "5.75.139.30:1081",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Cloudflare, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "51.161.50.166:3128",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

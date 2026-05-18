@@ -11570,3 +11570,4 @@
 {"proxy": "176.111.37.216:39811", "country": "Ukraine", "country_code": "UA", "isp": "Cogento Backbone Limited", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "20.2.221.52:3456", "country": "Hong Kong", "country_code": "HK", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "8.217.78.60:8100", "country": "Hong Kong", "country_code": "HK", "isp": "Alibaba (US) Technology Co., Ltd.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "185.253.61.251:3310", "country": "Latvia", "country_code": "LV", "isp": "Telenet SIA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

@@ -150057,5 +150057,330 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "57.128.159.156:21",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "5.188.140.77:10101",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "LLC VK",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "78.186.118.164:3311",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Turk Telekomunikasyon A.S",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.137.134.182:2999",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Webair Internet Development Company Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "88.248.130.191:3311",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Turk Telekomunikasyon A.S",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "170.79.181.102:1994",
+    "country": "Argentina",
+    "country_code": "AR",
+    "isp": "Techtron Argentina S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.130.126.146:6688",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "38.180.105.144:1453",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Scalaxy B.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.168.135.8:3126",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Hostwinds LLC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "188.34.156.126:24575",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Hetzner Online GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "81.0.49.104:18359",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "MasMovil Access Network",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "85.238.106.201:28089",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "isp": "TeNeT Networking Centre",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "85.163.46.76:32000",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "isp": "CETIN a.s.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "81.0.49.104:19775",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "MasMovil Access Network",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "192.81.129.252:3136",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Akamai Technologies, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.153.79.124:38888",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "170.106.188.46:5432",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "194.147.148.93:31196",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "MIRhosting B.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "31.42.164.144:23255",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "isp": "PP \"Podilsky Intelectualni sistemy\"",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "89.58.50.94:11140",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "netcup GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "192.99.8.15:8850",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.159.128.164:10000",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "116.80.76.253:7779",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "InfoSphere",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "43.135.153.37:38888",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "179.1.13.29:47471",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Internexa S.a. E.S.P",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

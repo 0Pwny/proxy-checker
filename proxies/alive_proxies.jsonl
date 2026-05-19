@@ -11579,3 +11579,4 @@
 {"proxy": "104.168.96.172:1888", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "67.207.82.252:3128", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "31.172.78.12:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "104.207.139.62:1080", "country": "United States", "country_code": "US", "isp": "The Constant Company", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

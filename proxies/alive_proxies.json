@@ -150551,5 +150551,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "104.207.139.62:1080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "The Constant Company",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -11571,3 +11571,9 @@
 {"proxy": "20.2.221.52:3456", "country": "Hong Kong", "country_code": "HK", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "8.217.78.60:8100", "country": "Hong Kong", "country_code": "HK", "isp": "Alibaba (US) Technology Co., Ltd.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "185.253.61.251:3310", "country": "Latvia", "country_code": "LV", "isp": "Telenet SIA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "158.160.215.167:8123", "country": "Russia", "country_code": "RU", "isp": "JSC Selectel", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.174.175.26:999", "country": "Mexico", "country_code": "MX", "isp": "Javier Tamayo Garcia", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "216.106.179.216:49152", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "74.208.192.81:3129", "country": "United States", "country_code": "US", "isp": "IONOS SE", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.155.125.102:1447", "country": "Turkey", "country_code": "TR", "isp": "2E TELEKOMUNIKASYON LTD STI", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.168.96.172:1888", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

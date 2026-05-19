@@ -150590,5 +150590,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "138.2.92.70:8100",
+    "country": "Singapore",
+    "country_code": "SG",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

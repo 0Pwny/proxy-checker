@@ -11582,3 +11582,4 @@
 {"proxy": "104.207.139.62:1080", "country": "United States", "country_code": "US", "isp": "The Constant Company", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "143.198.239.98:1047", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "181.225.77.101:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "138.2.92.70:8100", "country": "Singapore", "country_code": "SG", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

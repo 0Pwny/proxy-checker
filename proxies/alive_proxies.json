@@ -151305,5 +151305,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "145.241.249.192:80",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -11637,3 +11637,4 @@
 {"proxy": "157.100.53.103:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "157.245.143.65:7890", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "157.230.52.227:3128", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "145.241.249.192:80", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

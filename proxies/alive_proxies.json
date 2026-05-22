@@ -151396,5 +151396,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "116.80.76.254:7779",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "InfoSphere",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -151357,5 +151357,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "154.64.230.33:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "NetLab Global",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "38.123.220.147:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "167.86.74.161:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Contabo GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

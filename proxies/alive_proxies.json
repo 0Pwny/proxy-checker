@@ -151344,5 +151344,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "128.241.228.166:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "TianFeng (Hong Kong) Communications Ltd",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

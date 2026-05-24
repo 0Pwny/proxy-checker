@@ -154555,5 +154555,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "148.251.86.68:16379",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Church of Cyberology",
+    "is_mobile": true,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.176.49.37:1080",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Amazon Technologies Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

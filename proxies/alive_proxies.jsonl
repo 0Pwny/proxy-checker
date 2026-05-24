@@ -11869,3 +11869,10 @@
 {"proxy": "197.164.101.13:1976", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "91.228.155.23:3128", "country": "Germany", "country_code": "DE", "isp": "Fornex Hosting S.L.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "35.159.177.102:1080", "country": "Germany", "country_code": "DE", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "3.255.90.251:1080", "country": "Ireland", "country_code": "IE", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "38.7.21.116:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "3.81.92.146:1080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "54.151.20.25:1080", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "194.58.57.116:3128", "country": "The Netherlands", "country_code": "NL", "isp": "Timeweb, LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "54.67.14.85:1080", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "200.71.111.157:999", "country": "Mexico", "country_code": "MX", "isp": "Digy Networks", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

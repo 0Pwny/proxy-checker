@@ -159027,5 +159027,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "8.219.97.248:80",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

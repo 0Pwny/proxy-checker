@@ -12117,3 +12117,26 @@
 {"proxy": "174.138.161.140:30731", "country": "United States", "country_code": "US", "isp": "Suddenlink Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "200.59.193.53:999", "country": "Argentina", "country_code": "AR", "isp": "Silica Networks Argentina S.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "174.138.161.140:56297", "country": "United States", "country_code": "US", "isp": "Everywhere Wireless, LLC", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.227.129.196:38078", "country": "United States", "country_code": "US", "isp": "CABLE ONE, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.165.109:25543", "country": "United States", "country_code": "US", "isp": "Strong Technology", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "174.138.165.108:30797", "country": "United States", "country_code": "US", "isp": "Cox Communications Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "200.59.193.34:999", "country": "Argentina", "country_code": "AR", "isp": "Silica Networks Argentina S.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "195.13.164.73:8080", "country": "Latvia", "country_code": "LV", "isp": "SIA Tet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.165.150:30947", "country": "United States", "country_code": "US", "isp": "Verizon Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.165.197:34699", "country": "United States", "country_code": "US", "isp": "Wyyerd Group", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.165.148:32362", "country": "United States", "country_code": "US", "isp": "Cox Communications Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.165.182:56287", "country": "United States", "country_code": "US", "isp": "Verizon Business", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.166.35:38080", "country": "United States", "country_code": "US", "isp": "TEPA Connect LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.163.51:53849", "country": "United States", "country_code": "US", "isp": "Frontier Communications of America, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.227.129.212:55940", "country": "United States", "country_code": "US", "isp": "TILLMAN FIBERCO, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.165.109:9344", "country": "United States", "country_code": "US", "isp": "Armstrong", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.169.213:36684", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "131.153.163.26:35057", "country": "United States", "country_code": "US", "isp": "T-Mobile USA, Inc.", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.227.129.213:53849", "country": "United States", "country_code": "US", "isp": "Fuse Internet Access", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.161.139:35539", "country": "United States", "country_code": "US", "isp": "Charter Communications Inc", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "23.138.88.1:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "174.138.165.203:8092", "country": "United States", "country_code": "US", "isp": "Farmers Telephone Cooperative, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.165.150:38952", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "24.72.215.236:8246", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "193.227.129.214:38321", "country": "United States", "country_code": "US", "isp": "Cincinnati Bell Telephone Company LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "77.110.114.79:8080", "country": "United States", "country_code": "US", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

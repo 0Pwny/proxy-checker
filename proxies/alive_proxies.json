@@ -159144,5 +159144,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "185.204.169.206:443",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Arvancloud Global Technologies L.L.C",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.31.233.155:5103",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Registered Cogent Communications Customer - LifeinCloud LTD",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

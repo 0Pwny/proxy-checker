@@ -159352,5 +159352,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.12.255.106:3128",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "isp": "Hostkey B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

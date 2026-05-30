@@ -159378,5 +159378,148 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "193.233.137.130:1081",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "OOO FREEnet Group",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "185.110.188.199:8080",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "BitCommand LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "137.31.45.79:80",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "137.31.47.73:443",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "137.31.47.79:80",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.174.138:36316",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.89.111.139:1082",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "WorkTitans B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.174.139:35000",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "CenturyLink",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.89.111.19:1081",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "WorkTitans B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "81.168.119.85:443",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Iomart Cloud Services Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.89.111.19:1082",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "WorkTitans B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

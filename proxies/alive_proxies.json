@@ -159222,5 +159222,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "94.131.122.125:1082",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

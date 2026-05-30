@@ -159235,5 +159235,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "137.31.47.73:80",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "178.63.155.151:8899",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

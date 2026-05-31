@@ -12391,3 +12391,8 @@
 {"proxy": "41.33.255.227:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "185.234.66.82:1082", "country": "Turkey", "country_code": "TR", "isp": "WorkTitans B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "217.182.195.221:30004", "country": "Germany", "country_code": "DE", "isp": "F3 Netze e.V.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "77.221.149.55:3128", "country": "United States", "country_code": "US", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "208.67.248.59:3128", "country": "United States", "country_code": "US", "isp": "VIRTBIZ Internet Services", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "192.227.173.30:8000", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.13.116.188:21537", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "208.67.248.58:3128", "country": "United States", "country_code": "US", "isp": "VIRTBIZ Internet Services", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

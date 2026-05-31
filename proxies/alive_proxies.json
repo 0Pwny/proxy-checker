@@ -161367,5 +161367,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "213.108.3.58:3128",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "e-Style ISP LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "91.149.222.102:22335",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Baxet Group Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "2.27.49.175:3128",
+    "country": "Poland",
+    "country_code": "PL",
+    "isp": "Netshield LTD",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "38.76.150.55:1080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cloudflare, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

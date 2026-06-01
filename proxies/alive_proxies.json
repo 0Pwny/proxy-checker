@@ -161419,5 +161419,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "137.31.45.61:9443",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "213.165.43.205:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Aeza International LTD",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

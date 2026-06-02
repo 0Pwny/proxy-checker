@@ -12430,3 +12430,6 @@
 {"proxy": "43.166.144.208:8080", "country": "United States", "country_code": "US", "isp": "Aceville Pte.ltd", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "186.190.224.86:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "89.43.135.18:8080", "country": "Syria", "country_code": "SY", "isp": "High Speed For Internet Services L.L.C", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.154.186.48:80", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "81.200.154.236:48503", "country": "Germany", "country_code": "DE", "isp": "Timeweb, LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "109.232.34.40:80", "country": "Italy", "country_code": "IT", "isp": "Engineering D.HUB S.p.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

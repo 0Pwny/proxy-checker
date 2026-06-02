@@ -161679,5 +161679,122 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "167.88.164.6:3129",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "RouterHosting LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "167.86.98.220:3128",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Contabo GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "98.185.93.186:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cox Communications Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "130.185.123.54:8443",
+    "country": "Turkey",
+    "country_code": "TR",
+    "isp": "Arvancloud Global Technologies L.L.C",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "57.128.103.215:3128",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "78.24.220.41:8080",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "JSC IOT",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "185.141.26.131:3128",
+    "country": "Romania",
+    "country_code": "RO",
+    "isp": "IP Solus Inc",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "20.82.16.221:3128",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "isp": "Microsoft Corporation",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "5.45.124.242:3128",
+    "country": "Estonia",
+    "country_code": "EE",
+    "isp": "PAGM network",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

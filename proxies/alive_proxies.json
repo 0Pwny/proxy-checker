@@ -161796,5 +161796,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "5.252.23.206:1080",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "isp": "WorkTitans B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

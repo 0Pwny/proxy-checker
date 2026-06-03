@@ -161887,5 +161887,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "34.148.111.219:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

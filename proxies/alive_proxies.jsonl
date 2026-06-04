@@ -12457,3 +12457,8 @@
 {"proxy": "185.191.239.248:8080", "country": "Switzerland", "country_code": "CH", "isp": "Geronimo Ramirez Computer Network", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "104.152.48.236:3128", "country": "Bulgaria", "country_code": "BG", "isp": "DA International Group Ltd.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "94.241.169.176:1080", "country": "The Netherlands", "country_code": "NL", "isp": "Servers Tech Fzco", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.131.64.181:3128", "country": "Germany", "country_code": "DE", "isp": "Florian Kolb", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.84.222.25:1080", "country": "Netherlands", "country_code": "NL", "isp": "Play2go International Limited", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "64.188.57.128:3128", "country": "Germany", "country_code": "DE", "isp": "Timeweb, LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "147.45.170.190:3128", "country": "Netherlands", "country_code": "NL", "isp": "Timeweb, LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "81.200.154.152:8888", "country": "Germany", "country_code": "DE", "isp": "Timeweb, LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

@@ -162199,5 +162199,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "165.227.133.230:8888",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

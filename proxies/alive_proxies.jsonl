@@ -12521,3 +12521,10 @@
 {"proxy": "3.90.0.161:8000", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "93.183.82.231:1080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "206.135.55.224:999", "country": "Mexico", "country_code": "MX", "isp": "Valor Information Technologies, S.L.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "92.118.112.25:1081", "country": "United States", "country_code": "US", "isp": "Global Connectivity Solutions LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "38.87.116.28:8080", "country": "Germany", "country_code": "DE", "isp": "Florian Kolb Einzelunternehmen", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "145.236.115.12:8080", "country": "Hungary", "country_code": "HU", "isp": "Magyar Telekom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "138.124.93.170:3129", "country": "Germany", "country_code": "DE", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "38.156.235.36:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "196.75.169.223:1081", "country": "Morocco", "country_code": "MA", "isp": "ADSL Maroc telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "89.127.196.71:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

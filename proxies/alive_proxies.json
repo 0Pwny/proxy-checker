@@ -162758,5 +162758,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "3.90.0.161:8000",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

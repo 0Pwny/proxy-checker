@@ -12518,3 +12518,4 @@
 {"proxy": "143.20.37.77:3128", "country": "Germany", "country_code": "DE", "isp": "Freakhosting LTD", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "192.109.219.34:8081", "country": "Albania", "country_code": "AL", "isp": "Roland Delia trading as NEWAVE", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "85.234.100.149:8080", "country": "Germany", "country_code": "DE", "isp": "Global Connectivity Solutions LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "3.90.0.161:8000", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

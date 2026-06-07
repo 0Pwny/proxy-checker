@@ -163382,5 +163382,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "62.210.136.222:3128",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Scaleway SAS",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

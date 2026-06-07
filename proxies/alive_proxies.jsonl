@@ -12566,3 +12566,4 @@
 {"proxy": "170.245.133.49:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "209.38.106.178:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "178.17.132.179:10808", "country": "Albania", "country_code": "AL", "isp": "Albanian Hosting SH.P.K.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "62.210.136.222:3128", "country": "France", "country_code": "FR", "isp": "Scaleway SAS", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

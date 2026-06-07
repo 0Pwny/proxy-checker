@@ -12559,3 +12559,9 @@
 {"proxy": "178.63.155.151:8903", "country": "Germany", "country_code": "DE", "isp": "Deutsche Telekom AG", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "2.26.68.177:8080", "country": "United States", "country_code": "US", "isp": "Ace Data Centers II", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "117.55.203.161:8899", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "194.87.196.108:3128", "country": "Russia", "country_code": "RU", "isp": "LLC Baxet", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "23.143.160.193:999", "country": "Puerto Rico", "country_code": "PR", "isp": "Unonet Corp", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "94.241.175.40:10808", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "45.174.243.56:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "170.245.133.49:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "209.38.106.178:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

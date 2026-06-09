@@ -12598,3 +12598,6 @@
 {"proxy": "83.147.36.155:8080", "country": "United States", "country_code": "US", "isp": "WholeSale Internet, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "5.61.27.184:443", "country": "United States", "country_code": "US", "isp": "Nrp Teknoloji Limited Sirketi", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "180.2.108.38:8080", "country": "Japan", "country_code": "JP", "isp": "NTT Communications Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "18.156.91.133:8118", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "89.127.207.174:18080", "country": "Sweden", "country_code": "SE", "isp": "Cloudflare, Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "51.83.143.16:80", "country": "Poland", "country_code": "PL", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

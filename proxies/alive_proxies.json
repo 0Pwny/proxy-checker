@@ -163603,5 +163603,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "79.137.198.50:7777",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "78.17.4.36:8080",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Snowd Security OU",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.31.151.17:8080",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Kyonix Networks Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "217.209.35.22:443",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

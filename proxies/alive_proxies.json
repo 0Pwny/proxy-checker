@@ -163837,5 +163837,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "95.169.2.91:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "IT7 Networks Inc",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "107.150.61.226:8886",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Nocix, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "35.91.66.153:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

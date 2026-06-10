@@ -163980,5 +163980,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "34.165.141.4:443",
+    "country": "Israel",
+    "country_code": "IL",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

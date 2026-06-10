@@ -163954,5 +163954,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "217.154.155.115:8080",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "IONOS SE",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "5.75.199.246:1080",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Hetzner Online AG",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

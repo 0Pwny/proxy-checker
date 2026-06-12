@@ -164240,5 +164240,96 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "146.56.133.63:1080",
+    "country": "South Korea",
+    "country_code": "KR",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "47.80.103.120:8080",
+    "country": "Philippines",
+    "country_code": "PH",
+    "isp": "Alibaba.com LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "217.142.238.66:3128",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "2.26.138.48:443",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "NKtelecom INC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "3.137.86.220:443",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "199.247.29.193:50000",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Cloudflare, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "2.27.62.9:8888",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Rizki Abdul Azis",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

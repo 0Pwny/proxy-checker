@@ -12639,3 +12639,7 @@
 {"proxy": "3.137.86.220:443", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "199.247.29.193:50000", "country": "The Netherlands", "country_code": "NL", "isp": "Cloudflare, Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "2.27.62.9:8888", "country": "Germany", "country_code": "DE", "isp": "Rizki Abdul Azis", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "77.42.127.4:8080", "country": "Finland", "country_code": "FI", "isp": "Hetzner Online GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "138.124.114.42:7443", "country": "Germany", "country_code": "DE", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "89.125.68.33:10000", "country": "Germany", "country_code": "DE", "isp": "Hostkey B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "91.107.182.124:82", "country": "Germany", "country_code": "DE", "isp": "Hetzner Online AG", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

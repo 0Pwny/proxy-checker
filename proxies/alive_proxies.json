@@ -164617,5 +164617,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "91.107.172.30:82",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "85.192.28.62:7443",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Aeza International LTD",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

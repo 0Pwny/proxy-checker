@@ -164695,5 +164695,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "34.204.185.68:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

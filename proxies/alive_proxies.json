@@ -164955,5 +164955,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "85.192.28.65:7443",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Aeza International LTD",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "51.222.97.87:8080",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -165501,5 +165501,161 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.67.223.123:2001",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cnservers LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "198.40.53.61:2001",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "85.198.229.194:80",
+    "country": "Poland",
+    "country_code": "PL",
+    "isp": "Sileman Sp. z o.o.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "62.210.220.122:5640",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.34:11727",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.34:11735",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.91.121.61:3129",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Contabo GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "131.153.163.221:31484",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.34:10498",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "41.140.72.13:18080",
+    "country": "Morocco",
+    "country_code": "MA",
+    "isp": "ADSL Maroc telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.34:12054",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.34:10678",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

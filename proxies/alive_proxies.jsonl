@@ -12741,3 +12741,5 @@
 {"proxy": "41.140.72.13:18080", "country": "Morocco", "country_code": "MA", "isp": "ADSL Maroc telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "147.161.246.34:12054", "country": "Switzerland", "country_code": "CH", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "147.161.246.34:10678", "country": "Switzerland", "country_code": "CH", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "79.132.143.32:3128", "country": "Germany", "country_code": "DE", "isp": "Fornex Hosting S.L.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "202.49.176.24:2080", "country": "Russia", "country_code": "RU", "isp": "JSC Selectel", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

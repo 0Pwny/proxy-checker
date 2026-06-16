@@ -12744,3 +12744,6 @@
 {"proxy": "79.132.143.32:3128", "country": "Germany", "country_code": "DE", "isp": "Fornex Hosting S.L.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "202.49.176.24:2080", "country": "Russia", "country_code": "RU", "isp": "JSC Selectel", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "194.163.176.8:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "43.245.224.148:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "179.1.147.137:999", "country": "Peru", "country_code": "PE", "isp": "Internexa Peru S.A", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "38.137.176.252:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

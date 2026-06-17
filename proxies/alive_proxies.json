@@ -165787,5 +165787,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "185.103.103.156:1080",
+    "country": "Sweden",
+    "country_code": "SE",
+    "isp": "Aeza International LTD",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

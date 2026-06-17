@@ -12752,3 +12752,4 @@
 {"proxy": "8.208.85.87:8080", "country": "United Kingdom", "country_code": "GB", "isp": "Alibaba.com Singapore E-Commerce Private Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "70.35.196.194:8088", "country": "United States", "country_code": "US", "isp": "IONOS SE", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "185.103.103.156:1080", "country": "Sweden", "country_code": "SE", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "46.19.68.133:3128", "country": "The Netherlands", "country_code": "NL", "isp": "Timeweb, LLP", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

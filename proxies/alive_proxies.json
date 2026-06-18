@@ -166060,5 +166060,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "79.132.143.55:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Fornex Hosting S.L.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "72.56.238.99:1080",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "JSC \"TIMEWEB\"",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

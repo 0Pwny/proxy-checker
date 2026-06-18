@@ -166034,5 +166034,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "155.212.208.36:1080",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "Beget LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "34.141.60.96:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -166229,5 +166229,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "190.2.145.103:3128",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "WorldStream B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "66.151.33.12:3128",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Hostkey B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

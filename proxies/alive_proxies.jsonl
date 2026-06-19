@@ -12785,3 +12785,5 @@
 {"proxy": "45.184.103.182:999", "country": "Venezuela", "country_code": "VE", "isp": "PRINTER-NET-SERVICE, C.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "41.196.16.229:1976", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "146.103.43.35:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "190.2.145.103:3128", "country": "The Netherlands", "country_code": "NL", "isp": "WorldStream B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "66.151.33.12:3128", "country": "The Netherlands", "country_code": "NL", "isp": "Hostkey B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

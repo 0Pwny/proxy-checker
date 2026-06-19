@@ -166151,5 +166151,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "13.140.164.60:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "TerraTransit AG",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "38.244.204.7:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HIVELOCITY, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "192.236.131.143:1080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HostPapa",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.184.103.182:999",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "PRINTER-NET-SERVICE, C.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

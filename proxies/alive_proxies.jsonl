@@ -12815,3 +12815,7 @@
 {"proxy": "144.178.199.118:8443", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "41.216.182.232:10808", "country": "Sweden", "country_code": "SE", "isp": "Baykov Ilya Sergeevich", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "144.91.111.48:3129", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "46.62.172.245:3128", "country": "Finland", "country_code": "FI", "isp": "Hetzner Online GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "47.84.204.82:443", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "88.214.24.237:3128", "country": "France", "country_code": "FR", "isp": "Layer7 Networks GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "176.12.69.2:443", "country": "Switzerland", "country_code": "CH", "isp": "Ontario Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

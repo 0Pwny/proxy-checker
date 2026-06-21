@@ -12834,3 +12834,5 @@
 {"proxy": "176.12.65.233:443", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "81.163.27.64:10808", "country": "France", "country_code": "FR", "isp": "Ikoula Net SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "82.97.240.163:443", "country": "Spain", "country_code": "ES", "isp": "GTHost", "is_mobile": true, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "3.75.179.37:3128", "country": "Germany", "country_code": "DE", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "212.77.75.25:3129", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

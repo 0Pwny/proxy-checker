@@ -166853,5 +166853,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "82.97.240.163:443",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "GTHost",
+    "is_mobile": true,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

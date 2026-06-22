@@ -166918,5 +166918,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "217.182.195.221:30007",
+    "country": "Denmark",
+    "country_code": "DK",
+    "isp": "SERVICE",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

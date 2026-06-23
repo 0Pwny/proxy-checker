@@ -12852,3 +12852,6 @@
 {"proxy": "212.69.84.153:3128", "country": "The Netherlands", "country_code": "NL", "isp": "Hostkey B.V.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "195.158.8.123:3128", "country": "Uzbekistan", "country_code": "UZ", "isp": "\"Uzbektelekom\" Joint Stock Company", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "3.90.161.248:3128", "country": "United States", "country_code": "US", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "216.57.107.50:8445", "country": "The Netherlands", "country_code": "NL", "isp": "Timeweb, LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.153.4.154:3128", "country": "United States", "country_code": "US", "isp": "Istqrar for Servers Services Ltd", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "54.37.73.95:8000", "country": "Germany", "country_code": "DE", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

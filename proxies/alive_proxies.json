@@ -167139,5 +167139,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "47.79.119.13:8080",
+    "country": "Singapore",
+    "country_code": "SG",
+    "isp": "Alibaba.com LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "51.77.221.101:8888",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

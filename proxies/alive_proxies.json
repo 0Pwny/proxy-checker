@@ -167412,5 +167412,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "176.88.166.163:8080",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Superonline Iletisim Hizmetleri A.S.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -168504,5 +168504,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "143.47.246.42:3128",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -168465,5 +168465,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "165.225.72.38:10058",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

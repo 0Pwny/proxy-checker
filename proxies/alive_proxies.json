@@ -168543,5 +168543,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.168.244.10:9090",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

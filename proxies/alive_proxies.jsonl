@@ -12963,3 +12963,4 @@
 {"proxy": "143.47.246.42:3128", "country": "United Kingdom", "country_code": "GB", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "20.204.175.243:3128", "country": "India", "country_code": "IN", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "190.131.205.147:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "45.168.244.10:9090", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

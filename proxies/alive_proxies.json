@@ -168699,5 +168699,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "27.254.99.183:8118",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -168634,5 +168634,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "107.172.46.245:8080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HostPapa",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

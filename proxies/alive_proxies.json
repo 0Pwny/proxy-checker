@@ -168777,5 +168777,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "43.153.182.147:3128",
+    "country": "Japan",
+    "country_code": "JP",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

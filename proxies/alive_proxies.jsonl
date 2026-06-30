@@ -12989,3 +12989,4 @@
 {"proxy": "188.190.177.47:8989", "country": "Ukraine", "country_code": "UA", "isp": "Global Technology Ukraine Ltd", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "181.191.250.164:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "45.176.99.58:999", "country": "Dominican Republic", "country_code": "DO", "isp": "Cable Onda Oriental, SRL", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "109.120.184.202:1080", "country": "Finland", "country_code": "FI", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

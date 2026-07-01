@@ -12990,3 +12990,5 @@
 {"proxy": "181.191.250.164:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "45.176.99.58:999", "country": "Dominican Republic", "country_code": "DO", "isp": "Cable Onda Oriental, SRL", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "109.120.184.202:1080", "country": "Finland", "country_code": "FI", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.161.23.122:5089", "country": "United States", "country_code": "US", "isp": "Brightspeed", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "172.236.238.213:8080", "country": "United States", "country_code": "US", "isp": "Akamai Technologies, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

@@ -12994,3 +12994,4 @@
 {"proxy": "172.236.238.213:8080", "country": "United States", "country_code": "US", "isp": "Akamai Technologies, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "147.78.1.53:8080", "country": "Mexico", "country_code": "MX", "isp": "ONEPROVIDER", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "141.11.62.53:8466", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "159.195.69.220:8888", "country": "Germany", "country_code": "DE", "isp": "netcup GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

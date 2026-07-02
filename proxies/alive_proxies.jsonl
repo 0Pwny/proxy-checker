@@ -13012,3 +13012,4 @@
 {"proxy": "43.167.187.107:3128", "country": "Japan", "country_code": "JP", "isp": "Shenzhen Tencent Computer Systems Company Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "43.167.187.233:3128", "country": "Japan", "country_code": "JP", "isp": "Shenzhen Tencent Computer Systems Company Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "132.243.234.171:9443", "country": "The Netherlands", "country_code": "NL", "isp": "Hostkey B.V.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "154.88.132.50:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

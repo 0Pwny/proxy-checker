@@ -169193,5 +169193,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "208.82.61.64:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Bernardi Sounds",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "77.221.158.175:3128",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

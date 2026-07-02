@@ -169063,5 +169063,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "40.90.208.80:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Microsoft Corporation",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "187.243.251.66:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "80.51.61.1:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "167.114.172.208:3129",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

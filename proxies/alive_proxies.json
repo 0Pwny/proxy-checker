@@ -169310,5 +169310,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "92.63.226.78:2080",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "M247 Europe SRL",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

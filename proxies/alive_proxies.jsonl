@@ -13037,3 +13037,4 @@
 {"proxy": "5.35.39.236:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "13.140.170.132:3128", "country": "Germany", "country_code": "DE", "isp": "TerraTransit AG", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "152.67.154.35:3128", "country": "United Kingdom", "country_code": "GB", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "94.103.82.138:8889", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

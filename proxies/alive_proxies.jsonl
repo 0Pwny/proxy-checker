@@ -13030,3 +13030,7 @@
 {"proxy": "35.245.216.241:443", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "43.99.100.108:3128", "country": "Hong Kong", "country_code": "HK", "isp": "Alibaba (US) Technology Co., Ltd.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "51.161.137.166:8080", "country": "Australia", "country_code": "AU", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "143.14.79.235:3128", "country": "Brazil", "country_code": "BR", "isp": "Matheus Henrique", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.186.201.28:8080", "country": "Venezuela", "country_code": "VE", "isp": "Full Data Comunicaciones C.A.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "87.106.120.212:3128", "country": "France", "country_code": "FR", "isp": "IONOS SE", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "159.195.22.223:8888", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

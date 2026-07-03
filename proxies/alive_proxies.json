@@ -169323,5 +169323,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "178.250.156.112:443",
+    "country": "Italy",
+    "country_code": "IT",
+    "isp": "GTHost",
+    "is_mobile": true,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

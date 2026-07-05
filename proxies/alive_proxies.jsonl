@@ -13086,3 +13086,10 @@
 {"proxy": "86.21.235.43:995", "country": "United Kingdom", "country_code": "GB", "isp": "Virgin Media Limited", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "213.6.249.37:18000", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "2.26.121.3:1082", "country": "The Netherlands", "country_code": "NL", "isp": "Chsl ONE LTD", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "138.59.11.209:999", "country": "Venezuela", "country_code": "VE", "isp": "Distribuidora Ofic Tech De Venezuela C.A.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "2.56.204.180:1080", "country": "Armenia", "country_code": "AM", "isp": "Proitlab LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "43.167.27.118:3128", "country": "Japan", "country_code": "JP", "isp": "Shenzhen Tencent Computer Systems Company Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "185.125.203.248:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "188.209.138.213:1080", "country": "United States", "country_code": "US", "isp": "HOSTKEY", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.11.144.141:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "20.151.20.143:3128", "country": "Canada", "country_code": "CA", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

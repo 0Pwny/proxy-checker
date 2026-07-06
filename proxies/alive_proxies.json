@@ -170727,5 +170727,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "62.133.62.187:1081",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Global Connectivity Solutions LLP",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "187.124.223.242:8080",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Hostinger FR",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "140.99.255.61:8443",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Ipxo LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "69.87.216.54:7989",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Atlantic.net",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.174.168.12:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

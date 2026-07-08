@@ -171572,5 +171572,200 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "89.185.80.69:1081",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Global Connectivity Solutions LLP",
+    "is_mobile": true,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "216.183.230.191:7890",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "78.159.131.112:1081",
+    "country": "Albania",
+    "country_code": "AL",
+    "isp": "Global Connectivity Solutions LLP",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "91.107.154.170:45555",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Cloudflare, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.45.60.250:1081",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Global Connectivity Solutions LLP",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "15.204.9.51:8888",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cloudflare, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "178.130.47.23:1081",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Global Connectivity Solutions LLP",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "46.62.189.77:8888",
+    "country": "Sweden",
+    "country_code": "SE",
+    "isp": "Materialism s.r.l.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "190.60.44.189:6969",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "IFX NETWORKS COLOMBIA",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "146.19.169.212:1081",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "SkyLink Data Center BV",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.192.156:11566",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "37.1.209.10:1080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HIVELOCITY, Inc.",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.192.156:10623",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.45.60.241:1081",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Global Connectivity Solutions LLP",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "77.110.125.67:8880",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Aeza International LTD",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

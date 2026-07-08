@@ -13178,3 +13178,6 @@
 {"proxy": "104.129.192.156:12415", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "190.97.253.234:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "64.181.193.60:3128", "country": "United States", "country_code": "US", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "47.252.11.98:80", "country": "United States", "country_code": "US", "isp": "Alibaba Cloud LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "91.109.114.211:8888", "country": "United Kingdom", "country_code": "GB", "isp": "UK Dedicated Servers Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "172.241.167.194:8118", "country": "United States", "country_code": "US", "isp": "Leaseweb USA, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

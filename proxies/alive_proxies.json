@@ -171767,5 +171767,148 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "104.129.192.156:10915",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "205.235.1.25:999",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "isp": "Ufinet Panama S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "186.33.40.133:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "82.68.84.73:8888",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Eweka Internet Services B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "50.28.114.52:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Liquid Web, L.L.C",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "94.249.225.249:8888",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Raul Ghita trading as 'Ghita Telekom'",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "130.49.218.166:1081",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.45.178.104:1081",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "104.129.192.156:12212",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "157.254.194.57:1080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Ipxo LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "64.204.90.177:999",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "GTT Americas",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

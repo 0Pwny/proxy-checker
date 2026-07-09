@@ -172261,5 +172261,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "172.171.83.26:8080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Microsoft",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "92.53.119.228:3128",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "TimeWeb",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

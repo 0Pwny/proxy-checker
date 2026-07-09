@@ -13249,3 +13249,5 @@
 {"proxy": "104.129.192.156:12248", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "104.129.192.156:11415", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "3.138.108.164:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "172.171.83.26:8080", "country": "United States", "country_code": "US", "isp": "Microsoft", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "92.53.119.228:3128", "country": "Russia", "country_code": "RU", "isp": "TimeWeb", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

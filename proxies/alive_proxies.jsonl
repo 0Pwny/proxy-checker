@@ -13269,3 +13269,35 @@
 {"proxy": "142.93.118.200:40001", "country": "United States", "country_code": "US", "isp": "Cloudflare, Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "140.238.32.108:3128", "country": "Japan", "country_code": "JP", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "91.99.146.21:8881", "country": "Germany", "country_code": "DE", "isp": "Datacamp Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "50.28.114.53:3128", "country": "United States", "country_code": "US", "isp": "Liquid Web, L.L.C", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "38.9.199.4:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "34.94.46.8:80", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "104.129.192.156:10528", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.129.192.156:10174", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "91.98.86.26:8888", "country": "Norway", "country_code": "NO", "isp": "BLIXCUST10412", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "138.2.234.181:7890", "country": "United States", "country_code": "US", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "50.28.114.49:3128", "country": "United States", "country_code": "US", "isp": "Liquid Web, L.L.C", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "104.129.192.156:11953", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "81.200.147.68:7890", "country": "Finland", "country_code": "FI", "isp": "Baykov Ilya Sergeevich", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "34.69.61.247:80", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "217.182.203.183:8888", "country": "Poland", "country_code": "PL", "isp": "Artnet Sp. z o.o", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "37.59.125.131:8888", "country": "France", "country_code": "FR", "isp": "Proxad / Free SAS", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "23.106.62.99:8118", "country": "United Kingdom", "country_code": "GB", "isp": "Leaseweb UK Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "150.241.230.85:10000", "country": "United States", "country_code": "US", "isp": "Clouvider Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "104.129.192.156:10918", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.129.192.156:11836", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "47.253.201.85:7890", "country": "United States", "country_code": "US", "isp": "Alibaba Cloud LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "139.28.240.202:1081", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "147.45.60.250:1082", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "141.98.235.27:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "104.129.192.156:10624", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "37.58.221.247:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "38.180.135.30:8000", "country": "United States", "country_code": "US", "isp": "M247 Europe SRL", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "104.129.192.156:11659", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "23.81.87.203:8118", "country": "United States", "country_code": "US", "isp": "Leaseweb USA, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "104.129.192.156:12832", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "89.185.80.78:1081", "country": "United States", "country_code": "US", "isp": "Global Connectivity Solutions LLP", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "67.198.232.25:3128", "country": "United States", "country_code": "US", "isp": "Krypt Technologies", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "104.129.192.156:57779", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "104.129.192.156:10527", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "104.129.192.156:11025", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

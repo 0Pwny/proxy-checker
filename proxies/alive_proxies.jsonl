@@ -13407,3 +13407,13 @@
 {"proxy": "78.159.131.112:1082", "country": "Albania", "country_code": "AL", "isp": "Global Connectivity Solutions LLP", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "20.110.224.54:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "167.234.251.155:8880", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "81.90.29.194:10808", "country": "The Netherlands", "country_code": "NL", "isp": "Global Connectivity Solutions LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "62.133.62.187:1082", "country": "France", "country_code": "FR", "isp": "Global Connectivity Solutions LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "34.162.25.75:443", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "135.87.39.23:80", "country": "Finland", "country_code": "FI", "isp": "Nokia Solutions and Networks Oy", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "155.117.45.192:8080", "country": "United States", "country_code": "US", "isp": "WholeSale Internet, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "135.125.159.16:8080", "country": "Germany", "country_code": "DE", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "81.12.32.130:10806", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "77.91.84.138:8080", "country": "Finland", "country_code": "FI", "isp": "U1 DIGITAL SERVICES LTD", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "62.90.70.144:7443", "country": "Israel", "country_code": "IL", "isp": "013 Netvision Network", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "108.174.194.34:10801", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

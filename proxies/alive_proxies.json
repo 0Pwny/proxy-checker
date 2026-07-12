@@ -174003,5 +174003,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "89.185.80.251:1082",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "23.137.251.64:8080",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "isp": "IncogNet LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

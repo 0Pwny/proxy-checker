@@ -174640,5 +174640,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "38.194.250.174:999",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "IENTC S de RL de CV",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

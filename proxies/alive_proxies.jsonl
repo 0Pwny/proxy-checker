@@ -13536,3 +13536,10 @@
 {"proxy": "44.226.196.63:60000", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "181.78.197.235:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "2.59.43.253:22222", "country": "Russia", "country_code": "RU", "isp": "JSC \"TIMEWEB\"", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "185.113.139.149:3128", "country": "Latvia", "country_code": "LV", "isp": "Baykov Ilya Sergeevich", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "51.15.19.34:8888", "country": "Germany", "country_code": "DE", "isp": "31173 Services AB", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "147.45.60.124:1082", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "85.85.186.84:8080", "country": "Spain", "country_code": "ES", "isp": "Xtra Telecom S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "201.71.24.65:8082", "country": "Brazil", "country_code": "BR", "isp": "TESSI - Serviços de Telecomunicação Ltda", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "157.245.159.127:3128", "country": "Singapore", "country_code": "SG", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "38.211.79.17:999", "country": "Colombia", "country_code": "CO", "isp": "Cogent Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

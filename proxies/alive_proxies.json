@@ -176642,5 +176642,135 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "85.237.39.139:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.38.170.123:80",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "CGI GLOBAL LIMITED",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "201.159.99.193:8081",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Administradora de Servicios de Internet Sandur S.A. de C.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "44.212.120.114:80",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon.com",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "156.236.31.44:1580",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "BitCommand LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "18.205.233.203:9999",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "108.165.121.27:8888",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Snaju Development",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "199.168.131.234:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.55.43.162:8118",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.174.175.27:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -176317,5 +176317,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.229.17.17:999",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "isp": "Turbonet S.A.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -13623,3 +13623,8 @@
 {"proxy": "45.148.116.18:28080", "country": "Finland", "country_code": "FI", "isp": "Inios Oy", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "147.45.60.124:1081", "country": "United States", "country_code": "US", "isp": "Global Connectivity Solutions LLP", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "79.137.78.133:8002", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "5.189.159.180:80", "country": "France", "country_code": "FR", "isp": "Contabo GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "77.111.110.248:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "190.85.113.5:999", "country": "Colombia", "country_code": "CO", "isp": "TV AZTECA SUCURSAL COLOMBIA", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "129.150.53.35:3128", "country": "Singapore", "country_code": "SG", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "190.61.126.253:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

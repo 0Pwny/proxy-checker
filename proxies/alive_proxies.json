@@ -177058,5 +177058,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "64.23.188.3:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "149.248.37.215:9000",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "The Constant Company",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.148.116.18:28080",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Inios Oy",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.45.60.124:1081",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Global Connectivity Solutions LLP",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "79.137.78.133:8002",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

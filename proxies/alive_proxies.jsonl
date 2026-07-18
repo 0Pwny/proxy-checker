@@ -13646,3 +13646,7 @@
 {"proxy": "38.49.142.174:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "54.164.50.201:88", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "178.172.217.166:10849", "country": "The Netherlands", "country_code": "NL", "isp": "Ivanov Vitaliy Sergeevich", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "8.243.162.35:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "187.251.230.15:8080", "country": "Mexico", "country_code": "MX", "isp": "Total Play Telecomunicaciones SA De CV", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "136.116.107.135:3128", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "38.158.202.97:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

@@ -177513,5 +177513,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "62.133.62.184:1081",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Global Connectivity Solutions LLP",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

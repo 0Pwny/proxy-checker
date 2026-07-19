@@ -177799,5 +177799,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "146.190.60.147:8020",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

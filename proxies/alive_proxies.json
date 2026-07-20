@@ -178293,5 +178293,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "95.211.64.139:8888",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "31173 Services AB",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

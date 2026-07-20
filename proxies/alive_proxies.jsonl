@@ -13713,3 +13713,4 @@
 {"proxy": "172.120.166.205:443", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "45.135.181.68:1081", "country": "The Netherlands", "country_code": "NL", "isp": "MIRhosting B.V.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "177.240.3.194:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "95.211.64.139:8888", "country": "The Netherlands", "country_code": "NL", "isp": "31173 Services AB", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

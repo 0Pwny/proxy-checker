@@ -178735,5 +178735,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "64.112.184.210:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Hosted Backbone",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

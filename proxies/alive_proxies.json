@@ -178852,5 +178852,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "105.155.134.130:30001",
+    "country": "Morocco",
+    "country_code": "MA",
+    "isp": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "178.172.217.166:10869",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "150.238.75.122:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "IBM Cloud",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -178774,5 +178774,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "198.12.95.178:1080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HostPapa",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "57.129.134.10:8082",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

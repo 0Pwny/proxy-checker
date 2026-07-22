@@ -178943,5 +178943,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "194.87.71.83:8080",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Cloudflare, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

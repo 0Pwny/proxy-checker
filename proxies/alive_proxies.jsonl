@@ -13764,3 +13764,5 @@
 {"proxy": "62.60.238.191:443", "country": "Austria", "country_code": "AT", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "82.67.114.12:8888", "country": "South Africa", "country_code": "ZA", "isp": "Eweka Internet Services B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "194.87.71.83:8080", "country": "Germany", "country_code": "DE", "isp": "Cloudflare, Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "178.172.217.166:10775", "country": "The Netherlands", "country_code": "NL", "isp": "Ivanov Vitaliy Sergeevich", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "178.172.217.166:10845", "country": "The Netherlands", "country_code": "NL", "isp": "Ivanov Vitaliy Sergeevich", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

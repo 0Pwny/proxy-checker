@@ -178956,5 +178956,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "178.172.217.166:10775",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Ivanov Vitaliy Sergeevich",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "178.172.217.166:10845",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Ivanov Vitaliy Sergeevich",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

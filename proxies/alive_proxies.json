@@ -178917,5 +178917,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "62.60.238.191:443",
+    "country": "Austria",
+    "country_code": "AT",
+    "isp": "Aeza International LTD",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "82.67.114.12:8888",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "isp": "Eweka Internet Services B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

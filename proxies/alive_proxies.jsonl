@@ -13766,3 +13766,6 @@
 {"proxy": "194.87.71.83:8080", "country": "Germany", "country_code": "DE", "isp": "Cloudflare, Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "178.172.217.166:10775", "country": "The Netherlands", "country_code": "NL", "isp": "Ivanov Vitaliy Sergeevich", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "178.172.217.166:10845", "country": "The Netherlands", "country_code": "NL", "isp": "Ivanov Vitaliy Sergeevich", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "8.243.167.50:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "211.233.44.58:8080", "country": "South Korea", "country_code": "KR", "isp": "LG DACOM KIDC", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "179.1.196.135:999", "country": "Colombia", "country_code": "CO", "isp": "Internexa S.a. E.S.P", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

@@ -13781,3 +13781,5 @@
 {"proxy": "86.53.163.185:10002", "country": "United Kingdom", "country_code": "GB", "isp": "GTT", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "138.201.89.155:8080", "country": "Germany", "country_code": "DE", "isp": "Hetzner Online GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "95.211.64.139:8889", "country": "Netherlands", "country_code": "NL", "isp": "Owl Limited", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "117.55.203.162:8889", "country": "Switzerland", "country_code": "CH", "isp": "Proton AG", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "91.107.255.47:1080", "country": "Germany", "country_code": "DE", "isp": "Hetzner Online AG", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

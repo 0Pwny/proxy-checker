@@ -179164,5 +179164,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "95.211.64.139:8889",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "isp": "Owl Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

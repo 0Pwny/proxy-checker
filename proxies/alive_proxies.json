@@ -179853,5 +179853,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "67.220.95.36:8202",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "57.128.8.176:8891",
+    "country": "Italy",
+    "country_code": "IT",
+    "isp": "COLT Engine S.r.l.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

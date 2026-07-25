@@ -179827,5 +179827,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "158.69.63.97:3128",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "52.33.78.11:8443",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

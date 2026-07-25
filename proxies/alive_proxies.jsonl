@@ -13840,3 +13840,4 @@
 {"proxy": "64.49.15.225:143", "country": "Türkiye", "country_code": "TR", "isp": "YottaSrc Cloud & Hosting Services", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "168.243.77.190:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "45.13.116.193:21537", "country": "France", "country_code": "FR", "isp": "ABJP", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.91.55.95:443", "country": "Spain", "country_code": "ES", "isp": "GTHost", "is_mobile": true, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

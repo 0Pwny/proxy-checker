@@ -180152,5 +180152,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "190.94.244.30:8080",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "IFX Networks Venezuela C.A.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

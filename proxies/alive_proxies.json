@@ -180243,5 +180243,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "95.169.7.214:8080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "IT7 Networks Inc",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "204.108.154.43:80",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Chesconet",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

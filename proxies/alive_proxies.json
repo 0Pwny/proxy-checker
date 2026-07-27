@@ -180217,5 +180217,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "65.108.246.57:1080",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Hetzner Online GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "217.144.187.80:1080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

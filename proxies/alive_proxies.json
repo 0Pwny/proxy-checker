@@ -180672,5 +180672,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "83.217.222.188:3128",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Timeweb, LLP",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "198.24.188.140:34584",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -181023,5 +181023,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.32.192.240:9000",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Choopa",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "189.203.181.34:8080",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Total Play Telecomunicaciones SA De CV",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

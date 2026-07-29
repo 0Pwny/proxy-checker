@@ -13930,3 +13930,4 @@
 {"proxy": "109.172.47.169:5555", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "38.95.88.122:999", "country": "Dominican Republic", "country_code": "DO", "isp": "TELECABLE DOMINICANO, S.A.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "131.153.163.130:58011", "country": "United States", "country_code": "US", "isp": "Comcast Cable Communications, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "85.209.95.116:3128", "country": "United States", "country_code": "US", "isp": "Hostinger International Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

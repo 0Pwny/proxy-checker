@@ -181114,5 +181114,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "85.209.95.116:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Hostinger International Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

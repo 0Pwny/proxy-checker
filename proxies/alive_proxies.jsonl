@@ -13945,3 +13945,9 @@
 {"proxy": "87.236.23.201:3128", "country": "Russia", "country_code": "RU", "isp": "BEGET.RU", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "138.124.18.147:2080", "country": "Sweden", "country_code": "SE", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "108.181.123.113:3128", "country": "The Netherlands", "country_code": "NL", "isp": "Psychz Networks", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "77.247.178.20:8080", "country": "The Netherlands", "country_code": "NL", "isp": "NFOrce Entertainment BV", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "200.107.206.112:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "186.226.167.191:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "149.33.12.153:8080", "country": "The Netherlands", "country_code": "NL", "isp": "Cogent Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "131.153.1.46:20098", "country": "United States", "country_code": "US", "isp": "Cablevision Systems Corp.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "196.65.77.42:30001", "country": "Morocco", "country_code": "MA", "isp": "ADSL Maroc telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

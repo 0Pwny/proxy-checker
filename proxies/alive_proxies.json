@@ -181231,5 +181231,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "131.153.163.130:34279",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "131.153.163.130:36381",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "131.153.163.130:53295",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

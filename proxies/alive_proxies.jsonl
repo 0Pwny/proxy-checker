@@ -13981,3 +13981,7 @@
 {"proxy": "31.58.79.229:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "85.17.61.78:1080", "country": "The Netherlands", "country_code": "NL", "isp": "LeaseWeb Netherlands B.V.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "98.143.72.166:80", "country": "Canada", "country_code": "CA", "isp": "Managed Network Systems Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "185.105.118.110:8080", "country": "Finland", "country_code": "FI", "isp": "Ihor Hosting LTD", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "54.155.59.100:3128", "country": "Ireland", "country_code": "IE", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "38.183.184.15:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "196.74.49.218:30001", "country": "Morocco", "country_code": "MA", "isp": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

@@ -181712,5 +181712,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.144.53.63:5001",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Microsoft Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "89.117.73.250:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "31.58.79.229:3128",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "85.17.61.78:1080",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "LeaseWeb Netherlands B.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -181829,5 +181829,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "200.39.152.161:999",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "Airwiz Peru E.I.R.L",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

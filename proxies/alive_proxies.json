@@ -181582,5 +181582,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "91.126.244.112:8080",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "Adamo Telecom Iberia S.A Catalonia",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "173.212.234.174:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Fourplex Telecom LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

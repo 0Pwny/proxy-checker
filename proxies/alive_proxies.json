@@ -182596,5 +182596,83 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "147.161.246.39:11716",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.39:10082",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.39:10116",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.39:10000",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.38:80",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "168.121.242.91:999",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Wifimax Connection S.a.s De C.V",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

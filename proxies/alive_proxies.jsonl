@@ -14033,3 +14033,5 @@
 {"proxy": "154.222.22.225:3128", "country": "Hong Kong", "country_code": "HK", "isp": "Vapeline Technology", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "38.123.212.243:999", "country": "Mexico", "country_code": "MX", "isp": "Cogent Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "46.8.229.31:8080", "country": "The Netherlands", "country_code": "NL", "isp": "CGI GLOBAL LIMITED", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "75.7.109.109:8080", "country": "United States", "country_code": "US", "isp": "AT&T Enterprises, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "165.225.66.40:33333", "country": "Switzerland", "country_code": "CH", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

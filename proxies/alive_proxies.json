@@ -182531,5 +182531,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "152.53.20.190:20000",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "netcup GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

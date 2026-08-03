@@ -14077,3 +14077,5 @@
 {"proxy": "38.199.71.103:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "104.207.153.122:10808", "country": "United States", "country_code": "US", "isp": "The Constant Company", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "165.22.99.36:8002", "country": "Singapore", "country_code": "SG", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "155.138.220.221:80", "country": "United States", "country_code": "US", "isp": "The Constant Company", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "149.56.110.191:8118", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

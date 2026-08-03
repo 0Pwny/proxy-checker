@@ -183025,5 +183025,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "155.138.220.221:80",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "The Constant Company",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "149.56.110.191:8118",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

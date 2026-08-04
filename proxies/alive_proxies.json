@@ -183155,5 +183155,83 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "144.31.75.120:11112",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "U1 DIGITAL SERVICES LTD",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "23.27.143.117:3080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Ace Data Centers II",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "5.187.2.37:18080",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Fornex Hosting S.L",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "185.225.42.73:8085",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "185.182.187.174:20202",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.130.21.115:18081",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "isp": "Owl Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

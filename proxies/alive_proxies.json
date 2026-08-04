@@ -183350,5 +183350,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "77.73.68.222:65000",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "U1 DIGITAL SERVICES LTD",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -14102,3 +14102,4 @@
 {"proxy": "5.161.204.82:8888", "country": "New Zealand", "country_code": "NZ", "isp": "Host Universal Pty Ltd", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "167.233.233.145:2222", "country": "Germany", "country_code": "DE", "isp": "Hetzner Online GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "89.35.129.13:12533", "country": "Finland", "country_code": "FI", "isp": "Hostkey B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "77.73.68.222:65000", "country": "Finland", "country_code": "FI", "isp": "U1 DIGITAL SERVICES LTD", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

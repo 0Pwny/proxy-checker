@@ -183298,5 +183298,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "212.22.74.169:49152",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "isp": "Fortis",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

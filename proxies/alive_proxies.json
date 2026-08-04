@@ -183402,5 +183402,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "16.170.206.2:80",
+    "country": "Sweden",
+    "country_code": "SE",
+    "isp": "Amazon.com",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "195.154.191.26:1090",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "166.1.18.72:28015",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Baxet Group Inc",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "193.108.115.81:10808",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "JSC \"TIMEWEB\"",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "66.163.119.55:10006",
+    "country": "Italy",
+    "country_code": "IT",
+    "isp": "GTHost",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

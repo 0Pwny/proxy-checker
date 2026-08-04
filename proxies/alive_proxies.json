@@ -183363,5 +183363,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "87.120.216.231:65000",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "WAIcore Ltd",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

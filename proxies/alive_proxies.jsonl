@@ -14099,3 +14099,6 @@
 {"proxy": "146.103.43.234:8118", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "192.236.242.201:2055", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "212.22.74.169:49152", "country": "Netherlands", "country_code": "NL", "isp": "Fortis", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "5.161.204.82:8888", "country": "New Zealand", "country_code": "NZ", "isp": "Host Universal Pty Ltd", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "167.233.233.145:2222", "country": "Germany", "country_code": "DE", "isp": "Hetzner Online GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "89.35.129.13:12533", "country": "Finland", "country_code": "FI", "isp": "Hostkey B.V.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

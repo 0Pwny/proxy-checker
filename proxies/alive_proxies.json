@@ -183831,5 +183831,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "173.212.222.244:8888",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Contabo GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "194.226.49.218:1080",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "LLC ZTV CORP",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

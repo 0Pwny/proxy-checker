@@ -183675,5 +183675,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "23.148.84.135:50022",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Global Communication Network Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

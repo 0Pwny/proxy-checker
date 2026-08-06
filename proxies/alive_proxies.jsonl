@@ -14163,3 +14163,5 @@
 {"proxy": "169.58.121.245:3128", "country": "France", "country_code": "FR", "isp": "Contabo GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "173.254.205.180:18080", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "51.77.81.127:5555", "country": "Germany", "country_code": "DE", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "216.106.182.177:3128", "country": "United States", "country_code": "US", "isp": "GTHost", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "15.204.205.208:7777", "country": "United States", "country_code": "US", "isp": "OVH SAS", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

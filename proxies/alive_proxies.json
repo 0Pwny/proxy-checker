@@ -184143,5 +184143,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "216.106.182.177:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "GTHost",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "15.204.205.208:7777",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

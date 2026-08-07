@@ -184507,5 +184507,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "91.98.97.61:2222",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Hetzner Online GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "95.85.233.144:18443",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "WAIcore Ltd",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

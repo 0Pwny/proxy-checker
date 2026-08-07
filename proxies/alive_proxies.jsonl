@@ -14205,3 +14205,9 @@
 {"proxy": "185.189.12.146:3128", "country": "Russia", "country_code": "RU", "isp": "First Server Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "45.10.71.23:8888", "country": "United States", "country_code": "US", "isp": "Zenlayer Inc", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "176.88.166.162:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "196.77.41.49:3129", "country": "Morocco", "country_code": "MA", "isp": "ADSL Maroc telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "64.188.125.131:80", "country": "Finland", "country_code": "FI", "isp": "U1 DIGITAL SERVICES LTD", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "44.193.16.245:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "103.112.69.87:3128", "country": "The Netherlands", "country_code": "NL", "isp": "Mastersoft S.R.L.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "187.86.59.122:80", "country": "Brazil", "country_code": "BR", "isp": "Opcao Telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "38.172.170.120:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

@@ -14198,3 +14198,5 @@
 {"proxy": "51.159.97.242:10006", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "130.110.103.245:3128", "country": "Saudi Arabia", "country_code": "SA", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "162.214.159.94:3128", "country": "United States", "country_code": "US", "isp": "Unified Layer", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "79.137.192.65:30081", "country": "Russia", "country_code": "RU", "isp": "IT HOSTLINE LTD", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.174.168.16:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

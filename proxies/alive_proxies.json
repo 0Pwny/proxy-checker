@@ -184585,5 +184585,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "162.214.159.94:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Unified Layer",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

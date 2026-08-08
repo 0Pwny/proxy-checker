@@ -185352,5 +185352,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.174.168.4:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "143.198.87.117:8888",
+    "country": "Singapore",
+    "country_code": "SG",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

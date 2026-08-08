@@ -14246,3 +14246,5 @@
 {"proxy": "177.224.225.7:3128", "country": "Mexico", "country_code": "MX", "isp": "Mega Cable, S.A. de C.V.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "185.246.217.196:80", "country": "The Netherlands", "country_code": "NL", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "130.17.2.209:3128", "country": "Russia", "country_code": "RU", "isp": "Fornex Hosting S.L.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "82.26.136.24:3128", "country": "Türkiye", "country_code": "TR", "isp": "Hostkey B.V.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "67.207.92.87:3129", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

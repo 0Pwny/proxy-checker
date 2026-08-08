@@ -185222,5 +185222,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "82.26.136.24:3128",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Hostkey B.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "67.207.92.87:3129",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

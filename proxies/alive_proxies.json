@@ -185378,5 +185378,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "196.217.89.242:30001",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

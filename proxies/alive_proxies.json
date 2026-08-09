@@ -185521,5 +185521,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.59.124.51:10808",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "RouterHosting LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

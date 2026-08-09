@@ -185547,5 +185547,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "85.93.8.159:8081",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Felix Gassan",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "206.245.131.44:2080",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Baxet Group Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "105.155.244.160:30001",
+    "country": "Morocco",
+    "country_code": "MA",
+    "isp": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

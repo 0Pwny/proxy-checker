@@ -185690,5 +185690,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "167.86.126.27:3128",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Contabo GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "54.37.73.95:80",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -185664,5 +185664,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "138.16.169.124:7890",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "Hosting technology LTD",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "216.106.179.216:49157",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

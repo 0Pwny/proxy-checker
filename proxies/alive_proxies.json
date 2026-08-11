@@ -186236,5 +186236,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "35.212.253.16:4080",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google Ireland Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

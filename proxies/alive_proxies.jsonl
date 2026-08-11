@@ -14307,3 +14307,18 @@
 {"proxy": "156.238.250.51:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "216.106.179.216:49456", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "2.27.15.195:8888", "country": "Germany", "country_code": "DE", "isp": "Node Host Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "150.251.152.104:10808", "country": "Finland", "country_code": "FI", "isp": "Inios Oy", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "181.78.75.84:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "89.106.89.70:10808", "country": "Germany", "country_code": "DE", "isp": "dataforest GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "93.182.23.94:6060", "country": "Russia", "country_code": "RU", "isp": "Kvidex-Telecom", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "131.222.252.70:8080", "country": "Türkiye", "country_code": "TR", "isp": "High Speed For Internet Services L.L.C", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.174.168.56:999", "country": "Mexico", "country_code": "MX", "isp": "Valor Information Technologies, S.L.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "179.1.209.72:8080", "country": "Colombia", "country_code": "CO", "isp": "Internexa S.a. E.S.P", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "181.204.113.250:11211", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "144.217.95.106:8080", "country": "Canada", "country_code": "CA", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "46.23.59.69:8080", "country": "Czechia", "country_code": "CZ", "isp": "MAXTEL s.r.o. 1", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.188.125.21:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "24.152.58.22:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "45.90.98.11:3128", "country": "Germany", "country_code": "DE", "isp": "Florian Kolb", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "51.68.199.41:8118", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "194.164.216.159:80", "country": "United Kingdom", "country_code": "GB", "isp": "Hostkey B.V.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

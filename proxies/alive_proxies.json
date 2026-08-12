@@ -186730,5 +186730,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "38.172.170.154:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "79.137.78.133:8007",
+    "country": "Hungary",
+    "country_code": "HU",
+    "isp": "M247 Europe Infra",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

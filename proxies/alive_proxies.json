@@ -187133,5 +187133,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.144.222.225:1081",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Aeza International LTD",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

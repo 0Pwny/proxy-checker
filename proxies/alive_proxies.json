@@ -186938,5 +186938,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "147.161.246.34:12702",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.34:10230",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

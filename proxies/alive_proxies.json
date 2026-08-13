@@ -186964,5 +186964,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "147.161.247.9:11954",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

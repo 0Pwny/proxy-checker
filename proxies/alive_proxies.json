@@ -187146,5 +187146,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.144.53.63:5041",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Microsoft Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.66.249.187:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "BlueVPS OU",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

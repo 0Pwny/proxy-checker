@@ -187328,5 +187328,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "141.98.7.149:10227",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Play2go International Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "79.137.78.133:8009",
+    "country": "Hungary",
+    "country_code": "HU",
+    "isp": "M247 Europe Infra",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

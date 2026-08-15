@@ -14421,3 +14421,4 @@
 {"proxy": "161.97.139.242:3129", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "80.93.61.39:1080", "country": "Russia", "country_code": "RU", "isp": "SpaceWeb Hosting provider", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "38.156.234.8:999", "country": "Dominican Republic", "country_code": "DO", "isp": "Nexercom SRL", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "216.106.179.216:49327", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

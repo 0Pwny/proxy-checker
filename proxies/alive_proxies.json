@@ -188420,5 +188420,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "38.180.9.158:4422",
+    "country": "Singapore",
+    "country_code": "SG",
+    "isp": "M247 Europe SRL",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

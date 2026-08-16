@@ -188212,5 +188212,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "201.20.42.46:3127",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Equinix (EMEA) Acquisition Enterprises B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "200.39.153.1:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "31.76.20.238:7890",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "dataforest GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -188511,5 +188511,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "172.237.118.102:3128",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Akamai Technologies, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

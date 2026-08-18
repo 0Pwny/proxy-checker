@@ -188914,5 +188914,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.174.108.140:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "38.253.85.3:999",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "isp": "Cogent Communications",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

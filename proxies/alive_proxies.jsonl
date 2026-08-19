@@ -14542,3 +14542,5 @@
 {"proxy": "193.58.122.93:8118", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "185.174.80.7:3128", "country": "Spain", "country_code": "ES", "isp": "Nolu Network S.L.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "38.19.226.5:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "34.153.18.123:443", "country": "United States", "country_code": "US", "isp": "Google LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.95.203.47:6699", "country": "Russia", "country_code": "RU", "isp": "First Server Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

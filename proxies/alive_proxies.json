@@ -189070,5 +189070,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "34.153.18.123:443",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Google LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.95.203.47:6699",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "First Server Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

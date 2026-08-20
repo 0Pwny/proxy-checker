@@ -189239,5 +189239,395 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "147.161.246.36:11745",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:11724",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:10826",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:18080",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:10825",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.66.40:11807",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:11703",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "91.239.211.18:8080",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Hostkey B.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:10620",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:10842",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:11725",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:80",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "168.235.83.74:5001",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:10878",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:10123",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:10177",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:11679",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:10937",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:11263",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:11716",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "195.133.73.105:10808",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:10118",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.47:10101",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.47:80",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:10608",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:11746",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:11769",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:11011",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:11680",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.36:11860",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

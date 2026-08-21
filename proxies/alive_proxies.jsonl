@@ -14726,3 +14726,6 @@
 {"proxy": "79.120.170.251:8080", "country": "Hungary", "country_code": "HU", "isp": "DIGI Tavkozlesi es Szolgaltato Kft", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "131.222.249.41:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "145.239.41.4:5060", "country": "France", "country_code": "FR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "54.186.135.177:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "139.60.163.191:8888", "country": "United States", "country_code": "US", "isp": "HOSTKEY", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "80.250.165.91:80", "country": "Russia", "country_code": "RU", "isp": "LLC Stroysvyazkonsaling", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

@@ -14725,3 +14725,4 @@
 {"proxy": "181.225.53.141:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "79.120.170.251:8080", "country": "Hungary", "country_code": "HU", "isp": "DIGI Tavkozlesi es Szolgaltato Kft", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "131.222.249.41:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "145.239.41.4:5060", "country": "France", "country_code": "FR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

@@ -14718,3 +14718,5 @@
 {"proxy": "38.191.80.23:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "77.239.104.34:8080", "country": "Germany", "country_code": "DE", "isp": "U1 DIGITAL SERVICES LTD", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "158.178.199.157:80", "country": "France", "country_code": "FR", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "179.1.196.134:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "199.7.149.96:3128", "country": "United States", "country_code": "US", "isp": "EXO BROADBAND", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

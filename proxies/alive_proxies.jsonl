@@ -14740,3 +14740,5 @@
 {"proxy": "189.148.16.123:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "98.83.26.239:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "93.93.207.219:8088", "country": "Russia", "country_code": "RU", "isp": "JSC \"TIMEWEB\"", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "181.78.23.4:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "196.64.105.247:2000", "country": "Morocco", "country_code": "MA", "isp": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

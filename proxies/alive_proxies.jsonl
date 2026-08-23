@@ -14774,3 +14774,4 @@
 {"proxy": "91.107.250.17:10808", "country": "Germany", "country_code": "DE", "isp": "Hetzner Online AG", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "44.193.20.213:8081", "country": "United States", "country_code": "US", "isp": "Amazon.com", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "52.91.245.64:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "47.77.186.212:3128", "country": "United States", "country_code": "US", "isp": "Alibaba.com LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

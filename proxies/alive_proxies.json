@@ -191891,5 +191891,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "85.14.247.169:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "WIIT AG",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -192099,5 +192099,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "159.69.45.217:1083",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Owl Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

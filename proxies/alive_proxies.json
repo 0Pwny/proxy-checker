@@ -191982,5 +191982,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "5.77.252.204:8080",
+    "country": "Armenia",
+    "country_code": "AM",
+    "isp": "Ucom Cjsc",
+    "is_mobile": true,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

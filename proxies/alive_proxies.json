@@ -192307,5 +192307,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "80.85.247.71:1234",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

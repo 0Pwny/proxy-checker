@@ -192281,5 +192281,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "103.155.190.130:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "50.114.58.111:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Sculk Ltd.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

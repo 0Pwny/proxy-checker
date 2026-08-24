@@ -192190,5 +192190,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "77.239.123.239:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "U1 DIGITAL SERVICES LTD",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

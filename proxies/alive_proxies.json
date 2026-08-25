@@ -192320,5 +192320,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "62.60.236.119:10809",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Aeza International LTD",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

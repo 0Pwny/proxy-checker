@@ -192541,5 +192541,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "188.40.143.69:8881",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "165.225.20.13:11226",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Zscaler Switzerland GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "185.244.50.54:18080",
+    "country": "Belarus",
+    "country_code": "BY",
+    "isp": "Yedinyye Resheniya LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -192762,5 +192762,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "159.69.45.217:1082",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "M247 Europe SRL",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

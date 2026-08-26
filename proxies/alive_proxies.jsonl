@@ -14826,3 +14826,4 @@
 {"proxy": "154.27.196.95:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "217.160.249.182:8888", "country": "Slovenia", "country_code": "SI", "isp": "EstNOC OU", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "72.56.28.37:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "159.69.45.217:1082", "country": "United Kingdom", "country_code": "GB", "isp": "M247 Europe SRL", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

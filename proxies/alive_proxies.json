@@ -192801,5 +192801,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "81.31.146.81:3128",
+    "country": "Italy",
+    "country_code": "IT",
+    "isp": "HOST-VDC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.124.251.24:10810",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Servers Tech Fzco",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

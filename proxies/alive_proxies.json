@@ -192866,5 +192866,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "62.133.60.165:5631",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Global Connectivity Solutions LLP",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

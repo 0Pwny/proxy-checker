@@ -14853,3 +14853,7 @@
 {"proxy": "160.178.76.140:30001", "country": "Morocco", "country_code": "MA", "isp": "ADSL Maroc telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "165.16.17.189:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "138.124.8.67:8080", "country": "Finland", "country_code": "FI", "isp": "M247 Europe SRL", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.59.100.205:3128", "country": "United States", "country_code": "US", "isp": "DA International Group Ltd.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "52.59.108.237:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "130.61.112.125:443", "country": "Germany", "country_code": "DE", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "105.154.13.180:4000", "country": "Morocco", "country_code": "MA", "isp": "ADSL Maroc telecom", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

@@ -194673,5 +194673,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.154.205.105:9443",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Daniel Ionita",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

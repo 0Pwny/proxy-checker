@@ -194738,5 +194738,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "140.99.255.67:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Ipxo LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "51.38.120.110:10001",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "47.251.74.45:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Alibaba Cloud LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

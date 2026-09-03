@@ -15034,3 +15034,7 @@
 {"proxy": "167.233.148.141:1083", "country": "Poland", "country_code": "PL", "isp": "Datacamp Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "5.129.254.60:8888", "country": "Russia", "country_code": "RU", "isp": "JSC \"TIMEWEB\"", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "152.53.183.107:8081", "country": "Germany", "country_code": "DE", "isp": "netcup GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "107.167.18.122:443", "country": "United States", "country_code": "US", "isp": "Sharktech", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "140.99.255.67:8181", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "62.76.103.121:8001", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "137.184.33.38:3128", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

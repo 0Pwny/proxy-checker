@@ -196142,5 +196142,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "94.156.180.94:40001",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Cloudflare, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "105.159.123.65:4080",
+    "country": "Morocco",
+    "country_code": "MA",
+    "isp": "ADSL Maroc telecom",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

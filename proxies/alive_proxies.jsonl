@@ -15151,3 +15151,4 @@
 {"proxy": "167.233.148.141:1082", "country": "Poland", "country_code": "PL", "isp": "Datacamp Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "45.178.74.52:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "77.239.103.9:3128", "country": "The Netherlands", "country_code": "NL", "isp": "U1 DIGITAL SERVICES LTD", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "41.128.72.197:1976", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

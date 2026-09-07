@@ -15146,3 +15146,8 @@
 {"proxy": "134.199.204.161:3128", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "174.138.165.213:56157", "country": "United States", "country_code": "US", "isp": "Charter Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "178.156.147.172:40001", "country": "United States", "country_code": "US", "isp": "Cloudflare, Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "43.153.28.68:3128", "country": "United States", "country_code": "US", "isp": "Shenzhen Tencent Computer Systems Company Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "100.27.191.124:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "167.233.148.141:1082", "country": "Poland", "country_code": "PL", "isp": "Datacamp Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.178.74.52:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "77.239.103.9:3128", "country": "The Netherlands", "country_code": "NL", "isp": "U1 DIGITAL SERVICES LTD", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

@@ -197390,5 +197390,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "176.125.242.58:3128",
+    "country": "Moldova",
+    "country_code": "MD",
+    "isp": "Alexhost SRL",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

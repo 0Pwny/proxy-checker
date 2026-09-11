@@ -197871,5 +197871,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "174.138.165.204:30100",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "80.78.242.189:3128",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "\"Domain names registrar REG.RU\", Ltd",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "124.198.131.164:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "1337 Services GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.81.131.137:8888",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Zenlayer Inc",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "200.188.112.146:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

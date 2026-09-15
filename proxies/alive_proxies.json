@@ -198560,5 +198560,135 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "144.124.251.24:10443",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Servers Tech Fzco",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.124.251.24:11450",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "31.77.131.173:8080",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Play2go International Limited",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.124.251.24:10274",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Servers Tech Fzco",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.124.251.24:10091",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.124.251.24:10539",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.124.251.24:10471",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Servers Tech Fzco",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.124.251.24:10809",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Servers Tech Fzco",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.124.251.24:10216",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "198.46.200.118:12888",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HostPapa",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

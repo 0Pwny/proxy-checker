@@ -199171,5 +199171,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "91.107.152.68:40001",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Cloudflare, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "41.128.77.76:1981",
+    "country": "Egypt",
+    "country_code": "EG",
+    "isp": "LINKdotNET AS number",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

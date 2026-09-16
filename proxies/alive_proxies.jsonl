@@ -15316,3 +15316,6 @@
 {"proxy": "144.124.251.24:10808", "country": "The Netherlands", "country_code": "NL", "isp": "Servers Tech Fzco", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "82.146.45.118:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "103.88.234.239:40019", "country": "Mexico", "country_code": "MX", "isp": "Cloudflare, Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "153.51.201.35:999", "country": "Venezuela", "country_code": "VE", "isp": "Valor Information Technologies", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "104.223.62.181:3128", "country": "Canada", "country_code": "CA", "isp": "HostPapa", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "193.181.35.147:8118", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

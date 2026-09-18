@@ -199769,5 +199769,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "52.168.83.190:25252",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Microsoft Corporation",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "107.172.50.187:7890",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HostPapa",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

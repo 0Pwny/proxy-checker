@@ -15391,3 +15391,9 @@
 {"proxy": "174.138.162.37:37345", "country": "United States", "country_code": "US", "isp": "Metronet", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "103.88.234.239:40006", "country": "Mexico", "country_code": "MX", "isp": "Cloudflare, Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "18.221.147.109:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "152.53.183.107:8082", "country": "Germany", "country_code": "DE", "isp": "netcup GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "155.94.241.115:8888", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "167.99.0.80:3128", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "51.38.120.110:10002", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "212.154.169.90:3128", "country": "Kazakhstan", "country_code": "KZ", "isp": "JSC Kazakhtelecom", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "13.222.19.128:8888", "country": "United States", "country_code": "US", "isp": "Maxihost LTDA", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

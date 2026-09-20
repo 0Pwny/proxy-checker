@@ -200549,5 +200549,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "104.233.202.124:22609",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "PEG TECH INC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "161.132.68.244:8080",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "Red Cientifica Peruana",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "191.102.68.201:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

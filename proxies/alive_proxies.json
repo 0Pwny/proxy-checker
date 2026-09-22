@@ -201368,5 +201368,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "209.38.80.141:3128",
+    "country": "Australia",
+    "country_code": "AU",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

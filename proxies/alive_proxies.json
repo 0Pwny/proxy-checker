@@ -201381,5 +201381,122 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "174.138.165.213:36500",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Frontier Communications Solutions",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "2.27.47.146:3128",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "U1 DIGITAL SERVICES LTD",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "51.38.120.110:10003",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "194.5.152.40:8888",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Contabo GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "212.231.230.141:20500",
+    "country": "Spain",
+    "country_code": "ES",
+    "isp": "Procono TV",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "105.159.164.192:4145",
+    "country": "Morocco",
+    "country_code": "MA",
+    "isp": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "89.163.231.2:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "WIIT AG",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "172.245.168.179:21241",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HostPapa",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "195.144.24.57:3128",
+    "country": "North Macedonia",
+    "country_code": "MK",
+    "isp": "Andrew Kristuli",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

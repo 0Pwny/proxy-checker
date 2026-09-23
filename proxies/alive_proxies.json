@@ -201836,5 +201836,200 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "72.62.106.45:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "193.29.224.218:3128",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Aeza International LTD",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "131.153.1.46:36699",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast IP Services",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "51.38.120.110:10008",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "216.173.68.250:3128",
+    "country": "Latvia",
+    "country_code": "LV",
+    "isp": "SIA VEESP",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "45.189.252.218:999",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Tracered SA De CV",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.31.116.142:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Senko Digital LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.31.118.56:8080",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Senko Digital LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "131.153.1.46:35935",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "190.121.146.79:8080",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Media Commerce Partners S.A",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "131.153.1.46:51565",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "116.204.166.204:8080",
+    "country": "Turkey",
+    "country_code": "TR",
+    "isp": "High Speed For Internet Services L.L.C",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "189.164.5.236:8080",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Uninet S.A. de C.V",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "131.153.1.46:37334",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Comcast Cable Communications, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "201.7.31.55:8080",
+    "country": "Turkey",
+    "country_code": "TR",
+    "isp": "High Speed For Internet Services L.L.C",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

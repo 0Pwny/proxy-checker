@@ -201719,5 +201719,122 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "131.153.1.46:35781",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Nexeon Technologies",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "131.153.1.46:37584",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Verizon Business",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "131.153.1.44:53207",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications Inc",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "84.255.40.228:8998",
+    "country": "Malta",
+    "country_code": "MT",
+    "isp": "Melita plc",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "5.42.111.165:10808",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "GSL Networks Pty LTD",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "188.246.186.54:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "144.76.61.252:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Hetzner Online GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "131.153.1.46:56508",
+    "country": "Trinidad and Tobago",
+    "country_code": "TT",
+    "isp": "Digicel Trinidad and Tobago Ltd.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "41.196.16.234:1981",
+    "country": "Egypt",
+    "country_code": "EG",
+    "isp": "Link Egypt (Link.NET)",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

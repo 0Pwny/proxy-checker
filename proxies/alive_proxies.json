@@ -202538,5 +202538,135 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "193.227.129.196:55722",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Charter Communications",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "181.78.79.11:999",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "Ufinet Panama S.A.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "85.105.160.32:9090",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "isp": "Turk Telekomunikasyon A.S",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "201.4.71.23:8080",
+    "country": "Turkey",
+    "country_code": "TR",
+    "isp": "High Speed For Internet Services L.L.C",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "201.7.31.186:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "131.153.1.46:20159",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "181.129.97.34:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "66.23.230.118:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Interserver, Inc",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "174.138.161.146:8254",
+    "country": "Bermuda",
+    "country_code": "BM",
+    "isp": "Logic Communications Ltd",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "178.254.186.1:6666",
+    "country": "Croatia",
+    "country_code": "HR",
+    "isp": "O TELEKOMUNIKACIJE d.o.o.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

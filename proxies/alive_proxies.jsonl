@@ -15588,3 +15588,13 @@
 {"proxy": "66.23.230.118:3128", "country": "United States", "country_code": "US", "isp": "Interserver, Inc", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "174.138.161.146:8254", "country": "Bermuda", "country_code": "BM", "isp": "Logic Communications Ltd", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "178.254.186.1:6666", "country": "Croatia", "country_code": "HR", "isp": "O TELEKOMUNIKACIJE d.o.o.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "38.172.170.185:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "217.142.24.106:8085", "country": "Syria", "country_code": "SY", "isp": "Space Exploration Technologies Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "174.138.161.146:53849", "country": "United States", "country_code": "US", "isp": "Charter Communications", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "38.7.18.152:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "144.124.251.24:10404", "country": "The Netherlands", "country_code": "NL", "isp": "Servers Tech Fzco", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "68.225.17.237:4228", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "172.237.102.212:3128", "country": "United Kingdom", "country_code": "GB", "isp": "Akamai Technologies, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "82.117.87.250:3128", "country": "Russia", "country_code": "RU", "isp": "Aeza Group LLC", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "5.129.249.123:56926", "country": "Russia", "country_code": "RU", "isp": "JSC \"TIMEWEB\"", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "89.43.133.156:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

@@ -203643,5 +203643,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "107.181.134.215:999",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "YottaSrc",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "66.23.230.120:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Interserver, Inc",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "109.123.255.123:8388",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -15799,3 +15799,15 @@
 {"proxy": "82.199.197.190:81", "country": "Armenia", "country_code": "AM", "isp": "Ucom CJSC", "is_mobile": true, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "45.174.108.141:999", "country": "Mexico", "country_code": "MX", "isp": "Iptvtel Comunicaciones S De RL De CV", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "138.68.60.8:3128", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "54.235.192.64:442", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "178.128.146.125:10000", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "186.97.236.99:8080", "country": "Colombia", "country_code": "CO", "isp": "EPM Telecomunicaciones S.A. E.S.P.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.230.170.30:999", "country": "Venezuela", "country_code": "VE", "isp": "Soluciones DCN Network C.A", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "169.58.23.35:3128", "country": "France", "country_code": "FR", "isp": "Contabo GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "138.68.60.8:8080", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "186.167.113.103:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "165.16.2.250:9999", "country": "Libya", "country_code": "LY", "isp": "Aljeel Aljadeed For Technology", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "206.81.30.79:3128", "country": "Germany", "country_code": "DE", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.174.168.5:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "172.239.117.103:8080", "country": "United Kingdom", "country_code": "GB", "isp": "Akamai Technologies, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "190.110.96.250:999", "country": "Chile", "country_code": "CL", "isp": "Pacifico Cable SPA.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

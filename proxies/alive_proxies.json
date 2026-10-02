@@ -205879,5 +205879,96 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "37.187.92.9:1041",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "netcup GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "151.241.221.165:8888",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Hostkey B.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "80.71.232.83:8082",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Spacecore Solution LTD",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "172.236.200.10:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Akamai Technologies, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "5.129.254.215:8888",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "JSC \"TIMEWEB\"",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "12.218.209.130:53281",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "154.21.89.32:12344",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "DMIT Cloud Services",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

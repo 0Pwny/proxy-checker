@@ -206373,5 +206373,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "109.194.199.198:10808",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Servers Tech Fzco",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "23.230.253.121:10808",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "LINVEO, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

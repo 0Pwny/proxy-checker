@@ -15889,3 +15889,10 @@
 {"proxy": "38.191.149.221:999", "country": "Mexico", "country_code": "MX", "isp": "GRIDNED", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "144.124.251.24:10816", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "38.210.179.4:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "201.7.31.60:8080", "country": "Turkey", "country_code": "TR", "isp": "High Speed For Internet Services L.L.C", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "87.215.14.228:65432", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "186.96.178.99:8081", "country": "Mexico", "country_code": "MX", "isp": "TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "79.59.124.55:8088", "country": "Italy", "country_code": "IT", "isp": "INTERBUSINES", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "180.149.44.182:3128", "country": "Azerbaijan", "country_code": "AZ", "isp": "G-Core Labs S.A.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "164.90.221.203:3128", "country": "Germany", "country_code": "DE", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "105.156.189.227:30001", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

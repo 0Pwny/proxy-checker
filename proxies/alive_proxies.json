@@ -207036,5 +207036,83 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "89.58.42.118:3129",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "netcup GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "159.89.239.204:10000",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "177.229.197.94:999",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Quantatel SA De CV",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "31.214.245.238:8080",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "ZAP-Hosting GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "109.205.61.251:10808",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "5.253.63.112:443",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Hostkey B.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

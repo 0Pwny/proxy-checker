@@ -207192,5 +207192,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.181.123.185:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "207.248.113.12:8080",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Redes y Comunicaciones de Michoacan S.A. de C.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "5.129.254.243:8888",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "JSC \"TIMEWEB\"",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

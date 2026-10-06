@@ -207153,5 +207153,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "43.173.120.13:8899",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "194.182.163.117:3128",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Akenes SA",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -56,7 +56,8 @@
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/PROXY_LIST.txt",
 
     "https://raw.githubusercontent.com/saschazesiger/Proxy-Grabber-and-Checker/main/Sources.txt", 
-    "https://raw.githubusercontent.com/WangYihang/Proxy-Verifier/main/sources.yaml" 
+    "https://raw.githubusercontent.com/WangYihang/Proxy-Verifier/main/sources.yaml",
+    "https://rcloak.com/api/proxies/raw?protocol=http"
   ],
   "https": [
     "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt",

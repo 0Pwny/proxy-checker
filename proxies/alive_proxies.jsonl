@@ -15942,3 +15942,12 @@
 {"proxy": "34.130.142.151:40001", "country": "Canada", "country_code": "CA", "isp": "Cloudflare, Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "51.222.32.203:3177", "country": "Brazil", "country_code": "BR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "104.36.237.230:8080", "country": "United States", "country_code": "US", "isp": "Northwest Open Access Network", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "181.78.80.220:999", "country": "Colombia", "country_code": "CO", "isp": "Ufinet Panama S.A.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "172.235.167.78:3128", "country": "The Netherlands", "country_code": "NL", "isp": "Akamai Technologies, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "187.201.225.188:999", "country": "Mexico", "country_code": "MX", "isp": "Uninet S.A. de C.V.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "102.244.78.61:8086", "country": "Cameroon", "country_code": "CM", "isp": "Orange CAM INTERNET", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "185.4.114.35:8080", "country": "The Netherlands", "country_code": "NL", "isp": "Ymor Network", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "179.1.196.133:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "102.244.78.61:8083", "country": "Cameroon", "country_code": "CM", "isp": "Orange CAM INTERNET", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "102.244.78.61:8088", "country": "Cameroon", "country_code": "CM", "isp": "Orange CAM INTERNET", "is_mobile": true, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.245.208.182:8080", "country": "Egypt", "country_code": "EG", "isp": "LINKdotNET AS number", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

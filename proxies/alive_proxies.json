@@ -207439,5 +207439,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "212.132.112.231:80",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "IONOS SE ber.de",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

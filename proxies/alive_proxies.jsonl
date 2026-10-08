@@ -15955,3 +15955,4 @@
 {"proxy": "178.128.40.78:8080", "country": "United Kingdom", "country_code": "GB", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "212.147.232.251:80", "country": "Finland", "country_code": "FI", "isp": "UpCloud Ltd", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "198.105.115.233:2000", "country": "Germany", "country_code": "DE", "isp": "YottaSrc", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "212.132.112.231:80", "country": "Germany", "country_code": "DE", "isp": "IONOS SE ber.de", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

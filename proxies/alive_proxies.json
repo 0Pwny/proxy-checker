@@ -207608,5 +207608,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "112.208.167.50:8082",
+    "country": "Philippines",
+    "country_code": "PH",
+    "isp": "Philippine Long Distance Telephone Co.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

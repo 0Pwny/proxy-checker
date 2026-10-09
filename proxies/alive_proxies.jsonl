@@ -15968,3 +15968,4 @@
 {"proxy": "46.23.166.161:1080", "country": "Finland", "country_code": "FI", "isp": "Elisa Oyj", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "192.119.102.215:1314", "country": "United States", "country_code": "US", "isp": "HostPapa", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "138.124.29.134:3128", "country": "Sweden", "country_code": "SE", "isp": "Aeza International LTD", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "112.208.167.50:8082", "country": "Philippines", "country_code": "PH", "isp": "Philippine Long Distance Telephone Co.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

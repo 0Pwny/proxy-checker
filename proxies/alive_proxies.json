@@ -207582,5 +207582,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "192.119.102.215:1314",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "HostPapa",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "138.124.29.134:3128",
+    "country": "Sweden",
+    "country_code": "SE",
+    "isp": "Aeza International LTD",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

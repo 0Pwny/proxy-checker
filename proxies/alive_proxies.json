@@ -207751,5 +207751,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "169.58.243.58:8082",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Contabo GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

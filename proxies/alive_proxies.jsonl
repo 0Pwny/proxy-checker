@@ -15979,3 +15979,4 @@
 {"proxy": "104.129.196.91:10000", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "165.225.56.170:12025", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "165.225.208.22:30001", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "169.58.243.58:8082", "country": "France", "country_code": "FR", "isp": "Contabo GmbH", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

@@ -207881,5 +207881,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "139.59.191.69:3128",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "DIGITALOCEAN",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

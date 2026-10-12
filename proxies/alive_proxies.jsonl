@@ -15990,3 +15990,7 @@
 {"proxy": "3.145.125.185:1001", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "104.129.203.244:8800", "country": "United States", "country_code": "US", "isp": "ZSCALER, INC.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "139.59.191.69:3128", "country": "United Kingdom", "country_code": "GB", "isp": "DIGITALOCEAN", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "185.171.202.73:8443", "country": "France", "country_code": "FR", "isp": "Dyjix SAS", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "181.119.177.229:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "147.161.246.47:8800", "country": "Switzerland", "country_code": "CH", "isp": "Zscaler ZRH1", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.93.94.227:3128", "country": "Israel", "country_code": "IL", "isp": "O.M.C. COMPUTERS & COMMUNICATIONS LTD", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

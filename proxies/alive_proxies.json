@@ -208024,5 +208024,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "167.99.3.26:8899",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "51.224.131.122:80",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "46.4.84.244:8088",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Hetzner Online GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "51.225.138.217:80",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

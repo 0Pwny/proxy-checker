@@ -208076,5 +208076,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "51.224.132.72:80",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Amazon.com, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -208349,5 +208349,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "23.236.65.144:8888",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Zenlayer Inc",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "200.35.34.134:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "23.95.197.107:3128",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "74.91.117.249:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Nuclearfallout Enterprises, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

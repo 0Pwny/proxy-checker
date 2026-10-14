@@ -208336,5 +208336,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "134.195.196.161:40000",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Cloudflare, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

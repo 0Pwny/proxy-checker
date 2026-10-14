@@ -208310,5 +208310,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "187.188.169.140:999",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "38.49.214.41:8080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -16069,3 +16069,12 @@
 {"proxy": "88.218.196.215:80", "country": "France", "country_code": "FR", "isp": "YottaSrc", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "47.237.12.129:8080", "country": "Singapore", "country_code": "SG", "isp": "Alibaba (US) Technology Co., Ltd.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "209.250.249.155:9000", "country": "The Netherlands", "country_code": "NL", "isp": "GTT Communications Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.65.224.74:999", "country": "Argentina", "country_code": "AR", "isp": "Solution LAN S.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "91.107.247.193:7001", "country": "Germany", "country_code": "DE", "isp": "Hetzner Online AG", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "141.11.132.201:3128", "country": "Hong Kong", "country_code": "HK", "isp": "Polonetwork Limited", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "165.22.120.211:80", "country": "United Kingdom", "country_code": "GB", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "141.101.196.63:1080", "country": "Russia", "country_code": "RU", "isp": "Vichislitelniy Centr Ltd.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "144.126.196.103:3128", "country": "United Kingdom", "country_code": "GB", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "77.244.209.107:3128", "country": "Russia", "country_code": "RU", "isp": "SELECTEL", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "141.147.100.148:3128", "country": "United Kingdom", "country_code": "GB", "isp": "Oracle Corporation", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "185.205.210.154:8102", "country": "Czechia", "country_code": "CZ", "isp": "Voxility LLP", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

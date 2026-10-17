@@ -16094,3 +16094,8 @@
 {"proxy": "45.81.234.9:8888", "country": "Germany", "country_code": "DE", "isp": "M247 Europe SRL", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "193.181.35.205:8118", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "144.76.85.242:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "50.110.229.125:8118", "country": "United States", "country_code": "US", "isp": "Frontier Communications Solutions", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "2.56.88.137:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "137.74.50.101:15054", "country": "France", "country_code": "FR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "194.67.120.148:10808", "country": "Sweden", "country_code": "SE", "isp": "UAB Cherry Servers", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "163.245.222.247:3128", "country": "United States", "country_code": "US", "isp": "Interserver, Inc", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

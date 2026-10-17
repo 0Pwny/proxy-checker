@@ -209207,5 +209207,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.81.234.9:8888",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "M247 Europe SRL",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

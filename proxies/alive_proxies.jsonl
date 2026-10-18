@@ -16113,3 +16113,5 @@
 {"proxy": "168.227.239.66:10000", "country": "Brazil", "country_code": "BR", "isp": "BRASIL TECPAR | AMIGO | AVATO", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "104.129.206.36:11724", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "165.225.222.47:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "104.161.23.122:5012", "country": "United States", "country_code": "US", "isp": "The Park Region Mutual Telephone Co", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "62.146.180.4:3000", "country": "United States", "country_code": "US", "isp": "Contabo Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

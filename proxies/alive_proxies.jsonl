@@ -16128,3 +16128,7 @@
 {"proxy": "20.120.228.244:8080", "country": "United States", "country_code": "US", "isp": "Microsoft Corporation", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "190.110.35.60:999", "country": "Dominican Republic", "country_code": "DO", "isp": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "169.58.34.213:3130", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "206.135.62.8:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "161.22.33.213:999", "country": "Venezuela", "country_code": "VE", "isp": "THUNDERNET, C.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "190.167.38.11:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "192.133.66.174:8081", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

@@ -209311,5 +209311,109 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "38.191.204.21:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "51.15.20.32:3129",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "SCALEWAY",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.47:11273",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "103.137.193.55:8888",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "LLC \"HOSTOFF CSL\"",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "68.183.79.30:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.47:10230",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "91.238.104.175:8080",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "isp": "FOP \"Reznichenko Sergey Mykolayovich\"",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "147.161.246.47:11358",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "isp": "Zscaler ZRH1",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -210117,5 +210117,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "45.139.85.2:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Cloudflare, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

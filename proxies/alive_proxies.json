@@ -210130,5 +210130,44 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "191.252.196.208:8889",
+    "country": "Brazil",
+    "country_code": "BR",
+    "isp": "Locaweb Serviços de Internet S/A",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "186.5.94.216:8888",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "158.220.80.184:3129",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "isp": "Contabo GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

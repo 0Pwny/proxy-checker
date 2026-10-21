@@ -210169,5 +210169,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "41.33.60.42:8081",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "154.88.137.50:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "41.33.126.136:1981",
+    "country": "Egypt",
+    "country_code": "EG",
+    "isp": "TE Data",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "158.69.49.179:8080",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "OVH SAS",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "64.44.24.201:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Nexeon Technologies, Inc.",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -210286,5 +210286,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "23.185.168.181:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Fastnet Data Inc",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "31.76.42.91:3128",
+    "country": "Finland",
+    "country_code": "FI",
+    "isp": "Chsl ONE LTD",
+    "is_mobile": true,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

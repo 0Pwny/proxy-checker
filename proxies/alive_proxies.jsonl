@@ -16201,3 +16201,40 @@
 {"proxy": "46.30.245.153:8080", "country": "Italy", "country_code": "IT", "isp": "Serverplan s.r.l.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "167.99.3.26:8085", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "194.182.187.78:3128", "country": "Austria", "country_code": "AT", "isp": "Akenes SA", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "52.23.216.50:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "159.65.82.222:80", "country": "United Kingdom", "country_code": "GB", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "92.63.225.173:3128", "country": "United States", "country_code": "US", "isp": "HIVELOCITY, Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "64.225.76.225:8080", "country": "The Netherlands", "country_code": "NL", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "159.65.204.52:3128", "country": "The Netherlands", "country_code": "NL", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "192.241.146.152:3128", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "72.241.55.239:8080", "country": "United States", "country_code": "US", "isp": "Buckeye Cablevision, Inc.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "167.99.8.113:8006", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "46.4.78.103:3128", "country": "Germany", "country_code": "DE", "isp": "Hetzner Online GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "98.89.167.101:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "142.93.32.122:80", "country": "United Kingdom", "country_code": "GB", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "178.62.119.20:443", "country": "United Kingdom", "country_code": "GB", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "64.23.232.59:3128", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "46.101.63.28:443", "country": "United Kingdom", "country_code": "GB", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "165.22.202.62:8080", "country": "The Netherlands", "country_code": "NL", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "104.248.88.41:3128", "country": "The Netherlands", "country_code": "NL", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "54.198.155.110:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "46.101.7.194:80", "country": "United Kingdom", "country_code": "GB", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "3.80.239.73:3128", "country": "United States", "country_code": "US", "isp": "Amazon Technologies Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "38.210.179.8:999", "country": "Mexico", "country_code": "MX", "isp": "Jair Lozano / Intercom Internet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "167.71.5.198:8080", "country": "The Netherlands", "country_code": "NL", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "167.99.197.36:80", "country": "United Kingdom", "country_code": "GB", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "172.212.125.72:3128", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "54.157.177.34:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "188.166.98.134:3128", "country": "The Netherlands", "country_code": "NL", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "209.97.141.133:80", "country": "United Kingdom", "country_code": "GB", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "68.183.11.245:3128", "country": "The Netherlands", "country_code": "NL", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "149.2.83.248:999", "country": "Dominican Republic", "country_code": "DO", "isp": "TELECABLE DOMINICANO, S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "54.153.26.143:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "206.189.119.110:3128", "country": "United Kingdom", "country_code": "GB", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.189.252.245:999", "country": "Mexico", "country_code": "MX", "isp": "Tracered SA De CV", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "187.0.36.2:8080", "country": "Brazil", "country_code": "BR", "isp": "Webnet Internet", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "3.15.173.42:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "164.92.163.66:3128", "country": "Germany", "country_code": "DE", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "157.230.179.200:3128", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "198.211.102.241:3128", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "3.19.55.34:3128", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

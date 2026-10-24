@@ -211248,5 +211248,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "167.99.8.113:8017",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

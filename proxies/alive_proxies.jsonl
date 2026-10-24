@@ -16248,3 +16248,4 @@
 {"proxy": "167.99.3.26:7080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "167.99.3.26:8448", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "47.254.244.78:8080", "country": "Malaysia", "country_code": "MY", "isp": "Alibaba Cloud LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "167.99.8.113:8017", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}

@@ -211274,5 +211274,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "167.99.3.26:6080",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

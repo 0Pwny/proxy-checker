@@ -211885,5 +211885,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "185.21.10.126:3128",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "185.204.168.16:3128",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Arvancloud Global Technologies L.L.C",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

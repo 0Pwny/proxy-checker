@@ -212015,5 +212015,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "209.38.38.125:3128",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "DigitalOcean, LLC",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "167.99.3.26:10818",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

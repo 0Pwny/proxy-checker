@@ -16352,3 +16352,4 @@
 {"proxy": "143.255.86.212:999", "country": "Venezuela", "country_code": "VE", "isp": "Viginet C.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "80.71.152.11:3128", "country": "The Netherlands", "country_code": "NL", "isp": "GLB Bulut Teknolojisi Limited Sirketi", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "45.189.57.114:3129", "country": "Ecuador", "country_code": "EC", "isp": "Cbvision S.A.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "190.97.226.89:999", "country": "Venezuela", "country_code": "VE", "isp": "Viginet C.A", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}

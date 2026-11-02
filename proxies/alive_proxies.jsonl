@@ -16389,3 +16389,8 @@
 {"proxy": "204.13.233.74:3128", "country": "United States", "country_code": "US", "isp": "Interserver, Inc", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "154.73.28.89:8080", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "159.65.195.221:3128", "country": "The Netherlands", "country_code": "NL", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "147.161.246.35:10806", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "147.161.246.35:11692", "country": "Switzerland", "country_code": "CH", "isp": "Zscaler ZRH1", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "147.161.246.35:10810", "country": "Switzerland", "country_code": "CH", "isp": "Zscaler ZRH1", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "147.161.246.35:9443", "country": "Switzerland", "country_code": "CH", "isp": "Zscaler ZRH1", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "147.161.246.35:80", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

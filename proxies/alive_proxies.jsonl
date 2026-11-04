@@ -16408,3 +16408,10 @@
 {"proxy": "142.93.65.222:3129", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "24.144.86.14:80", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "155.138.236.211:18080", "country": "United States", "country_code": "US", "isp": "The Constant Company", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "89.43.132.197:8080", "country": "Syria", "country_code": "SY", "isp": "High Speed For Internet Services L.L.C", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "45.149.24.19:8088", "country": "Turkey", "country_code": "TR", "isp": "High Speed For Internet Services L.L.C", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "109.120.141.72:443", "country": "The Netherlands", "country_code": "NL", "isp": "Iron Hosting Centre LTD", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.9.72.212:2080", "country": "Finland", "country_code": "FI", "isp": "First Server Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "131.196.50.128:8080", "country": "Brazil", "country_code": "BR", "isp": "Portal.com STI eirele", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "80.65.211.149:8888", "country": "Finland", "country_code": "FI", "isp": "xorek.cloud International LTD", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "38.56.251.27:999", "country": "Mexico", "country_code": "MX", "isp": "Asespri Ethernet", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}

@@ -214940,5 +214940,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "47.87.9.77:443",
+    "country": "Mexico",
+    "country_code": "MX",
+    "isp": "Alibaba.com LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "204.199.106.226:999",
+    "country": "Colombia",
+    "country_code": "CO",
+    "isp": "CTL Colombia",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

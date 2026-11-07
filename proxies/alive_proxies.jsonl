@@ -16522,3 +16522,8 @@
 {"proxy": "147.161.246.37:18080", "country": "Switzerland", "country_code": "CH", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "147.161.246.37:10792", "country": "Switzerland", "country_code": "CH", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "147.161.246.37:10476", "country": "Switzerland", "country_code": "CH", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "147.161.246.246:11914", "country": "Switzerland", "country_code": "CH", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "147.161.246.246:10000", "country": "Switzerland", "country_code": "CH", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "147.161.246.246:10483", "country": "Switzerland", "country_code": "CH", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "147.161.246.246:10228", "country": "Switzerland", "country_code": "CH", "isp": "Zscaler Switzerland GmbH", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "138.124.53.81:8080", "country": "Germany", "country_code": "DE", "isp": "Aeza Group LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

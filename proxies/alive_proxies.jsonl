@@ -16553,3 +16553,9 @@
 {"proxy": "187.245.202.17:999", "country": "Mexico", "country_code": "MX", "isp": "Mega Cable, S.A. de C.V.", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "3.137.211.42:1001", "country": "United States", "country_code": "US", "isp": "Amazon.com, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "38.191.194.27:999", "country": "Colombia", "country_code": "CO", "isp": "TV&MÁS S.A.S", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "69.166.8.100:3128", "country": "United States", "country_code": "US", "isp": "AxcelX Technologies LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "194.195.214.40:8888", "country": "United States", "country_code": "US", "isp": "Akamai Technologies, Inc.", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "45.167.126.43:999", "country": "Colombia", "country_code": "CO", "isp": "Sepcom Comunicaciones SAS", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "79.127.223.34:8001", "country": "United States", "country_code": "US", "isp": "PacketHub S.A.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "190.26.255.30:999", "country": "Colombia", "country_code": "CO", "isp": "ETB - Colombia", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "206.135.53.53:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}

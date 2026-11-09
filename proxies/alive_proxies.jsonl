@@ -16559,3 +16559,7 @@
 {"proxy": "79.127.223.34:8001", "country": "United States", "country_code": "US", "isp": "PacketHub S.A.", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "190.26.255.30:999", "country": "Colombia", "country_code": "CO", "isp": "ETB - Colombia", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
 {"proxy": "206.135.53.53:999", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
+{"proxy": "197.164.101.10:1981", "country": "Egypt", "country_code": "EG", "isp": "Link Egypt (Link.NET)", "is_mobile": false, "is_proxy": true, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "149.86.142.224:8080", "country": "Türkiye", "country_code": "TR", "isp": "Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "193.33.157.195:8080", "country": "United Kingdom", "country_code": "GB", "isp": "Layershift Limited", "is_mobile": false, "is_proxy": false, "is_hosting": false, "supports": ["http", "https"]}
+{"proxy": "80.76.33.237:3128", "country": "Germany", "country_code": "DE", "isp": "First Server Limited", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

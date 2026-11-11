@@ -16574,3 +16574,4 @@
 {"proxy": "176.31.223.21:3128", "country": "France", "country_code": "FR", "isp": "OVH SAS", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}
 {"proxy": "167.99.3.26:6117", "country": null, "country_code": null, "isp": null, "is_mobile": null, "is_proxy": null, "is_hosting": null, "supports": ["http", "https"]}
 {"proxy": "146.70.233.11:9443", "country": "France", "country_code": "FR", "isp": "M247 Europe Infra", "is_mobile": false, "is_proxy": true, "is_hosting": true, "supports": ["http", "https"]}
+{"proxy": "91.107.186.23:8081", "country": "United States", "country_code": "US", "isp": "DigitalOcean, LLC", "is_mobile": false, "is_proxy": false, "is_hosting": true, "supports": ["http", "https"]}

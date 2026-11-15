@@ -215798,5 +215798,18 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "104.129.203.244:10933",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "ZSCALER, INC.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

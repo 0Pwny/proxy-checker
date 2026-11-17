@@ -215850,5 +215850,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "172.105.8.251:8080",
+    "country": "Canada",
+    "country_code": "CA",
+    "isp": "Akamai Technologies",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "49.13.48.65:8443",
+    "country": "Germany",
+    "country_code": "DE",
+    "isp": "Hetzner Online GmbH",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

@@ -216760,5 +216760,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "3.107.80.153:3128",
+    "country": "Australia",
+    "country_code": "AU",
+    "isp": "Amazon Technologies Inc.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "172.232.155.226:8118",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

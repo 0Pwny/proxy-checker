@@ -216786,5 +216786,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "79.106.229.208:8989",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "190.110.36.184:999",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "isp": "CENTRIC MOBILITY (CEMO), S.R.L",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

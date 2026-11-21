@@ -216812,5 +216812,70 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "95.81.92.173:3128",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "Scalaxy B.V.",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "190.102.146.98:10101",
+    "country": "Peru",
+    "country_code": "PE",
+    "isp": "TDP-GRS",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "198.251.85.115:3128",
+    "country": "Australia",
+    "country_code": "AU",
+    "isp": "RouterHosting LLC",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "89.46.131.79:10000",
+    "country": "The Netherlands",
+    "country_code": "NL",
+    "isp": "Clodo Cloud Service CO. L.L.C",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "186.96.72.103:999",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "isp": "Gold Data USA Inc",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

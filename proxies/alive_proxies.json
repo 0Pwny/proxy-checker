@@ -217098,5 +217098,57 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "107.181.112.136:8443",
+    "country": "United States",
+    "country_code": "US",
+    "isp": "DedFiberCo",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "46.183.21.158:4444",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "193.124.33.31:2052",
+    "country": "Russia",
+    "country_code": "RU",
+    "isp": "Baykov Ilya Sergeevich",
+    "is_mobile": false,
+    "is_proxy": true,
+    "is_hosting": false,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "190.97.249.30:999",
+    "country": null,
+    "country_code": null,
+    "isp": null,
+    "is_mobile": null,
+    "is_proxy": null,
+    "is_hosting": null,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]

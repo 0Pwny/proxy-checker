@@ -217358,5 +217358,31 @@
       "http",
       "https"
     ]
+  },
+  {
+    "proxy": "173.212.207.102:1214",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Contabo GmbH",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
+  },
+  {
+    "proxy": "130.110.248.83:8080",
+    "country": "France",
+    "country_code": "FR",
+    "isp": "Oracle Corporation",
+    "is_mobile": false,
+    "is_proxy": false,
+    "is_hosting": true,
+    "supports": [
+      "http",
+      "https"
+    ]
   }
 ]
